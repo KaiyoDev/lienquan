@@ -78,7 +78,7 @@ class NewsCrawler:
                     try:
                         pub_date = datetime.fromisoformat(published_iso.replace('Z', '+00:00'))
                         now = datetime.now(pub_date.tzinfo) if pub_date.tzinfo else datetime.now()
-                        if pub_date < now - timedelta(days=7):
+                        if pub_date < now - timedelta(days=30):
                             continue
                     except Exception as e:
                         print(f"Date parsing error: {e}")
@@ -168,7 +168,7 @@ class NewsCrawler:
         
         # Method 1: Try to fetch og:image from the article URL
         link = entry.get('link', '')
-        if link and not link.includes('example.com') if hasattr(link, 'includes') else (link and 'example.com' not in link):
+        if link and 'example.com' not in link:
             try:
                 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
                 # Use a fast timeout (3 seconds) to avoid blocking the crawler
