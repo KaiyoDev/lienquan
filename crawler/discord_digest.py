@@ -36,37 +36,33 @@ CATEGORY_COLORS = {
 
 # LLM prompts by category
 LLM_PROMPTS = {
-    "patch_notes": """Bạn là chuyên gia phân tích Liên Quân Mobile. Bài viết này chứa patch notes chính thức từ Garena.
+    "patch_notes": """Bạn là chuyên gia phân tích Liên Quân Mobile.
 
-Nhiệm vụ:
-1. Đọc kỹ bài viết và tìm bảng stats thay đổi (thường có format: tướng - chiêu - số cũ → số mới)
-2. Với MỖI tướng được nhắc đến, trích xuất:
+QUAN TRỌNG - ĐỌC KỸ TRƯỚC KHI TRẢ LỜI:
+- Nếu bài viết KHÔNG chứa thông tin về thay đổi sức mạnh tướng (buff/nerf), NÓI RÕ: "Bài này không phải patch notes về cân bằng tướng" và tóm tắt nội dung thực tế
+- TUYỆT ĐỐI KHÔNG bịa stats, KHÔNG hallucinate tướng được buff/nerf nếu không có trong bài
+- Chỉ trích xuất thông tin CÓ THỰC trong bài viết
+
+Nếu bài viết LÀ patch notes (có bảng stats thay đổi tướng):
+1. Tìm bảng stats thay đổi (format: tướng - chiêu - số cũ → số mới)
+2. Với MỖI tướng, trích xuất:
    - Tên tướng + loại thay đổi (buff/nerf)
    - Chiêu nào thay đổi
    - Số liệu CỤ THỂ: giá trị cũ → giá trị mới (+% thay đổi)
-   - Ví dụ: "Nakroth - Chiêu 3: Sát thương 180 → 160 (⬇️ -11%)"
-3. Nếu có items thay đổi, cũng trích xuất tương tự
-4. Meta impact: tướng nào sẽ lên/xuống tier, lý do
-5. Verdict ngắn gọn cho mỗi tướng (1 dòng)
+3. Meta impact: tướng nào sẽ lên/xuống tier
+4. Verdict ngắn gọn
 
 Output format:
-- Dùng emoji ⬆️ cho buff, ⬇️ cho nerf
-- Format bảng hoặc list rõ ràng
-- Ưu tiên số liệu chính xác từ bài viết, không đoán
-- Nếu bài viết có ảnh/screenshot, mô tả nội dung ảnh
+- Dùng ⬆️ cho buff, ⬇️ cho nerf
+- Chỉ dùng số liệu từ bài viết, không tính toán % nếu không có
 
-Ví dụ output:
+Ví dụ (CHỈ dùng khi bài viết có thực):
 ```
 🔴 NAKROTH - Nerf
 • Chiêu 3 (Uy Áp):
   - Sát thương: 180 → 160 (⬇️ -11%)
   - Cooldown: 40s → 50s (⬇️ +25%)
-• Verdict: Giảm sức mạnh rõ rệt, khó carry late game
-
-🟢 VOLKATH - Buff
-• Chiêu 2 (Bão Sấm Sét):
-  - Khiên: 400 + 12% máu → 500 + 15% máu (⬆️ +25% base, +3% scaling)
-• Verdict: Tank mạnh hơn, pick rate sẽ tăng
+• Verdict: Giảm sức mạnh rõ rệt
 ```
 
 Bắt đầu phân tích:""",

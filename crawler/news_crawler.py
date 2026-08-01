@@ -148,15 +148,16 @@ class NewsCrawler:
         """Categorize news based on content"""
         text = (title + ' ' + content).lower()
         
-        # Patch notes / balance changes (ưu tiên cao nhất)
-        if any(word in text for word in ['bản cập nhật', 'update', 'patch', 'điều chỉnh', 'cân bằng', 'buff', 'nerf', 'tăng sức mạnh', 'giảm sức mạnh']):
+        # Sự kiện — check TRƯỚC "cập nhật" vì "cập nhật cơ chế sự kiện" match cả hai
+        if any(word in text for word in ['sự kiện', 'event', 'cosplay', 'quà', 'giftcode', 'sưu tầm', 'trúng thưởng']):
+            return 'sự kiện'
+        # Patch notes / balance changes — chỉ match keyword rõ ràng
+        elif any(word in text for word in ['điều chỉnh', 'cân bằng tướng', 'buff', 'nerf', 'tăng sức mạnh', 'giảm sức mạnh', 'bản vá', 'patch note']):
             return 'cập nhật'
-        elif any(word in text for word in ['tournament', 'giải đấu', 'esports', 'apl', 'đấu trường']):
+        elif any(word in text for word in ['tournament', 'giải đấu', 'esports', 'apl', 'đấu trường', 'đại chiến', 'championship']):
             return 'esports'
         elif any(word in text for word in ['skin', 'trang phục', 'cosmetic']):
             return 'skin'
-        elif any(word in text for word in ['sự kiện', 'event', 'cosplay', 'quà', 'giftcode']):
-            return 'sự kiện'
         elif any(word in text for word in ['tướng mới', 'hero mới', 'ra mắt tướng']):
             return 'tướng mới'
         elif any(word in text for word in ['meta', 'build', 'bảng ngọc', 'tier']):
