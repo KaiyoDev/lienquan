@@ -38,6 +38,11 @@ CATEGORY_COLORS = {
 LLM_PROMPTS = {
     "patch_notes": """Viết game news cho Liên Quân Mobile patch notes.
 
+STYLE: Linh hoạt, tự biến tấu tùy nội dung
+- Đọc bài viết và chọn format phù hợp nhất
+- Có thể dùng: ⬆️⬇️, 🔴🟢, ▼//, hoặc format khác
+- KHÔNG bắt buộc theo template cứng
+
 QUAN TRỌNG:
 - Nếu KHÔNG có buff/nerf tướng, nói rõ và tóm tắt nội dung thực
 - KHÔNG bịa stats, KHÔNG hallucinate
@@ -45,108 +50,97 @@ QUAN TRỌNG:
 
 Nếu có patch notes buff/nerf:
 - Liệt kê từng tướng bị thay đổi
-- Stats: cũ → mới + % thay đổi
-- Dùng ⬆️⬇️ cho buff/nerf
+- Stats: cũ → mới + % thay đổi (nếu có số liệu)
 - Giải thích impact ngắn gọn
 - Meta prediction (nếu có)
 
-FORMAT:
-- Tiêu đề mỗi tướng: 🔴/🟢 [TÊN] - [Vai trò]
-- Bullet points cho stats
-- Ngôn ngữ gamer, ngắn gọn
-- Max 1500 từ
+GỢI Ý (tham khảo, không bắt buộc):
+🔴/🟢 **[TÊN TƯỚNG]** - [Vai trò]
+• [Chiêu thức]: [Stat cũ] → [Stat mới]
+• Impact: [Giải thích ngắn]
+• Meta: [Prediction]
 
-Ví dụ:
-🔴 NAKROTH - Assassin
-• Chiêu 3 (Ulti):
-  - Sát thương: 180 → 160 (⬇️ -11%)
-  - Cooldown: 40s → 50s (⬇️ +25%)
-• Impact: Burst yếu hơn, khó carry late
-• Meta: S → A, switch Volkath/Murad""",
+Ngôn ngữ: Gamer style, ngắn gọn, max 1500 từ""",
 
     "esports": """Viết esports news cho Liên Quân Mobile.
 
-NỘI DUNG:
+STYLE: Excitement cao, tự biến tấu tùy trận đấu
+- Đọc bài viết và chọn format phù hợp nhất
+- Có thể dùng: 🏆⭐🔥📊, hoặc emoji khác
+- KHÔNG bắt buộc theo template cứng
+
+GỢI Ý NỘI DUNG (tùy chọn):
 - Giải đấu, vòng đấu
 - 2 đội + tỷ số
-- MVP + KDA nổi bật
-- Tướng pick/ban quan trọng
-- Highlights (3-5 moments)
-- Meta impact
+- MVP + KDA nổi bật (nếu có)
+- Tướng pick/ban quan trọng (nếu có)
+- Highlights (nếu có)
+- Meta impact (nếu có)
 
-FORMAT:
-- 🏆 KẾT QUẢ: [Đội A] vs [Đội B] - [Tỷ số]
-- ⭐ MVP: [Tên] - [KDA]
-- 🔥 HIGHLIGHTS: Bullet points
-- 📊 META IMPACT: Tướng nào hot/flop
+GỢI Ý FORMAT (tham khảo, không bắt buộc):
+🏆 **[Giải đấu/Vòng đấu]**
+**[Đội A] vs [Đội B]** - [Tỷ số]
 
-Ngôn ngữ: Excitement cao, ngắn gọn, max 1200 từ.""",
+[Section phù hợp với nội dung]
+
+Ngôn ngữ: Excitement cao, ngắn gọn, max 1200 từ""",
 
     "skin": """Viết skin review cho Liên Quân Mobile.
 
-NỘI DUNG:
-- Tên skin + tướng + tier + giá
+STYLE: Reviewer style, tự biến tấu tùy skin
+- Đọc bài viết và chọn format phù hợp nhất
+- Có thể dùng: ✨🎨⚡✅❌🎯, hoặc emoji khác
+- KHÔNG bắt buộc theo template cứng
+
+GỢI Ý NỘI DUNG (tùy chọn):
+- Tên skin + tướng + tier + giá (nếu có)
 - Thiết kế tổng quan
-- Hiệu ứng từng chiêu (Q/W/E/R)
+- Hiệu ứng từng chiêu (nếu có thông tin)
 - Voice lines (nếu có)
 - Pros/Cons
 - Verdict: đáng mua không?
 
-FORMAT:
-✨ [TÊN SKIN] - [Tướng] - [Tier]
-💰 Giá: [X Quân Huy]
+GỢI Ý FORMAT (tham khảo, không bắt buộc):
+✨ **[TÊN SKIN]** - [Tướng]
 
-🎨 THIẾT KẾ:
-[Mô tả ngắn]
+[Section phù hợp với nội dung]
 
-⚡ HIỆU ỨNG:
-• Chiêu 1: [Mô tả]
-• Chiêu 2: [Mô tả]
-• Chiêu 3: [Mô tả]
-• Ulti: [Mô tả]
-
-✅ PROS: [Bullet points]
-❌ CONS: [Bullet points]
-
-🎯 VERDICT: [X/10] - [Đáng mua cho ai?]
-
-Ngôn ngữ: Reviewer style, max 1000 từ.""",
+Ngôn ngữ: Reviewer style, max 1000 từ""",
 
     "event": """Thông báo sự kiện Liên Quân Mobile.
 
-CHỈ THÔNG BÁO, KHÔNG PHÂN TÍCH:
-- Tên sự kiện + thời gian
-- Phần thưởng (chỉ liệt kê, không tính toán)
-- Cách tham gia (ngắn gọn)
-- Lưu ý quan trọng
+STYLE: Formal, clean - biến tấu linh hoạt tùy nội dung
+- Đọc bài viết và tự chọn format phù hợp nhất
+- Có thể dùng: ▼//, 📅, 🎁, hoặc emoji khác tùy ngữ cảnh
+- KHÔNG bắt buộc theo template cứng
+- Chỉ liệt kê thông tin, KHÔNG phân tích
 
-FORMAT:
-🎉 **[TÊN SỰ KIỆN]**
+GỢI Ý FORMAT (tham khảo, không bắt buộc):
+🎉 **[TÊN SỰ KIỆN]** [đã ra mắt/sắp diễn ra/etc]!
 
-📅 **Thời gian:** [Ngày bắt đầu] - [Ngày kết thúc]
+▼// **[Section 1]**
+[Nội dung]
 
-🎁 **Phần thưởng:**
-• [Reward 1]
-• [Reward 2]
-• [Reward 3]
+▼// **[Section 2]**
+[Nội dung]
 
-📝 **Cách tham gia:**
-[Bullet points ngắn]
-
-⚠️ **Lưu ý:**
-• [Note 1]
-• [Note 2]
+※ [Lưu ý nếu có]
 
 QUAN TRỌNG:
-- KHÔNG phân tích tỷ lệ, chi phí, xác suất
-- KHÔNG tính toán "chi phí ước tính", "pity tại lượt thứ mấy"
-- CHỈ thông báo thông tin chính thức từ bài viết
-- Max 500 từ, ngắn gọn
+- Tự biến tấu format cho phù hợp nội dung
+- Formal tone, professional
+- KHÔNG phân tích, tính toán tỷ lệ/chi phí
+- Max 400 từ
 """
 
     "new_hero": """Viết hero guide cho Liên Quân Mobile.
 
-NỘI DUNG:
+STYLE: Guide style, tự biến tấu tùy tướng
+- Đọc bài viết và chọn format phù hợp nhất
+- Có thể dùng: ⚔️🎯💥📊🔧📈, hoặc emoji khác
+- KHÔNG bắt buộc theo template cứng
+
+GỢI Ý NỘI DUNG (tùy chọn):
 - Tên tướng + vai trò + lane
 - Độ khó
 - Bộ kỹ năng (Passive + 4 chiêu)
@@ -155,94 +149,84 @@ NỘI DUNG:
 - Build khuyên dùng
 - Tier prediction
 
-FORMAT:
-⚔️ [TÊN TƯỚNG] - [Vai trò] - [Lane]
+GỢI Ý FORMAT (tham khảo, không bắt buộc):
+⚔️ **[TÊN TƯỚNG]** - [Vai trò]
 
-📊 THÔNG TIN:
-• Độ khó: ⭐⭐⭐ (3/5)
-• Giá: [X Vàng/Quân Huy]
+[Section phù hợp với nội dung]
 
-🎯 BỘ KỸ NĂNG:
-• Nội tại: [Mô tả ngắn]
-• Chiêu 1: [Mô tả ngắn]
-• Chiêu 2: [Mô tả ngắn]
-• Chiêu 3: [Mô tả ngắn]
-• Ulti: [Mô tả ngắn]
+Ngôn ngữ: Guide style, chi tiết, max 1500 từ""",
 
-💥 COMBOS:
-• Basic: [Chiêu 1] → [Chiêu 2] → [Ulti]
-• Advanced: [Mô tả]
+    "meta": """Phân tích meta Liên Quân Mobile.
 
-🛡️ COUNTERS: [Tướng 1], [Tướng 2], [Tướng 3]
-🤝 SYNERGIES: [Tướng 1], [Tướng 2], [Tướng 3]
+STYLE: Analytical, tự biến tấu tùy nội dung
+- Đọc bài viết và chọn format phù hợp nhất
+- Có thể dùng: 📊🟢🔴📈💡🔮, hoặc emoji khác
+- KHÔNG bắt buộc theo template cứng
 
-🔧 BUILD:
-• Ngọc: [Mô tả]
-• Items: [List 6 items]
-• Phép bổ trợ: [Tên]
-
-📈 TIER: [S/A/B/C] - [Lý do]
-
-Ngôn ngữ: Pro player guide, max 1200 từ.""",
-
-    "meta": """Viết meta analysis cho Liên Quân Mobile.
-
-NỘI DUNG:
-- Tóm tắt tin tức
-- Impact đến meta
-- Tướng bị ảnh hưởng
-- Action items cho player
+GỢI Ý NỘI DUNG (tùy chọn):
+- Tướng nào đang mạnh/yếu
+- Lý do (buff/nerf, item mới, chiến thuật)
+- Meta shifts (thay đổi so với trước)
+- Khuyến nghị pick/ban
 - Predictions
 
-FORMAT:
-📊 [TIÊU ĐỀ TIN TỨC]
+GỢI Ý FORMAT (tham khảo, không bắt buộc):
+📊 **META ANALYSIS**
 
-📰 TÓM TẮT:
-[2-3 câu tóm tắt]
+[Section phù hợp với nội dung]
 
-🎯 META IMPACT:
-• Tướng tăng: [List + lý do]
-• Tướng giảm: [List + lý do]
-• Chiến thuật: [Ảnh hưởng]
+Ngôn ngữ: Analytical, max 1200 từ""",
 
-💡 ACTION ITEMS:
-• Ngay: [Làm gì]
-• Tuần này: [Làm gì]
-• Tháng này: [Làm gì]
+    "general": """Thông báo tin tức chung cho Liên Quân Mobile.
 
-🔮 PREDICTIONS:
-• Meta sẽ: [Thay đổi thế nào]
-• Chuẩn bị: [Nên làm gì]
+STYLE: Casual, friendly - biến tấu linh hoạt tùy nội dung
+- Đọc bài viết và tự chọn format phù hợp nhất
+- Có thể dùng: 📰, 📅, 🎮, ⚡, 💡, hoặc emoji khác
+- KHÔNG bắt buộc theo template cứng
+- Tự quyết định cần bao nhiêu section, tên gì
 
-Ngôn ngữ: Analyst style, ngắn gọn, max 1000 từ.""",
+GỢI Ý (tham khảo, không bắt buộc):
+📰 **[TÊN TIN TỨC]**
 
-    "general": """Thông báo tin tức Liên Quân Mobile.
+[Mô tả ngắn]
 
-CHỈ THÔNG BÁO, KHÔNG PHÂN TÍCH:
-- Tóm tắt nội dung chính (2-3 câu)
-- Thông tin quan trọng (bullet points)
-- Thời gian/địa điểm (nếu có)
-- Lưu ý (nếu có)
+[Section 1 - tên tùy chọn]
+[Nội dung]
 
-FORMAT:
-📰 **[TIÊU ĐỀ]**
-
-[Mô tả ngắn 2-3 câu]
-
-🔍 **Chi tiết:**
-• [Point 1]
-• [Point 2]
-• [Point 3]
-
-📅 **Thời gian:** [Nếu có]
-
-⚠️ **Lưu ý:** [Nếu có]
+[Section 2 - nếu cần]
+[Nội dung]
 
 QUAN TRỌNG:
-- KHÔNG dùng từ "PHÂN TÍCH", "ANALYSIS", "ĐÁNH GIÁ"
-- KHÔNG tính toán, dự đoán, suy luận
-- CHỈ thông báo thông tin từ bài viết
-- Max 500 từ, ngắn gọn
+- Tự biến tấu format cho phù hợp nội dung
+- Casual tone, friendly
+- KHÔNG phân tích sâu
+- Max 400 từ
+""",
+
+    "event_analysis": """Phân tích chi tiết sự kiện Liên Quân Mobile (reply message).
+
+STYLE: Analytical, tự biến tấu tùy sự kiện
+- Đọc bài viết và chọn format phù hợp nhất
+- Có thể dùng: 📊💰🎲💡⚖️🎯, hoặc emoji khác
+- KHÔNG bắt buộc theo template cứng
+
+GỢI Ý NỘI DUNG (tùy chọn):
+- Phân tích tỷ lệ/quay (nếu có số liệu)
+- Tính toán chi phí ước tính (nếu có thể)
+- Pity system (nếu có)
+- Free pulls/cách tối ưu
+- Tips cho người chơi
+- So sánh với sự kiện trước (nếu biết)
+
+GỢI Ý FORMAT (tham khảo, không bắt buộc):
+📊 **PHÂN TÍCH: [TÊN SỰ KIỆN]**
+
+[Section phù hợp với nội dung]
+
+QUAN TRỌNG:
+- Phân tích dựa trên số liệu từ bài viết
+- Nếu bài viết không có số liệu, ghi rõ "Bài viết không cung cấp số liệu cụ thể"
+- Max 800 từ
 """
 }
 
@@ -387,12 +371,17 @@ def build_embed(news_item, summary):
     return {'embeds': [embed]}
 
 
-def post_to_discord(webhook_url, payload):
+def post_to_discord(webhook_url, payload, return_message_id=False):
     try:
-        res = requests.post(webhook_url, json=payload, timeout=10)
+        # Add wait_id parameter to get message object
+        url = webhook_url + '?wait=true' if return_message_id else webhook_url
+        res = requests.post(url, json=payload, timeout=10)
         if res.status_code in [200, 204]:
             title = payload['embeds'][0].get('title', '')[:50]
             print(f"✅ Posted: {title}...")
+            if return_message_id and res.status_code == 200:
+                data = res.json()
+                return data.get('id')
             return True
         else:
             print(f"❌ Discord error {res.status_code}: {res.text}")
@@ -475,13 +464,44 @@ def main():
 
         # Build & post embed
         payload = build_embed(news_item, summary)
-        success = post_to_discord(webhook_url, payload)
 
-        if success:
+        # For events, we need message_id to reply with analysis
+        is_event = category in ['sự kiện', 'event']
+        result = post_to_discord(webhook_url, payload, return_message_id=is_event)
+
+        if result:
             sent_ids.add(news_id)
             posted_count += 1
             # Save after each post (crash-safe)
             save_sent_ids(sent_ids)
+
+            # If event, also post analysis as reply
+            if is_event and isinstance(result, str):
+                message_id = result
+                print(f"📊 Generating event analysis reply...")
+
+                # Generate analysis
+                analysis_summary = llm_summarize(article_text, 'event_analysis')
+                analysis_summary = analysis_summary.replace('\\n', '\n')
+                analysis_summary = analysis_summary.replace('\\*\\*', '**')
+                analysis_summary = analysis_summary.replace('\\*', '*')
+
+                # Build analysis embed
+                analysis_payload = {
+                    'embeds': [{
+                        'title': f"📊 Phân tích: {news_item['title']}",
+                        'description': analysis_summary,
+                        'color': 0x95e1d3,  # Event color
+                        'timestamp': datetime.now(timezone.utc).isoformat()
+                    }],
+                    'message_reference': {
+                        'message_id': message_id
+                    }
+                }
+
+                # Post reply
+                post_to_discord(webhook_url, analysis_payload)
+                time.sleep(2)  # Rate limit
 
         # Rate limit
         time.sleep(2)
