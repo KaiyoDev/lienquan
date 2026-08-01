@@ -36,14 +36,40 @@ CATEGORY_COLORS = {
 
 # LLM prompts by category
 LLM_PROMPTS = {
-    "patch_notes": """Bạn là chuyên gia Liên Quân Mobile. Phân tích patch notes và trích xuất:
-1. Tướng nào bị buff/nerf với số liệu CỤ THỂ (damage trước → sau, % thay đổi)
-2. Chiêu thức thay đổi (cooldown, hiệu ứng)
-3. Items thay đổi (stats, giá)
-4. Meta impact: tướng nào lên/xuống tier, tại sao
+    "patch_notes": """Bạn là chuyên gia phân tích Liên Quân Mobile. Bài viết này chứa patch notes chính thức từ Garena.
+
+Nhiệm vụ:
+1. Đọc kỹ bài viết và tìm bảng stats thay đổi (thường có format: tướng - chiêu - số cũ → số mới)
+2. Với MỖI tướng được nhắc đến, trích xuất:
+   - Tên tướng + loại thay đổi (buff/nerf)
+   - Chiêu nào thay đổi
+   - Số liệu CỤ THỂ: giá trị cũ → giá trị mới (+% thay đổi)
+   - Ví dụ: "Nakroth - Chiêu 3: Sát thương 180 → 160 (⬇️ -11%)"
+3. Nếu có items thay đổi, cũng trích xuất tương tự
+4. Meta impact: tướng nào sẽ lên/xuống tier, lý do
 5. Verdict ngắn gọn cho mỗi tướng (1 dòng)
 
-Format: Markdown với stats rõ ràng, dùng ⬆️⬇️ cho buff/nerf.""",
+Output format:
+- Dùng emoji ⬆️ cho buff, ⬇️ cho nerf
+- Format bảng hoặc list rõ ràng
+- Ưu tiên số liệu chính xác từ bài viết, không đoán
+- Nếu bài viết có ảnh/screenshot, mô tả nội dung ảnh
+
+Ví dụ output:
+```
+🔴 NAKROTH - Nerf
+• Chiêu 3 (Uy Áp):
+  - Sát thương: 180 → 160 (⬇️ -11%)
+  - Cooldown: 40s → 50s (⬇️ +25%)
+• Verdict: Giảm sức mạnh rõ rệt, khó carry late game
+
+🟢 VOLKATH - Buff
+• Chiêu 2 (Bão Sấm Sét):
+  - Khiên: 400 + 12% máu → 500 + 15% máu (⬆️ +25% base, +3% scaling)
+• Verdict: Tank mạnh hơn, pick rate sẽ tăng
+```
+
+Bắt đầu phân tích:""",
 
     "esports": """Bạn là bình luận viên esports Liên Quân Mobile. Phân tích trận đấu:
 1. Kết quả (team thắng, tỷ số)
