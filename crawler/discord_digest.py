@@ -22,8 +22,6 @@ except AttributeError:
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PUBLIC_DIR = os.path.join(BASE_DIR, "..", "public")
 NEWS_PATH = os.path.join(PUBLIC_DIR, "news.json")
-HEROES_PATH = os.path.join(PUBLIC_DIR, "heroes.json")
-SNAPSHOT_PATH = os.path.join(PUBLIC_DIR, "heroes_snapshot.json")
 SENT_NEWS_PATH = os.path.join(BASE_DIR, ".sent_news.json")
 
 # Embed colors by category keyword
@@ -245,74 +243,6 @@ def post_to_discord(webhook_url, payload):
         return False
 
 
-def compare_tiers():
-    """Compare snapshot vs current heroes for tier changes"""
-    snapshot = load_json(SNAPSHOT_PATH)
-    current = load_json(HEROES_PATH)
-
-    if not snapshot or not current:
-        return []
-
-    snap_heroes = {h['id']: h for h in snapshot.get('heroes', [])}
-    cur_heroes = {h['id']: h for h in current.get('heroes', [])}
-
-    changes = []
-    tier_rank = {'S': 4, 'A': 3, 'B': 2, 'C': 1}
-
-    for hero_id, cur in cur_heroes.items():
-        if hero_id not in snap_heroes:
-            continue
-
-        old_tier = snap_heroes[hero_id].get('tier', 'B')
-        new_tier = cur.get('tier', 'B')
-
-        if old_tier != new_tier:
-            change_type = 'buff' if tier_rank.get(new_tier, 2) > tier_rank.get(old_tier, 2) else 'nerf'
-            changes.append({
-                'name': cur['name'],
-                'old_tier': old_tier,
-                'new_tier': new_tier,
-                'type': change_type,
-                'reason': cur.get('tier_reason', ''),
-                'thumbnail': cur.get('thumbnail')
-            })
-
-    return changes
-
-
-def build_tier_embed(changes):
-    buffs = [c for c in changes if c['type'] == 'buff']
-    nerfs = [c for c in changes if c['type'] == 'nerf']
-
-    lines = ["```"]
-
-    if buffs:
-        lines.append("🟢 BUFFED")
-        for c in buffs[:5]:
-            lines.append(f"• {c['name']}: {c['old_tier']} → {c['new_tier']}")
-            lines.append(f"  {c['reason']}")
-
-    if nerfs:
-        lines.append("\n🔴 NERFED")
-        for c in nerfs[:5]:
-            lines.append(f"• {c['name']}: {c['old_tier']} → {c['new_tier']}")
-            lines.append(f"  {c['reason']}")
-
-    lines.append("```")
-
-    embed = {
-        'title': '📊 TIER CHANGES',
-        'description': '\n'.join(lines),
-        'color': 0xaa96da,
-        'timestamp': datetime.now(timezone.utc).isoformat()
-    }
-
-    if buffs and buffs[0].get('thumbnail'):
-        embed['thumbnail'] = {'url': buffs[0]['thumbnail']}
-
-    return {'embeds': [embed]}
-
-
 def main():
     print("=== DISCORD DIGEST BOT ===")
 
@@ -393,18 +323,6 @@ def main():
         time.sleep(2)
 
     print(f"\n📤 Posted {posted_count} articles")
-
-    # Tier changes
-    print("\n=== CHECKING TIER CHANGES ===")
-    tier_changes = compare_tiers()
-
-    if tier_changes:
-        print(f"Found {len(tier_changes)} tier changes")
-        payload = build_tier_embed(tier_changes)
-        post_to_discord(webhook_url, payload)
-    else:
-        print("No tier changes detected")
-
     print("\n=== DIGEST COMPLETED ===")
 
 

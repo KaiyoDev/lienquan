@@ -27,18 +27,10 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Snapshot heroes
-        run: python crawler/hero_snapshot.py
-
       - name: Crawl news
         run: |
           python crawler/news_crawler.py
           ls -la public/news.json
-
-      - name: Update hero trends
-        run: |
-          python crawler/update_hero_trends.py
-          ls -la public/heroes.json
 
       - name: Post Discord digest
         run: python crawler/discord_digest.py
@@ -47,7 +39,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/news.json public/heroes.json public/feeds.json crawler/.sent_news.json
+          git add public/news.json public/feeds.json crawler/.sent_news.json
           if git diff --quiet HEAD; then
             echo "No changes to commit"
           else
