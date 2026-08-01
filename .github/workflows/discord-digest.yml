@@ -2,7 +2,7 @@ name: Discord Digest Bot
 
 on:
   schedule:
-    - cron: '0 */5 * * *'  # Every 5 hours (00:00, 05:00, 10:00, 15:00, 20:00 UTC)
+    - cron: '0 * * * *'  # Every hour
   workflow_dispatch:
 
 jobs:

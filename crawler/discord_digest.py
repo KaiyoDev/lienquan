@@ -209,7 +209,8 @@ def llm_summarize(article_text, category):
                 {'role': 'user', 'content': f"Phân tích bài viết này:\n\n{article_text[:8000]}"}
             ],
             'temperature': 0.7,
-            'max_tokens': 1500
+            'max_tokens': 1500,
+            'stream': False  # Tắt streaming để lấy full response
         }
 
         res = requests.post(f"{base_url}/chat/completions", headers=headers, json=payload, timeout=120)
