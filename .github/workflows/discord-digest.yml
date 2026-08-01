@@ -5,6 +5,9 @@ on:
     - cron: '0 * * * *'  # Every hour
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   digest:
     runs-on: ubuntu-latest

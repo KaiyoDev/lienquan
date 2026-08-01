@@ -112,39 +112,37 @@ FORMAT:
 
 Ngôn ngữ: Reviewer style, max 1000 từ.""",
 
-    "event": """Viết event guide cho Liên Quân Mobile.
+    "event": """Thông báo sự kiện Liên Quân Mobile.
 
-NỘI DUNG:
+CHỈ THÔNG BÁO, KHÔNG PHÂN TÍCH:
 - Tên sự kiện + thời gian
-- Phần thưởng chính
-- Cách tham gia (steps)
-- Tips tối ưu
+- Phần thưởng (chỉ liệt kê, không tính toán)
+- Cách tham gia (ngắn gọn)
 - Lưu ý quan trọng
 
 FORMAT:
-🎉 [TÊN SỰ KIỆN]
+🎉 **[TÊN SỰ KIỆN]**
 
-📅 THỜI GIAN: [Bắt đầu] → [Kết thúc]
+📅 **Thời gian:** [Ngày bắt đầu] - [Ngày kết thúc]
 
-🎁 PHẦN THƯỞNG:
+🎁 **Phần thưởng:**
 • [Reward 1]
 • [Reward 2]
 • [Reward 3]
 
-📝 CÁCH THAM GIA:
-1. [Bước 1]
-2. [Bước 2]
-3. [Bước 3]
+📝 **Cách tham gia:**
+[Bullet points ngắn]
 
-💡 TIPS:
-• [Tip 1]
-• [Tip 2]
-
-⚠️ LƯU Ý:
+⚠️ **Lưu ý:**
 • [Note 1]
 • [Note 2]
 
-Ngôn ngữ: Hướng dẫn rõ ràng, dễ hiểu, max 1000 từ.""",
+QUAN TRỌNG:
+- KHÔNG phân tích tỷ lệ, chi phí, xác suất
+- KHÔNG tính toán "chi phí ước tính", "pity tại lượt thứ mấy"
+- CHỈ thông báo thông tin chính thức từ bài viết
+- Max 500 từ, ngắn gọn
+"""
 
     "new_hero": """Viết hero guide cho Liên Quân Mobile.
 
@@ -218,29 +216,34 @@ FORMAT:
 
 Ngôn ngữ: Analyst style, ngắn gọn, max 1000 từ.""",
 
-    "general": """Viết game news cho Liên Quân Mobile.
+    "general": """Thông báo tin tức Liên Quân Mobile.
 
-NỘI DUNG:
-- Tiêu đề + tóm tắt
-- Chi tiết chính (3-5 points)
-- Impact/ý nghĩa
-- Action (nếu có)
+CHỈ THÔNG BÁO, KHÔNG PHÂN TÍCH:
+- Tóm tắt nội dung chính (2-3 câu)
+- Thông tin quan trọng (bullet points)
+- Thời gian/địa điểm (nếu có)
+- Lưu ý (nếu có)
 
 FORMAT:
-📰 [TIÊU ĐỀ]
+📰 **[TIÊU ĐỀ]**
 
-📝 TÓM TẮT:
-[2-3 câu]
+[Mô tả ngắn 2-3 câu]
 
-🔍 CHI TIẾT:
+🔍 **Chi tiết:**
 • [Point 1]
 • [Point 2]
 • [Point 3]
 
-💡 Ý NGHĨA:
-[Ảnh hưởng đến ai, nên làm gì]
+📅 **Thời gian:** [Nếu có]
 
-Ngôn ngữ: News style, engaging, max 800 từ."""
+⚠️ **Lưu ý:** [Nếu có]
+
+QUAN TRỌNG:
+- KHÔNG dùng từ "PHÂN TÍCH", "ANALYSIS", "ĐÁNH GIÁ"
+- KHÔNG tính toán, dự đoán, suy luận
+- CHỈ thông báo thông tin từ bài viết
+- Max 500 từ, ngắn gọn
+"""
 }
 
 
@@ -464,6 +467,11 @@ def main():
         # LLM summarize
         category = news_item.get('category', 'tin tức')
         summary = llm_summarize(article_text, category)
+
+        # Fix markdown escape
+        summary = summary.replace('\\n', '\n')
+        summary = summary.replace('\\*\\*', '**')
+        summary = summary.replace('\\*', '*')
 
         # Build & post embed
         payload = build_embed(news_item, summary)
