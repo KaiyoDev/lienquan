@@ -8,8 +8,8 @@ venv/
 env/
 ENV/
 
-# Secrets
-digest_config.json
+# Secrets & tracking
+.sent_news.json
 .last_run.txt
 
 # IDE

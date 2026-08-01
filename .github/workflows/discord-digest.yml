@@ -12,12 +12,6 @@ jobs:
 
     env:
       DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-      DISCORD_ROLE_PATCH_NOTES: ${{ secrets.DISCORD_ROLE_PATCH_NOTES }}
-      DISCORD_ROLE_ESPORTS: ${{ secrets.DISCORD_ROLE_ESPORTS }}
-      DISCORD_ROLE_SKIN: ${{ secrets.DISCORD_ROLE_SKIN }}
-      DISCORD_ROLE_EVENT: ${{ secrets.DISCORD_ROLE_EVENT }}
-      DISCORD_ROLE_NEW_HERO: ${{ secrets.DISCORD_ROLE_NEW_HERO }}
-      DISCORD_ROLE_META: ${{ secrets.DISCORD_ROLE_META }}
       LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
       LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
       LLM_MODEL: ${{ secrets.LLM_MODEL }}
@@ -59,7 +53,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/news.json public/videos.json public/heroes.json public/feeds.json
+          git add public/news.json public/videos.json public/heroes.json public/feeds.json crawler/.sent_news.json
           if git diff --quiet HEAD; then
             echo "No changes to commit"
           else

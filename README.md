@@ -7,7 +7,8 @@ AI-powered Discord bot tự động post tin tức Liên Quân Mobile với tóm
 - 📰 **Per-news AI digest** — Mỗi tin tức = 1 embed chi tiết với stats, verdict, tier predictions
 - 📊 **Tier changes detection** — So sánh snapshot trước/sau để detect buff/nerf
 - 🎮 **Gamer-style embeds** — Box characters, emoji color coding, clear stats
-- 🔔 **Role mentions** — User chọn category nhận notification (không @everyone)
+- ✅ **No duplicates** — Tracks sent news by ID, never posts the same article twice
+- 🆕 **First run: 5 newest** — Initial setup posts top 5 articles, then only new ones
 
 ## Setup
 
@@ -17,20 +18,9 @@ AI-powered Discord bot tự động post tin tức Liên Quân Mobile với tóm
 2. Channel: `#lienquan-updates`
 3. Copy webhook URL
 
-### 2. Discord Roles
+### 2. Discord Roles (Optional)
 
-Tạo roles trong server:
-
-| Role | Color | Mô tả |
-|------|-------|-------|
-| `@Patch-Notes` | #ff6b6b | Bản cập nhật, patch notes |
-| `@Esports` | #4ecdc4 | Giải đấu, kết quả thi đấu |
-| `@Skin-Mới` | #ffe66d | Skin ra mắt, review |
-| `@Sự-Kiện` | #95e1d3 | Event, giveaway |
-| `@Tướng-Mới` | #f38181 | Hero mới release |
-| `@Meta-Analysis` | #aa96da | Tier changes, meta shift |
-
-Copy role IDs (right-click role → Copy Role ID).
+Bot không mention roles mặc định. Nếu muốn notification theo category, thêm role mentions vào code.
 
 ### 3. LLM API (9router)
 
@@ -42,12 +32,6 @@ Add to repo Settings → Secrets and variables → Actions:
 
 ```
 DISCORD_WEBHOOK_URL
-DISCORD_ROLE_PATCH_NOTES
-DISCORD_ROLE_ESPORTS
-DISCORD_ROLE_SKIN
-DISCORD_ROLE_EVENT
-DISCORD_ROLE_NEW_HERO
-DISCORD_ROLE_META
 LLM_BASE_URL
 LLM_API_KEY
 LLM_MODEL
@@ -84,9 +68,14 @@ export LLM_BASE_URL="your-9router-endpoint"
 export LLM_API_KEY="your-api-key"
 export LLM_MODEL="gpt-4o-mini"
 
-# Run
+# First run: posts 5 newest articles
+python crawler/discord_digest.py
+
+# Subsequent runs: only posts new articles
 python crawler/discord_digest.py
 ```
+
+**Tracking:** Bot lưu `.sent_news.json` để track articles đã gửi. Xóa file này để reset (sẽ post lại 5 tin mới nhất).
 
 ## Architecture
 
