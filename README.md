@@ -35,7 +35,6 @@ DISCORD_WEBHOOK_URL
 LLM_BASE_URL
 LLM_API_KEY
 LLM_MODEL
-YT_API_KEY (optional, for channel discovery)
 ```
 
 ### 5. Feeds Config
