@@ -35,11 +35,6 @@ jobs:
           python crawler/news_crawler.py
           ls -la public/news.json
 
-      - name: Crawl videos
-        run: |
-          python crawler/youtube_rss_fetcher.py
-          ls -la public/videos.json
-
       - name: Update hero trends
         run: |
           python crawler/update_hero_trends.py
@@ -52,7 +47,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/news.json public/videos.json public/heroes.json public/feeds.json crawler/.sent_news.json
+          git add public/news.json public/heroes.json public/feeds.json crawler/.sent_news.json
           if git diff --quiet HEAD; then
             echo "No changes to commit"
           else
