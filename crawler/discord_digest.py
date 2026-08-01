@@ -131,7 +131,7 @@ QUAN TRỌNG:
 - Formal tone, professional
 - KHÔNG phân tích, tính toán tỷ lệ/chi phí
 - Max 400 từ
-"""
+""",
 
     "new_hero": """Viết hero guide cho Liên Quân Mobile.
 
