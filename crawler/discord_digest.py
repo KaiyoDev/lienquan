@@ -415,9 +415,9 @@ def main():
     is_first_run = len(sent_ids) == 0
 
     if is_first_run:
-        # First run: post ALL unsent articles (backfill from July)
-        print("🆕 First run — posting ALL articles from July onwards")
-        to_post = all_news
+        # First run: post 5 newest
+        print("🆕 First run — posting 5 newest articles")
+        to_post = all_news[:5]
     else:
         # Subsequent runs: only unsent news
         to_post = [n for n in all_news if n.get('id') not in sent_ids]
