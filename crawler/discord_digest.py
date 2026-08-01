@@ -212,7 +212,7 @@ def llm_summarize(article_text, category):
             'max_tokens': 1500
         }
 
-        res = requests.post(f"{base_url}/chat/completions", headers=headers, json=payload, timeout=30)
+        res = requests.post(f"{base_url}/chat/completions", headers=headers, json=payload, timeout=120)
 
         if res.status_code == 200:
             data = res.json()

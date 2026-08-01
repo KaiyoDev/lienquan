@@ -22,8 +22,6 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Data (generated)
-public/videos.json
-public/news.json
-public/heroes.json
-public/heroes_snapshot.json
+# Data (generated) - tracked by git for workflow state
+# public/news.json - KEEP TRACKED
+# crawler/.sent_news.json - KEEP TRACKED
