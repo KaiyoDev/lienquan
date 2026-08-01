@@ -1,0 +1,94 @@
+{
+  "news_sources": [
+    {
+      "name": "Liên Quân Mobile Official",
+      "url": "https://lienquan.garena.vn/rss",
+      "type": "rss",
+      "priority": 1,
+      "enabled": true
+    },
+    {
+      "name": "GameK.vn",
+      "url": "https://gamek.vn/rss",
+      "type": "rss",
+      "priority": 2,
+      "enabled": true
+    },
+    {
+      "name": "VnExpress",
+      "url": "https://vnexpress.net/rss",
+      "type": "rss",
+      "priority": 3,
+      "enabled": true
+    },
+    {
+      "name": "Zing News",
+      "url": "https://zingnews.vn/rss",
+      "type": "rss",
+      "priority": 4,
+      "enabled": true
+    },
+    {
+      "name": "Dân Trí",
+      "url": "https://dantri.com.vn/rss",
+      "type": "rss",
+      "priority": 5,
+      "enabled": true
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "url": "https://tuoitre.vn/rss",
+      "type": "rss",
+      "priority": 6,
+      "enabled": true
+    },
+    {
+      "name": "Thanh Niên",
+      "url": "https://thanhnien.vn/rss",
+      "type": "rss",
+      "priority": 7,
+      "enabled": true
+    },
+    {
+      "name": "VietNamNet",
+      "url": "https://vietnamnet.vn/rss",
+      "type": "rss",
+      "priority": 8,
+      "enabled": true
+    }
+  ],
+  "categories": {
+    "tướng": {
+      "keywords": ["tướng mới", "hero mới", "tướng", "hero", "champion"],
+      "color": "#ff6b6b"
+    },
+    "skin": {
+      "keywords": ["skin", "trang phục", "cosmetic", "outfit"],
+      "color": "#4ecdc4"
+    },
+    "cập nhật": {
+      "keywords": ["bản cập nhật", "update", "patch", "maintenance"],
+      "color": "#45b7d1"
+    },
+    "esports": {
+      "keywords": ["tournament", "giải đấu", "esports", "pro player"],
+      "color": "#96ceb4"
+    },
+    "meta": {
+      "keywords": ["meta", "build", "bảng ngọc", "strategy"],
+      "color": "#feca57"
+    },
+    "tin tức": {
+      "keywords": ["tin tức", "news", "thông báo"],
+      "color": "#ff9ff3"
+    }
+  },
+  "settings": {
+    "max_news_per_source": 20,
+    "max_total_news": 100,
+    "crawl_interval_hours": 6,
+    "min_news_age_days": 7,
+    "auto_publish": false,
+    "require_approval": true
+  }
+}

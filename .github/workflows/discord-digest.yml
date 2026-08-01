@@ -1,0 +1,68 @@
+name: Discord Digest Bot
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 00:00 UTC = 07:00 GMT+7
+  workflow_dispatch:
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    env:
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      DISCORD_ROLE_PATCH_NOTES: ${{ secrets.DISCORD_ROLE_PATCH_NOTES }}
+      DISCORD_ROLE_ESPORTS: ${{ secrets.DISCORD_ROLE_ESPORTS }}
+      DISCORD_ROLE_SKIN: ${{ secrets.DISCORD_ROLE_SKIN }}
+      DISCORD_ROLE_EVENT: ${{ secrets.DISCORD_ROLE_EVENT }}
+      DISCORD_ROLE_NEW_HERO: ${{ secrets.DISCORD_ROLE_NEW_HERO }}
+      DISCORD_ROLE_META: ${{ secrets.DISCORD_ROLE_META }}
+      LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+      LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+      LLM_MODEL: ${{ secrets.LLM_MODEL }}
+      YT_API_KEY: ${{ secrets.YT_API_KEY }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Snapshot heroes
+        run: python crawler/hero_snapshot.py
+
+      - name: Crawl news
+        run: |
+          python crawler/news_crawler.py
+          ls -la public/news.json
+
+      - name: Crawl videos
+        run: |
+          python crawler/youtube_rss_fetcher.py
+          ls -la public/videos.json
+
+      - name: Update hero trends
+        run: |
+          python crawler/update_hero_trends.py
+          ls -la public/heroes.json
+
+      - name: Post Discord digest
+        run: python crawler/discord_digest.py
+
+      - name: Commit data updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/news.json public/videos.json public/heroes.json public/feeds.json
+          if git diff --quiet HEAD; then
+            echo "No changes to commit"
+          else
+            git commit -m "auto: update data + post digest - $(date '+%Y-%m-%d %H:%M:%S')"
+            git push
+          fi
