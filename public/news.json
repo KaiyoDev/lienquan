@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-03T00:12:05.188828",
-  "total_news": 10,
+  "last_updated": "2026-08-04T05:58:16.298454",
+  "total_news": 11,
   "news": [
     {
       "id": "d1e9663df118",
@@ -130,6 +130,19 @@
       "published_at": "2026-07-18T06:42:47Z",
       "crawled_at": "2026-08-01T19:05:35.351095",
       "category": "sự kiện",
+      "priority": 1
+    },
+    {
+      "id": "7b3d378b6708",
+      "title": "HÒA MÌNH VÀO NGÀY HỘI LIÊN QUÂN & WATCH PARTY MIỄN PHÍ TẠI “THÁNH ĐỊA” TIÊN SƠN – ĐÀ NẴNG VÀO NGÀY 18 – 19/07!",
+      "link": "https://lienquan.garena.vn/hoa-minh-vao-ngay-hoi-lien-quan-watch-party-mien-phi-tai-thanh-dia-tien-son-da-nang-vao-ngay-18-19-07/",
+      "summary": "<p>Xin chào các Kiện Tướng, Tiếp nối thành công rực rỡ của Big Offline Hà Nội, Hội Đồng Liên Quân chính thức mang Ngày Hội Liên Quân đến Cung Thể thao Tiên Sơn &#8211; Đà [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/hoa-minh-vao-ngay-hoi-lien-quan-watch-party-mien-phi-tai-thanh-dia-tien-son-da-nang-vao-ngay-18-19-07/\">HÒA MÌNH VÀO NGÀY HỘI LIÊN QUÂN &#038; WATCH PARTY MIỄN PHÍ TẠI &#8220;THÁNH ĐỊA&#8221; TIÊN SƠN &#8211; ĐÀ NẴNG VÀO NGÀY 18 &#8211; 19/07!</a> appeared first on <",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/07/SeaTalk_IMG_20260716_183558.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-07-16T11:41:50Z",
+      "crawled_at": "2026-08-04T05:52:54.554957",
+      "category": "tướng",
       "priority": 1
     }
   ]
