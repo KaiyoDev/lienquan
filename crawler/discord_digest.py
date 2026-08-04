@@ -408,7 +408,7 @@ def main():
         sys.exit(0)
 
     # Sort by published_at descending (newest first)
-    all_news.sort(key=lambda x: x.get('published_at', ''), reverse=True)
+    all_news.sort(key=lambda x: x.get('published_at') or '', reverse=True)
 
     # Load sent IDs
     sent_ids = load_sent_ids()
