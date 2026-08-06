@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-06T11:32:24.332347",
-  "total_news": 16,
+  "last_updated": "2026-08-06T14:27:44.255679",
+  "total_news": 17,
   "news": [
     {
       "id": "3cd2916d6c4d",
@@ -196,6 +196,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "2d2b3d21a11a",
+      "title": "Loạn Thế 3Q: Thần Ma Lệnh chính thức ra mắt và nhanh chóng bùng nổ trên các bảng xếp hạng nhờ lối chơi thẻ tướng cuốn hút",
+      "link": "https://gamek.vn/loan-the-3q-than-ma-lenh-chinh-thuc-ra-mat-va-nhanh-chong-bung-no-tren-cac-bang-xep-hang-nho-loi-choi-the-tuong-cuon-hut-178260806201825893.chn",
+      "summary": "Dù vừa chính thức trình làng, Loạn Thế 3Q: Thần Ma Lệnh - OEG đã nhanh chóng khẳng định vị thế \"bom tấn\" khi liên tục chiếm giữ vị trí Top 1 trên các bảng xếp hạng uy tín.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/8/6/loanthe3q-5-1786022023317515200488-0-0-942-1800-crop-17860221950811301169649.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-08-06T14:22:57.656385",
+      "category": "tướng",
+      "priority": 2
     },
     {
       "id": "a66590104851",
