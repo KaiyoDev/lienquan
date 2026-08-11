@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-11T13:19:59.673737",
-  "total_news": 21,
+  "last_updated": "2026-08-11T15:07:05.602464",
+  "total_news": 22,
   "news": [
     {
       "id": "3cd2916d6c4d",
@@ -196,6 +196,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "d3c8514d278c",
+      "title": "Team Flash thăm Trung tâm Văn hóa Việt Nam tại Pháp - Khoảnh khắc kết nối “văn hóa” độc đáo",
+      "link": "https://gamek.vn/team-flash-tham-trung-tam-van-hoa-viet-nam-tai-phap-khoanh-khac-ket-noi-van-hoa-doc-dao-1782608112043135.chn",
+      "summary": "Trong khuôn khổ hành trình tham dự Esports World Cup 2026 tại Pháp, các thành viên Team Flash đã có chuyến thăm Trung tâm Văn hóa Việt Nam tại Paris.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/8/11/avatar1786455679789-1786455680529981239001-0-0-942-1800-crop-17864557186461046855523.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-08-11T15:02:14.232098",
+      "category": "esports",
+      "priority": 2
     },
     {
       "id": "bf431802f0cd",
