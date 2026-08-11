@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-11T07:19:27.684537",
-  "total_news": 19,
+  "last_updated": "2026-08-11T09:08:10.217594",
+  "total_news": 20,
   "news": [
     {
       "id": "3cd2916d6c4d",
@@ -196,6 +196,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "b0a5f605d395",
+      "title": "Thêm một tuyển thủ gạo cội của Liên Quân Mobile giải nghệ: Dừng cuộc chơi ở phong độ đỉnh cao, \"đánh úp\" fan chỉ với một bài đăng bất ngờ",
+      "link": "https://gamek.vn/them-mot-tuyen-thu-gao-coi-cua-lien-quan-mobile-giai-nghe-dung-cuoc-choi-o-phong-do-dinh-cao-danh-up-fan-chi-voi-mot-bai-dang-bat-ngo-178260811114239198.chn",
+      "summary": "Thông tin FPT Gray chính thức khép lại sự nghiệp thi đấu chuyên nghiệp đang khiến cộng đồng Liên Quân Mobile không khỏi tiếc nuối.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/8/11/2-100839-1786423278546-17864232787571368335312-107-0-503-634-crop-17864233050202076286063.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-08-11T09:03:21.869543",
+      "category": "tin tức",
+      "priority": 2
     },
     {
       "id": "d95b6b523204",
