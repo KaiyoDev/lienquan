@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T15:34:07.679511",
-  "total_news": 24,
+  "last_updated": "2026-08-17T16:37:28.407080",
+  "total_news": 25,
   "news": [
     {
       "id": "48ac7b5aa941",
@@ -222,6 +222,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "7ee889251196",
+      "title": "LG Life’s Good Tournament 2026 — Sân chơi gắn kết game thủ và tôn vinh công nghệ UltraGear đột phá",
+      "link": "https://gamek.vn/lg-lifes-good-tournament-2026-san-choi-gan-ket-game-thu-va-ton-vinh-cong-nghe-ultragear-dot-pha-17826081723032149.chn",
+      "summary": "Không chỉ là sàn đấu thể thao điện tử nảy lửa quy tụ cộng đồng game thủ, LG Life’s Good Tournament 2026 còn là điểm hẹn bùng nổ để người chơi trực tiếp trải nghiệm sức mạnh hiển thị vượt trội từ dải sản phẩm màn hình UltraGear thế hệ mới.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/8/17/avatar1786982408923-1786982409610937809536-58-0-1000-1800-crop-1786982494467583140462.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-08-17T16:32:39.192912",
+      "category": "esports",
+      "priority": 2
     },
     {
       "id": "d3c8514d278c",
