@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-21T01:42:14.403855",
-  "total_news": 28,
+  "last_updated": "2026-08-21T03:12:14.475601",
+  "total_news": 29,
   "news": [
     {
       "id": "4f7747bdaefd",
@@ -248,6 +248,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "9d62c8f1ff5d",
+      "title": "Game SLG \"Tam Quốc: Tranh Bá Thiên Hạ\" chính thức ra mắt tại Việt Nam, Giải Tranh Bá Liên Minh S1 chính thức khởi tranh!",
+      "link": "https://gamek.vn/game-slg-tam-quoc-tranh-ba-thien-ha-chinh-thuc-ra-mat-tai-viet-nam-giai-tranh-ba-lien-minh-s1-chinh-thuc-khoi-tranh-178260821082851632.chn",
+      "summary": "Game SLG tam quốc thời gian thực \"Tam Quốc: Tranh Bá Thiên Hạ\" chính thức ra mắt! Đăng nhập ngay nhận thần tướng Quan Vũ, danh hiệu giới hạn, khung avatar và nhiều phần thưởng hấp dẫn, cộng thêm 2026 lượt rút tích lũy trong mùa S1! Tham gia liên minh của KOL, công thành đoạt đất, tranh đoạt Lạc Dương!",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/8/21/avatar1787275577528-17872755781124398514.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-08-21T03:07:24.354115",
+      "category": "tướng",
+      "priority": 2
     },
     {
       "id": "2e4683719b3e",
