@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-22T08:39:52.272591",
-  "total_news": 30,
+  "last_updated": "2026-08-22T09:35:57.134767",
+  "total_news": 31,
   "news": [
     {
       "id": "4f7747bdaefd",
@@ -248,6 +248,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "058ed080b012",
+      "title": "Biến tướng chiêu trò game tương tác khều donate, nữ TikToker tác động vòng 1 phản cảm gây bức xúc",
+      "link": "https://gamek.vn/bien-tuong-chieu-tro-game-tuong-tac-kheu-donate-nu-tiktoker-tac-dong-vong-1-phan-cam-gay-buc-xuc-178260820085132921.chn",
+      "summary": "Thời gian gần đây, tính năng livestream trên nền tảng TikTok không chỉ là nơi chia sẻ khoảnh khắc đời thường hay bán hàng online, mà còn xuất hiện nhiều dạng \"game tương tác\".",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/8/20/avatar1787190565929-1787190567782958548253-65-0-302-379-crop-178719061397558204116.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-08-22T09:31:10.186483",
+      "category": "tướng",
+      "priority": 2
     },
     {
       "id": "ff72bf8f88ca",
