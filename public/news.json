@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-23T03:11:46.138370",
-  "total_news": 32,
+  "last_updated": "2026-08-23T04:46:38.781499",
+  "total_news": 33,
   "news": [
     {
       "id": "4f7747bdaefd",
@@ -248,6 +248,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "5ca66dd29778",
+      "title": "Trang Six là ai?",
+      "link": "https://gamek.vn/trang-six-la-ai-178260823105256966.chn",
+      "summary": "Bài đăng của Lai Bâng với nội dung chấm dứt mối tình 10 năm khiến cộng đồng Liên Quân xôn xao, Trang Six trở thành nội dung tìm kiếm nóng.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/8/23/img0376-074756-1787456892947-1787456893344558126031-31-0-500-750-crop-17874570704732028639999.jpeg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-08-23T04:41:46.654953",
+      "category": "tin tức",
+      "priority": 2
     },
     {
       "id": "4e79fee1e81c",
