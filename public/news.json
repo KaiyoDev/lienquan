@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-24T13:02:50.039558",
-  "total_news": 33,
+  "last_updated": "2026-08-24T14:01:52.551544",
+  "total_news": 34,
   "news": [
     {
       "id": "4f7747bdaefd",
@@ -248,6 +248,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "8642b702a8f8",
+      "title": "Cộng đồng Liên Quân có còn nhớ vụ \"Trà Đào\" năm ấy?",
+      "link": "https://gamek.vn/cong-dong-lien-quan-co-con-nho-vu-tra-dao-nam-ay-178260824153433895.chn",
+      "summary": "Cô nàng Kim Ngân vừa đăng tải dòng tâm sự dài liên quan đến vụ lùm xùm lớn trong thời gian hoạt động với vai trò là MC tại một giải đấu của tựa game Liên Quân Mobile.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/8/24/photo-by-nguyen-tran-kim-ngan-on-september-04-2025-17875603345261217117347-27-0-927-1440-crop-17875603403231589538911.jpeg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-08-24T13:57:02.745777",
+      "category": "esports",
+      "priority": 2
     },
     {
       "id": "5ca66dd29778",
