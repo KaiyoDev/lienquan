@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-25T12:59:29.158059",
-  "total_news": 37,
+  "last_updated": "2026-08-25T13:59:08.598640",
+  "total_news": 38,
   "news": [
     {
       "id": "870380194b04",
@@ -274,6 +274,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "188b12a552c2",
+      "title": "OMG 3Q 9 tuổi: Chị Ca Nô và Thầy Giáo Ba bùng nổ tương tác livestream",
+      "link": "https://gamek.vn/omg-3q-9-tuoi-chi-ca-no-va-thay-giao-ba-bung-no-tuong-tac-livestream-178260825203540591.chn",
+      "summary": "Sau 9 năm bền bỉ đồng hành cùng game thủ Việt, tượng đài dòng game đấu tướng chiến thuật Tam Quốc OMG 3Q - VNG tiếp tục khiến cộng đồng phải “OMG” với đại tiệc sinh nhật được đầu tư quy mô, quy tụ dàn KOL, streamer đình đám.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/8/25/photo1787645297055-17876452971941137619205-17876649445021681668988.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-08-25T13:54:20.990814",
+      "category": "tướng",
+      "priority": 2
     },
     {
       "id": "b61e5af390ef",
