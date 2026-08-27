@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-27T04:32:06.824280",
-  "total_news": 40,
+  "last_updated": "2026-08-27T16:21:57.686834",
+  "total_news": 42,
   "news": [
     {
       "id": "da2fa96f9514",
@@ -287,6 +287,32 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "c6a1170e9778",
+      "title": "MC Phương Thảo phiền lòng chuyện yêu, đăng đàn tâm sự giữa đêm",
+      "link": "https://gamek.vn/mc-phuong-thao-phien-long-chuyen-yeu-dang-dan-tam-su-giua-dem-178260826123204951.chn",
+      "summary": "Chẳng cần nhắc tên nhưng fan Liên Quân cũng biết MC Phương Thảo đang nghĩ về ai.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/8/26/photo-by-vu-phuong-thao-on-april-27-2026-090715-1787722164814-17877221650061589522258-687-0-1441-1440-crop-17877222426291911796211.jpeg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-08-27T16:17:02.965855",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
+      "id": "6396fd4722e7",
+      "title": "LG trình làng loạt màn hình gaming UltraGear 2026 tại Việt Nam: OLED 5K2K tích hợp AI, tần số quét lên tới 1000Hz",
+      "link": "https://gamek.vn/lg-trinh-lang-loat-man-hinh-gaming-ultragear-2026-tai-viet-nam-oled-5k2k-tich-hop-ai-tan-so-quet-len-toi-1000hz-178260827171031427.chn",
+      "summary": "LG Electronics chính thức giới thiệu thế hệ màn hình gaming UltraGear mới tại thị trường Việt Nam, nổi bật với dòng OLED 5K2K tích hợp AI, màn hình thông minh chạy webOS 26 và mẫu màn hình eSports sở hữu tần số quét gốc lên tới 1000Hz.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/8/27/avatar1787825380654-1787825380926521108788.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-08-27T16:17:05.575836",
+      "category": "esports",
+      "priority": 2
     },
     {
       "id": "0bf873a53b17",
