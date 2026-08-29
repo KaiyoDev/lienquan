@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-29T00:02:05.033671",
-  "total_news": 43,
+  "last_updated": "2026-08-29T07:00:43.406417",
+  "total_news": 44,
   "news": [
     {
       "id": "7098c21d49a4",
@@ -300,6 +300,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "701353476e90",
+      "title": "Mừng cho MC Thảo Trang",
+      "link": "https://gamek.vn/mung-cho-mc-thao-trang-178260828141200031.chn",
+      "summary": "Từng là gương mặt nữ hiếm hoi xuất hiện trong cộng đồng esports Việt Nam, MC Thảo Trang gây ấn tượng bởi vẻ ngoài xinh xắn, giọng nói dễ nghe cùng khả năng dẫn dắt tự tin.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/8/28/582076980185169140860704936515538655297334262n-094845-1787899870763-1787899871142125699859-255-0-632-720-crop-17879004701901047094336.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-08-29T06:55:54.138785",
+      "category": "esports",
+      "priority": 2
     },
     {
       "id": "c6a1170e9778",
