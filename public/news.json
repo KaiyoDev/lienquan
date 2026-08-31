@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-31T01:19:16.374042",
-  "total_news": 44,
+  "last_updated": "2026-08-31T08:29:34.288910",
+  "total_news": 46,
   "news": [
     {
       "id": "7098c21d49a4",
@@ -300,6 +300,32 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "4f78f7304904",
+      "title": "Bi kịch cao thủ giỏi nhất 'Thủy hử': Bị Tống Giang 'ép làm giặc', chết bi thảm",
+      "link": "https://gamek.vn/bi-kich-cao-thu-gioi-nhat-thuy-hu-bi-tong-giang-ep-lam-giac-chet-bi-tham-178260828102650857.chn",
+      "summary": "Người này bị Tống Giang làm tan cửa nát nhà và bị kết án tử hình, không thể không lên Lương Sơn; chiến đấu bạt mạng nhưng lúc thành công lại bị lừa uống rượu độc.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/8/28/avatar1787887478962-17878874793171612557190.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-08-31T08:24:43.523143",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
+      "id": "64b11e082943",
+      "title": "Crossfire: Legends đổi mới lối chơi, Liên Quân Mobile tôn vinh văn hóa tò he",
+      "link": "https://gamek.vn/crossfire-legends-doi-moi-loi-choi-lien-quan-mobile-ton-vinh-van-hoa-to-he-178260831090027476.chn",
+      "summary": "Khi thế giới game di động không ngừng chuyển mình với những xu hướng toàn cầu hóa, một trong những hướng đi thú vị nhất chính là cách các nhà phát triển khéo léo lồng ghép bản sắc văn hóa bản địa hoặc tạo ra những sự kết hợp độc đáo giữa hiện đại và truyền thống.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/8/31/img0474-17881092168201049208327-18-0-849-1329-crop-1788141420084981723245.jpeg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-08-31T08:24:44.748543",
+      "category": "tin tức",
+      "priority": 2
     },
     {
       "id": "701353476e90",
