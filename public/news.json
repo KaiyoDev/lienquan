@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-01T01:12:04.676299",
-  "total_news": 46,
+  "last_updated": "2026-09-01T07:37:02.831608",
+  "total_news": 47,
   "news": [
     {
       "id": "7098c21d49a4",
@@ -300,6 +300,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "244820fcae76",
+      "title": "Dở khóc dở cười drama skin game 2 \"củ\", bạn gái game thủ giận tím mặt vì không được mua váy",
+      "link": "https://gamek.vn/do-khoc-do-cuoi-drama-skin-game-2-cu-ban-gai-game-thu-gian-tim-mat-vi-khong-duoc-mua-vay-178260730090151132.chn",
+      "summary": "Hậu mua \"váy\" cho tướng Natalya hết 2 triệu đồng, nam game thủ \"xù\" quà sinh nhật người yêu.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/7/30/avatar1785376711918-1785376712141898320592.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-09-01T07:32:13.578036",
+      "category": "sự kiện",
+      "priority": 2
     },
     {
       "id": "4f78f7304904",
