@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-02T23:14:20.470562",
-  "total_news": 48,
+  "last_updated": "2026-09-03T03:51:48.655075",
+  "total_news": 50,
   "news": [
     {
       "id": "7098c21d49a4",
@@ -13,6 +13,19 @@
       "published_at": "2026-08-28T04:45:26Z",
       "crawled_at": "2026-08-28T14:10:20.378722",
       "category": "esports",
+      "priority": 1
+    },
+    {
+      "id": "e179bbd82bb0",
+      "title": "HÈ CHÁY RANK – MỞ QUÀ LIÊN QUÂN TRÊN SHOPEE",
+      "link": "https://lienquan.garena.vn/he-chay-rank-mo-qua-lien-quan-tren-shopee-2/",
+      "summary": "<p>Mùa hè này, Shopee cùng Liên Quân Mobile mang đến chương trình dành riêng cho người chơi với hàng loạt phần quà hấp dẫn. Chỉ cần tham gia mở quà trên Shopee, bạn sẽ có [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/he-chay-rank-mo-qua-lien-quan-tren-shopee-2/\">HÈ CHÁY RANK – MỞ QUÀ LIÊN QUÂN TRÊN SHOPEE</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/09/860x400-1.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-08-28T03:35:15Z",
+      "crawled_at": "2026-09-03T03:46:43.786401",
+      "category": "sự kiện",
       "priority": 1
     },
     {
@@ -300,6 +313,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "d1da72148b38",
+      "title": "Oner \"phá dớp\" cho vị tướng đặc biệt bậc nhất LCK",
+      "link": "https://gamek.vn/oner-pha-dop-cho-vi-tuong-dac-biet-bac-nhat-lck-178260902211218048.chn",
+      "summary": "Ván thắng trước HLE giúp Oner \"phá dớp\" tại LCK cho một vị tướng rất mạnh của LMHT.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/2/avatar1788368496713-17883684969551580561267.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-09-03T03:46:56.690844",
+      "category": "tướng",
+      "priority": 2
     },
     {
       "id": "cb680f23ec49",
