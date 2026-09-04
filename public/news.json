@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-04T13:24:33.395722",
-  "total_news": 53,
+  "last_updated": "2026-09-04T17:34:43.569649",
+  "total_news": 54,
   "news": [
     {
       "id": "46d6e3971ea9",
@@ -339,6 +339,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "9cca910791f3",
+      "title": "Cộng đồng LMHT xôn xao trước thông tin \"CKTG tier 2\" của Riot",
+      "link": "https://gamek.vn/cong-dong-lmht-xon-xao-truoc-thong-tin-cktg-tier-2-cua-riot-178260904180910081.chn",
+      "summary": "Một giải đấu đang được xem là một phiên bản nhí của CKTG đã được Riot công bố mới đây.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/4/avatar1788532219541-1788532219978948600300.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-09-04T17:29:47.828477",
+      "category": "esports",
+      "priority": 2
     },
     {
       "id": "42cd3f4ca9fd",
