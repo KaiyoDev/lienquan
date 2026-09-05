@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-05T10:21:45.541355",
-  "total_news": 56,
+  "last_updated": "2026-09-05T13:51:26.788499",
+  "total_news": 57,
   "news": [
     {
       "id": "46d6e3971ea9",
@@ -339,6 +339,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "0f1406222787",
+      "title": "realme gắn bó với giải Đấu Trường Danh Vọng trong mùa thứ 3 liên tiếp",
+      "link": "https://gamek.vn/realme-gan-bo-voi-giai-dau-truong-danh-vong-trong-mua-thu-3-lien-tiep-178260905194001742.chn",
+      "summary": "Đấu Trường Danh Vọng Mùa Đông 2026 khởi tranh ngày 29/08 với 9 đội tuyển tranh giải thưởng gần 7 tỷ đồng. realme lần thứ 3 liên tiếp là Nhà tài trợ Chính thức, đồng thời tiếp tục đồng hành cùng nhà đương kim vô địch Team Flash.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/5/avatar1788612121919-1788612122212648366710.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-09-05T13:46:35.039836",
+      "category": "esports",
+      "priority": 2
     },
     {
       "id": "5a2ea32434de",
