@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-05T05:30:51.842388",
-  "total_news": 55,
+  "last_updated": "2026-09-05T10:21:45.541355",
+  "total_news": 56,
   "news": [
     {
       "id": "46d6e3971ea9",
@@ -339,6 +339,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "5a2ea32434de",
+      "title": "Gunbound - một thời game thủ Việt chưa biết rank là gì, thắng thua chỉ nằm ở một cơn gió",
+      "link": "https://gamek.vn/gunbound-mot-thoi-game-thu-viet-chua-biet-rank-la-gi-thang-thua-chi-nam-o-mot-con-gio-178260904141615497.chn",
+      "summary": "Trước khi những con số xếp hạng trở thành thước đo quen thuộc của game thủ, chúng ta từng có một trò chơi mà chỉ cần bắn trúng một phát thật đẹp cũng đủ để cả quán net ồn ào.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/4/avatar1788507281775-17885072820391377782209.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-09-05T10:16:52.408210",
+      "category": "tin tức",
+      "priority": 2
     },
     {
       "id": "479b28f1507c",
