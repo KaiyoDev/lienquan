@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-11T03:58:14.565968",
-  "total_news": 57,
+  "last_updated": "2026-09-11T08:52:03.789340",
+  "total_news": 60,
   "news": [
     {
       "id": "46d6e3971ea9",
@@ -339,6 +339,45 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "8cd57601294b",
+      "title": "SAMKOK Tam Quốc: Từ cú \"Top kép\" ngày ra mắt đến những thành tích ấn tượng sau 6 tháng",
+      "link": "https://gamek.vn/samkok-tam-quoc-tu-cu-top-kep-ngay-ra-mat-den-nhung-thanh-tich-an-tuong-sau-6-thang-178260911145858091.chn",
+      "summary": "Chính thức ra mắt ngày 4/3/2026, SAMKOK Tam Quốc - siêu phẩm chiến thuật thẻ tướng do VPlay phát hành - đã có một màn chào sân không thể ấn tượng hơn khi lập tức chiếm lĩnh Top 1 Game Miễn Phí trên cả Google Play và App Store.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/11/avatar1789113455953-17891134571481333846048.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-09-11T08:47:11.201741",
+      "category": "tướng",
+      "priority": 2
+    },
+    {
+      "id": "03398606dd46",
+      "title": "One Piece: Oda từng tiết lộ trái ác quỷ hoàn hảo nhất dành cho Franky",
+      "link": "https://gamek.vn/one-piece-oda-tung-tiet-lo-trai-ac-quy-hoan-hao-nhat-danh-cho-franky-178260911124543772.chn",
+      "summary": "Trong One Piece, Franky đặc biệt ở chỗ anh chưa bao giờ cần trái ác quỷ để tạo nên phong cách chiến đấu riêng.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/11/avatar1789105447438-1789105447686908717044.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-09-11T08:47:13.248058",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
+      "id": "e67a2a095ba5",
+      "title": "Đột Kích: Có một thời, sở hữu skin xịn trong game cũng đủ để trở thành ước ao của cả quán net",
+      "link": "https://gamek.vn/dot-kich-co-mot-thoi-so-huu-skin-xin-trong-game-cung-du-de-tro-thanh-uoc-ao-cua-ca-quan-net-178260910215020772.chn",
+      "summary": "Trước khi skin súng trở thành món đồ phổ biến trong game online, một thế hệ game thủ Việt từng có thể đứng kín phía sau một chiếc máy tính chỉ để xem thằng bạn vừa sở hữu được khẩu súng mà cả quán đều mơ ước.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/11/avatar1789091655543-1789091655824405522583.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-09-11T08:47:14.314683",
+      "category": "skin",
+      "priority": 2
     },
     {
       "id": "0f1406222787",
