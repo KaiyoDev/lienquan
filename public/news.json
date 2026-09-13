@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-13T00:47:35.801785",
-  "total_news": 61,
+  "last_updated": "2026-09-13T05:52:41.462754",
+  "total_news": 62,
   "news": [
     {
       "id": "5e6024b05c52",
@@ -352,6 +352,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "e33620946446",
+      "title": "Một tướng Tam Quốc, vạn cách chơi: Game thủ có thể thỏa sức sáng tạo với tựa game mới có \"1-0-2\" này!",
+      "link": "https://gamek.vn/mot-tuong-tam-quoc-van-cach-choi-game-thu-co-the-thoa-suc-sang-tao-voi-tua-game-moi-co-1-0-2-nay-178260912153124747.chn",
+      "summary": "Dòng game Tam Quốc từ lâu đã trở thành một trong những lựa chọn quen thuộc của cộng đồng game thủ Việt. Thế nhưng, khi ngày càng xuất hiện nhiều sản phẩm cùng khai thác đề tài này, việc tạo ra một cơ chế đủ mới mẻ đang trở thành bài toán không dễ giải.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/9/12/avatar1789201675653-17892016761641683187739-0-0-675-1080-crop-1789201781685530334030.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-09-13T05:47:52.095324",
+      "category": "tướng",
+      "priority": 2
     },
     {
       "id": "8cd57601294b",
