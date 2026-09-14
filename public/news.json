@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-14T04:48:35.592729",
-  "total_news": 62,
+  "last_updated": "2026-09-14T10:31:08.192440",
+  "total_news": 65,
   "news": [
     {
       "id": "5e6024b05c52",
@@ -13,6 +13,19 @@
       "published_at": "2026-09-12T06:01:11Z",
       "crawled_at": "2026-09-12T08:31:35.833761",
       "category": "sự kiện",
+      "priority": 1
+    },
+    {
+      "id": "4fcf031b9bf5",
+      "title": "TỔNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026 – VÒNG 1+2: SGP BẢO TOÀN MẠCH THẮNG, TS LỘI NGƯỢC DÒNG KỊCH TÍNH",
+      "link": "https://lienquan.garena.vn/to%cc%89ng-ket-dau-truong-danh-vo%cc%a3ng-mua-dong-2026-vong-12-sgp-bao-toan-mach-thang-ts-loi-nguoc-dong-kich-tinh/",
+      "summary": "<p>Hai vòng đấu đầu tiên của ĐTDV Mùa Đông 2026 vừa khép lại với diễn biến hấp dẫn và không ít bất ngờ. Trong khi Saigon Phantom liên tiếp duy trì phong độ ấn tượng, [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/to%cc%89ng-ket-dau-truong-danh-vo%cc%a3ng-mua-dong-2026-vong-12-sgp-bao-toan-mach-thang-ts-loi-nguoc-dong-kich-tinh/\">TỔNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026 &#8211; VÒNG 1+2: SGP BẢO TOÀN MẠCH THẮNG, TS LỘI NGƯỢC DÒNG KỊCH TÍNH</a> appeared first on <a href=\"h",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/09/2.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-09-05T10:09:21Z",
+      "crawled_at": "2026-09-14T10:26:10.472824",
+      "category": "tin tức",
       "priority": 1
     },
     {
@@ -78,6 +91,19 @@
       "published_at": "2026-08-26T11:50:13Z",
       "crawled_at": "2026-08-26T13:00:09.341656",
       "category": "cập nhật",
+      "priority": 1
+    },
+    {
+      "id": "e4e24777172f",
+      "title": "LỊCH THI ĐẤU LƯỢT ĐI – ĐTDV MÙA ĐÔNG 2026",
+      "link": "https://lienquan.garena.vn/lich-thi-dau-luot-di-dtdv-mua-dong-2026/",
+      "summary": "<p>Chính thức khởi tranh ĐTDV mùa Đông 2026 từ ngày 29/08. Cùng theo dõi lịch thi đấu để không bỏ lỡ những pha giao tranh rực lửa nhé.  Lượt đi tuần 1 (28/02 – 01/03) [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/lich-thi-dau-luot-di-dtdv-mua-dong-2026/\">LỊCH THI ĐẤU LƯỢT ĐI – ĐTDV MÙA ĐÔNG 2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/09/IMG-HOR-0860x0400-106443-1.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-08-26T10:04:36Z",
+      "crawled_at": "2026-09-14T10:26:15.958332",
+      "category": "tin tức",
       "priority": 1
     },
     {
@@ -352,6 +378,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "a386fabeabb6",
+      "title": "LMHT 2026 chứng kiến chuyện kỳ lạ bậc nhất lịch sử Esports",
+      "link": "https://gamek.vn/lmht-2026-chung-kien-chuyen-ky-la-bac-nhat-lich-su-esports-178260914022421659.chn",
+      "summary": "BTC LCK và Riot có một quyết định khiến khán giả LMHT ngỡ ngàng.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/14/lmht-5-178937410409167802826-123-0-1065-1800-crop-17893741256731607530758.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-09-14T10:26:21.699790",
+      "category": "esports",
+      "priority": 2
     },
     {
       "id": "e33620946446",
