@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-15T09:57:02.477984",
-  "total_news": 67,
+  "last_updated": "2026-09-15T14:49:25.381197",
+  "total_news": 68,
   "news": [
     {
       "id": "aab29e2a0c2a",
@@ -39,6 +39,19 @@
       "published_at": "2026-09-12T06:01:11Z",
       "crawled_at": "2026-09-12T08:31:35.833761",
       "category": "sự kiện",
+      "priority": 1
+    },
+    {
+      "id": "47d3a43616c6",
+      "title": "TỔNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026 – VÒNG 3 + 4: FPT x FLASH NHẬN THẤT BẠI ĐẦU TIÊN, BOOM ESPORTS LIÊN TỤC TẠO DẤU ẤN",
+      "link": "https://lienquan.garena.vn/tong-ket-dau-truong-danh-vong-mua-dong-2026-vong-3-4-fpt-x-flash-nhan-that-bai-dau-tien-boom-esports-lien-tuc-tao-dau-an/",
+      "summary": "<p>Đấu Trường Danh Vọng Mùa Đông 2026 tiếp tục diễn ra sôi động qua vòng 3 và 4 với hàng loạt kết quả đáng chú ý. Nếu FPT x Flash vẫn thể hiện vị thế [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/tong-ket-dau-truong-danh-vong-mua-dong-2026-vong-3-4-fpt-x-flash-nhan-that-bai-dau-tien-boom-esports-lien-tuc-tao-dau-an/\">TỔNG KẾT ĐẤU TRƯỜNG DANH VỌNG MÙA ĐÔNG 2026 – VÒNG 3 + 4: FPT x FLASH NHẬN THẤT BẠI ĐẦU TIÊN, BOOM ESPORTS LIÊN TỤC TẠO DẤU ẤN    </a> appeared first on <a href=\"htt",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/09/3-1.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-09-10T09:49:27Z",
+      "crawled_at": "2026-09-15T14:44:30.433713",
+      "category": "esports",
       "priority": 1
     },
     {
