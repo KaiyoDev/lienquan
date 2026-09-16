@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-09-16T05:53:00.556932",
-  "total_news": 69,
+  "last_updated": "2026-09-16T11:15:40.136242",
+  "total_news": 73,
   "news": [
+    {
+      "id": "e22a50bdcc61",
+      "title": "THÔNG BÁO THU HỒI VẬT PHẨM SỰ KIỆN FANZONE",
+      "link": "https://lienquan.garena.vn/thong-bao-thu-hoi-vat-pham-su-kien-fanzone/",
+      "summary": "<p>Xin chào các Kiện tướng, Do phát sinh lỗi tại sự kiện trên website fanzone.lienquan.garena.vn, một số tài khoản đã nhận được điểm từ mục Tải ảnh Legend không đúng quy định. Hệ thống sẽ [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/thong-bao-thu-hoi-vat-pham-su-kien-fanzone/\">THÔNG BÁO THU HỒI VẬT PHẨM SỰ KIỆN FANZONE</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/09/c4e39a30-cb76-4577-87b7-9547f5f572e3.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-09-16T09:26:45Z",
+      "crawled_at": "2026-09-16T11:10:38.783485",
+      "category": "sự kiện",
+      "priority": 1
+    },
+    {
+      "id": "049cf04e9a9b",
+      "title": "YÊU CẦU PHẦN CỨNG VÀ PHẦN MỀM TỐI THIỂU TỪ 29.09.2026",
+      "link": "https://lienquan.garena.vn/yeu-cau-phan-cung-va-phan-mem-toi-thieu-tu-29-09-2026/",
+      "summary": "<p>Để đáp ứng các yêu cầu chính sách mới nhất của Apple App Store và Google Play Store, từ ngày 29.09.2026, người chơi Liên Quân Mobile vui lòng sử dụng thiết bị đáp ứng yêu [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/yeu-cau-phan-cung-va-phan-mem-toi-thieu-tu-29-09-2026/\">YÊU CẦU PHẦN CỨNG VÀ PHẦN MỀM TỐI THIỂU TỪ 29.09.2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/09/ChatGPT-Image-15_24_33-16-thg-9-2026.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-09-16T08:32:48Z",
+      "crawled_at": "2026-09-16T11:10:39.555193",
+      "category": "tin tức",
+      "priority": 1
+    },
     {
       "id": "aab29e2a0c2a",
       "title": "KHỞI TRANH GIẢI ĐẤU DÀNH CHO GAME THỦ 26+ | TỨ PHƯƠNG ĐẠI CHIẾN – THẬP KỶ HỘI NGỘ | TỔNG GIẢI THƯỞNG LÊN ĐẾN 100.000.000 VNĐ",
@@ -417,6 +443,32 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "3d6228c51425",
+      "title": "Apple tung bản cập nhật iOS 27: Loạt iPhone đời cũ được \"hồi sinh\" với bước nhảy vọt về hiệu năng",
+      "link": "https://gamek.vn/apple-tung-ban-cap-nhat-ios-27-loat-iphone-doi-cu-duoc-hoi-sinh-voi-buoc-nhay-vot-ve-hieu-nang-178260916142929306.chn",
+      "summary": "Bên cạnh tâm điểm xoay quanh trí tuệ nhân tạo Siri AI trên các dòng máy mới, bản cập nhật iOS 27 chính thức vừa được Apple phát hành còn mang lại món quà bất ngờ cho người dùng các thế hệ iPhone đời cũ: Cải thiện tốc độ mở ứng dụng tới 30%, tối ưu giao diện Liquid Glass và hàng loạt nâng cấp hệ thống giá trị.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/9/16/avatar1789543630980-1789543631457348626642.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-09-16T11:10:49.963419",
+      "category": "sự kiện",
+      "priority": 2
+    },
+    {
+      "id": "f46ad630c92f",
+      "title": "Quên cảnh \"mất trắng\" công sức đầu tư cho tướng cũ đi, Tam Quốc Tứ Thời Ca sẽ \"nuôi sống\" ví tiền của anh em game thủ",
+      "link": "https://gamek.vn/quen-canh-mat-trang-cong-suc-dau-tu-cho-tuong-cu-di-tam-quoc-tu-thoi-ca-se-nuoi-song-vi-tien-cua-anh-em-game-thu-178260916111641545.chn",
+      "summary": "Trong các tựa game chiến thuật, việc đầu tư tài nguyên cho tướng luôn là một bài toán khiến game thủ phải cân nhắc kỹ lưỡng.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/16/avatar1789531876013-17895318766341776717519.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-09-16T11:10:51.052312",
+      "category": "tướng",
+      "priority": 2
     },
     {
       "id": "f6889a22bad0",
