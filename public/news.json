@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-16T00:15:56.263486",
-  "total_news": 68,
+  "last_updated": "2026-09-16T05:53:00.556932",
+  "total_news": 69,
   "news": [
     {
       "id": "aab29e2a0c2a",
@@ -417,6 +417,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "f6889a22bad0",
+      "title": "Tam Quốc Tứ Thời Ca chính thức ra mắt - Nhận Giftcode ngay",
+      "link": "https://gamek.vn/tam-quoc-tu-thoi-ca-chinh-thuc-ra-mat-nhan-giftcode-ngay-178260916112630825.chn",
+      "summary": "Nhận Giftcode ngay để trở thành người chơi đầu tiên thu thập đủ danh tướng Tần, Hán, Đường, Tam Quốc trong Tam Quốc Tứ Thời Ca.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/16/avatar1789532573592-17895325738911092254471-0-0-196-375-crop-17895326268082142953229.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-09-16T05:48:03.472964",
+      "category": "sự kiện",
+      "priority": 2
     },
     {
       "id": "a386fabeabb6",
