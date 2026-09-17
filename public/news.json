@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-09-17T07:29:28.488989",
-  "total_news": 73,
+  "last_updated": "2026-09-17T13:18:44.479013",
+  "total_news": 77,
   "news": [
+    {
+      "id": "a173dc91fe46",
+      "title": "CÔNG BỐ THÔNG TIN MỞ BÁN VÉ LIÊN QUÂN 10FEST",
+      "link": "https://lienquan.garena.vn/cong-bo-thong-tin-mo-ban-ve-lien-quan-10fest/",
+      "summary": "<p>Liên Quân 10Fest &#8211; Thập Niên Gắn Kết sẽ diễn ra trong hai ngày 07–08/11/2026 tại Sân vận động Quốc gia Mỹ Đình, Hà Nội, với Chung kết Đấu Trường Danh Vọng Mùa Đông 2026 [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/cong-bo-thong-tin-mo-ban-ve-lien-quan-10fest/\">CÔNG BỐ THÔNG TIN MỞ BÁN VÉ LIÊN QUÂN 10FEST</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/09/KV-Liên-Quân_blend-Cover-trang-chu-1-scaled.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-09-17T13:01:04Z",
+      "crawled_at": "2026-09-17T13:13:42.332712",
+      "category": "esports",
+      "priority": 1
+    },
+    {
+      "id": "35e5fbd64051",
+      "title": "ĐẶC QUYỀN VIP MEMBERSHIP: NHẬN VÉ MỜI THAM DỰ LIÊN QUÂN 10 FEST",
+      "link": "https://lienquan.garena.vn/dac-quyen-vip-membership-nhan-ve-moi-tham-du-lien-quan-10-fest/",
+      "summary": "<p>Xin chào các Kiện Tướng, Nhân dịp Liên Quân 10 Fest, Hội Đồng Liên Quân dành tặng đặc quyền tri ân tới các Kiện Tướng thuộc VIP Membership bậc KIM CƯƠNG (https://lienquan.member.garena.vn/). 40 Kiện Tướng [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dac-quyen-vip-membership-nhan-ve-moi-tham-du-lien-quan-10-fest/\">ĐẶC QUYỀN VIP MEMBERSHIP: NHẬN VÉ MỜI THAM DỰ LIÊN QUÂN 10 FEST</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/09/IMG-HOR-0860x0400-107328-cover-post.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-09-17T07:30:43Z",
+      "crawled_at": "2026-09-17T13:13:43.216996",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "e22a50bdcc61",
       "title": "THÔNG BÁO THU HỒI VẬT PHẨM SỰ KIỆN FANZONE",
@@ -443,6 +469,32 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "5da54ac45d8b",
+      "title": "Nhan sắc ngọt ngào của hot girl xinh đẹp, cô gái khiến tuyển thủ Liên Quân nổi tiếng nguyện bảo vệ đến cùng!",
+      "link": "https://gamek.vn/nhan-sac-ngot-ngao-cua-hot-girl-xinh-dep-co-gai-khien-tuyen-thu-lien-quan-noi-tieng-nguyen-bao-ve-den-cung-178260917150923301.chn",
+      "summary": "Sở hữu visual cân mọi phong cách, bạn gái của chàng tuyển thủ Maris nhận về vô số lời khen ngợi từ cộng đồng game thủ.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/17/avatar1789632451864-17896324523651939229209.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-09-17T13:13:53.606471",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
+      "id": "676faa52d1f6",
+      "title": "VNGGAMES đồng hành cùng ĐTQG Thể thao điện tử Việt Nam chinh phục ASIAD 20",
+      "link": "https://gamek.vn/vnggames-dong-hanh-cung-dtqg-the-thao-dien-tu-viet-nam-chinh-phuc-asiad-20-178260917143356114.chn",
+      "summary": "Sáng ngày 16/09, VNGGames phối hợp cùng VIRESA tổ chức Lễ ra quân của Đội tuyển Quốc gia Thể thao Điện tử (Esports) Việt Nam tham dự Đại hội Thể thao châu Á lần thứ 20 (ASIAD 20).",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/17/avatar1789630303299-17896303037021070685488.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-09-17T13:13:55.707348",
+      "category": "esports",
+      "priority": 2
     },
     {
       "id": "3d6228c51425",
