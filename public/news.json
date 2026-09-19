@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-19T00:06:01.753173",
-  "total_news": 80,
+  "last_updated": "2026-09-19T05:40:11.119413",
+  "total_news": 81,
   "news": [
     {
       "id": "a173dc91fe46",
@@ -469,6 +469,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "9ab639c07775",
+      "title": "12 mẹo và thủ thuật giúp bạn khai thác tối đa sức mạnh của iOS 27",
+      "link": "https://gamek.vn/12-meo-va-thu-thuat-giup-ban-khai-thac-toi-da-suc-manh-cua-ios-27-178260919110146438.chn",
+      "summary": "iOS 27 là bản cập nhật tập trung chủ yếu vào việc tối ưu hóa hiệu năng và cải tiến kiến trúc hệ thống ngầm, nền tảng này vẫn mang đến hàng loạt tính năng mới cùng các tinh chỉnh đáng giá.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/9/19/avatar1789790410332-17897904125761428003414.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-09-19T05:35:20.958927",
+      "category": "tin tức",
+      "priority": 2
     },
     {
       "id": "9dcb59666138",
