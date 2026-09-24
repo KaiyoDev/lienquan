@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-24T14:50:14.144379",
-  "total_news": 84,
+  "last_updated": "2026-09-24T18:59:32.684726",
+  "total_news": 85,
   "news": [
     {
       "id": "4ab81c300af0",
@@ -495,6 +495,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "3a01e87c84ad",
+      "title": "Esports Việt làm nên lịch sử tại ASIAD 20, chờ đợi loạt chiến tích khác",
+      "link": "https://gamek.vn/esports-viet-lam-nen-lich-su-tai-asiad-20-cho-doi-loat-chien-tich-khac-178260924221915934.chn",
+      "summary": "Esports Việt ra quân tốt đẹp tại ASIAD 20.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/24/avatar1790262975777-1790262976023506395392.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-09-24T18:54:43.268196",
+      "category": "esports",
+      "priority": 2
     },
     {
       "id": "ad6e488cf284",
