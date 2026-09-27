@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-27T07:55:49.771364",
-  "total_news": 85,
+  "last_updated": "2026-09-27T13:47:31.869421",
+  "total_news": 86,
   "news": [
     {
       "id": "4ab81c300af0",
@@ -495,6 +495,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "a1ad17c0d56a",
+      "title": "Vừa thông báo giải nghệ, tuyển thủ Việt đã bất ngờ gia nhập đội mới?",
+      "link": "https://gamek.vn/vua-thong-bao-giai-nghe-tuyen-thu-viet-da-bat-ngo-gia-nhap-doi-moi-178260927163911241.chn",
+      "summary": "Chưa đầy 2 tháng sau bức tâm thư giải nghệ đầy tiếc nuối, cựu thần rừng Team Flash lại khiến cộng đồng Liên Quân Mobile ngỡ ngàng.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/27/photo-1790499652375-179049965288621802292-1790501838521224071193-1-0-327-622-crop-17905018499451442046540.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-09-27T13:42:42.642853",
+      "category": "tin tức",
+      "priority": 2
     },
     {
       "id": "3a01e87c84ad",
