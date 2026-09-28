@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-28T06:35:16.237790",
-  "total_news": 88,
+  "last_updated": "2026-09-28T15:13:58.065179",
+  "total_news": 90,
   "news": [
     {
       "id": "f5a59b390e35",
@@ -521,6 +521,32 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "cd18a9a25ab6",
+      "title": "Nửa đêm, Thần rừng Liên Quân bị nữ chính \"phốt\" hành vi gạ gẫm 18+",
+      "link": "https://gamek.vn/nua-dem-than-rung-lien-quan-bi-nu-chinh-phot-hanh-vi-ga-gam-18-178260928143333661.chn",
+      "summary": "Cuộc chia tay mối tình gần thập kỷ của Thần rừng Liên Quân chưa thể ngủ yên.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/28/danh-sach-tuong-3-1789449691323-1789449691573871203441-1790589708758935267157-3-2-398-756-crop-17905897142031766478734.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-09-28T15:09:06.933676",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
+      "id": "81f1c8ac2ec6",
+      "title": "HLE có thể \"hưởng lợi\" khi Esports kết thúc tương lai tại ASIAD",
+      "link": "https://gamek.vn/hle-co-the-huong-loi-khi-esports-ket-thuc-tuong-lai-tai-asiad-178260928032638012.chn",
+      "summary": "HLE có thể có nhiều lợi ích khi Esports và LMHT nói riêng rời khỏi ASIAD.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/28/avatar1790580528448-17905805287132010524799.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-09-28T15:09:08.806133",
+      "category": "esports",
+      "priority": 2
     },
     {
       "id": "a1ad17c0d56a",
