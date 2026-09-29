@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-09-29T08:13:34.764331",
-  "total_news": 90,
+  "last_updated": "2026-09-29T15:37:26.017868",
+  "total_news": 92,
   "news": [
+    {
+      "id": "afce63ff24b7",
+      "title": "🌾 CÀY VIEW GẶT LÚA MÙA 2 | ĐUA VIEW TIỀN THƯỞNG DÀNH RIÊNG CHO CREATOR SIÊU SAO LIÊN QUÂN",
+      "link": "https://lienquan.garena.vn/cay-view-gat-lua-mua-2-dua-view-tien-thuong-danh-rieng-cho-creator-sieu-sao-lien-quan/",
+      "summary": "<p>Xin chào các Kiện Tướng, Hoạt động CÀY VIEW GẶT LÚA chính thức trở lại với MÙA 2, dành riêng cho các Creator thuộc chương trình Siêu Sao Liên Quân! Tiếp tục với mục tiêu [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/cay-view-gat-lua-mua-2-dua-view-tien-thuong-danh-rieng-cho-creator-sieu-sao-lien-quan/\">🌾 CÀY VIEW GẶT LÚA MÙA 2 | ĐUA VIEW TIỀN THƯỞNG DÀNH RIÊNG CHO CREATOR SIÊU SAO LIÊN QUÂN</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/09/IMG-HOR-1280x0720-109589-kv-1280.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-09-29T09:30:42Z",
+      "crawled_at": "2026-09-29T15:32:29.118416",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "f5a59b390e35",
       "title": "CHI TIẾT BẢN CẬP NHẬT VẾT NỨT THỜI KHÔNG 29.09.2026",
@@ -521,6 +534,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "936e9f7f83c6",
+      "title": "\"Fan Esports nước mình khổ\", game thủ nhìn lại tuần vừa qua với đủ kiểu bất lực!",
+      "link": "https://gamek.vn/fan-esports-nuoc-minh-kho-game-thu-nhin-lai-tuan-vua-qua-voi-du-kieu-bat-luc-178260929141514382.chn",
+      "summary": "Người hâm mộ thể thao điện tử Việt Nam có lẽ là những CĐV kiên cường, có sức chịu đựng đáng nể.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/29/avatar1790665937326-17906659377971972988100.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-09-29T15:32:40.523922",
+      "category": "esports",
+      "priority": 2
     },
     {
       "id": "cd18a9a25ab6",
