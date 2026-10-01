@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-01T08:45:30.809549",
-  "total_news": 96,
+  "last_updated": "2026-10-01T16:15:59.570915",
+  "total_news": 97,
   "news": [
     {
       "id": "606ce1b7fd9b",
@@ -573,6 +573,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "015100b3cdb9",
+      "title": "NSOC 2026 và hành trình khai phá, mài giũa tiềm năng Esports của sinh viên Việt Nam",
+      "link": "https://gamek.vn/nsoc-2026-va-hanh-trinh-khai-pha-mai-giua-tiem-nang-esports-cua-sinh-vien-viet-nam-178261001162946534.chn",
+      "summary": "Giải đấu Thể thao điện tử Sinh viên Toàn quốc - National Student Open Cup 2026 (NSOC 2026) chính thức khởi động.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/10/1/avatar1790847022901-1790847024422778231301.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-10-01T16:11:10.647518",
+      "category": "esports",
+      "priority": 2
     },
     {
       "id": "7b96bf09bb7b",
