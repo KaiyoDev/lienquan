@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-04T05:13:37.199244",
-  "total_news": 99,
+  "last_updated": "2026-10-04T12:07:40.180957",
+  "total_news": 100,
   "news": [
     {
       "id": "606ce1b7fd9b",
@@ -573,6 +573,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "7aa2fc44dd47",
+      "title": "Massage \"biến tướng\", cố tình ăn mặc phản cảm câu tương tác khiến CĐM phẫn nộ",
+      "link": "https://gamek.vn/massage-bien-tuong-co-tinh-an-mac-phan-cam-cau-tuong-tac-khien-cdm-phan-no-178261003164015095.chn",
+      "summary": "Không thể tin những nội dung độc hại như thế này vẫn đang trôi nổi trên MXH.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/10/3/avatar1791020239841-17910202406831513392984.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-10-04T12:02:52.214850",
+      "category": "tướng",
+      "priority": 2
     },
     {
       "id": "47ff814c21f2",
