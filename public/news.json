@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T06:46:08.932714",
+  "last_updated": "2026-10-05T15:47:57.419043",
   "total_news": 100,
   "news": [
     {
@@ -13,6 +13,19 @@
       "published_at": "2026-10-01T07:55:33Z",
       "crawled_at": "2026-10-01T08:40:23.674830",
       "category": "cập nhật",
+      "priority": 1
+    },
+    {
+      "id": "494e7976e789",
+      "title": "🌕 COMBAT MÙA TRĂNG, SĂN NGAY QUÀ CHẤT – MỞ QUÀ LIÊN QUÂN TRÊN SHOPEE",
+      "link": "https://lienquan.garena.vn/%f0%9f%8c%95-combat-mua-trang-san-ngay-qua-chat-mo-qua-lien-quan-tren-shopee/",
+      "summary": "<p>Mùa trăng này, các kiện tướng đã sẵn sàng lập đội săn quà? Shopee cùng Liên Quân Mobile mang đến cơ hội mở 2000QH, rinh vật phẩm hấp dẫn và nhận loạt ưu đãi mua [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/%f0%9f%8c%95-combat-mua-trang-san-ngay-qua-chat-mo-qua-lien-quan-tren-shopee/\">🌕 COMBAT MÙA TRĂNG, SĂN NGAY QUÀ CHẤT – MỞ QUÀ LIÊN QUÂN TRÊN SHOPEE</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/10/860x400-2.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-10-01T07:23:52Z",
+      "crawled_at": "2026-10-05T15:42:53.326839",
+      "category": "sự kiện",
       "priority": 1
     },
     {
@@ -573,6 +586,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "e4c5224386b5",
+      "title": "Hả hê vì hình phạt của Himass - TanVuu nhưng Esports Hàn bị chính tuyển thủ nhà \"phản lưới\"",
+      "link": "https://gamek.vn/ha-he-vi-hinh-phat-cua-himass-tanvuu-nhung-esports-han-bi-chinh-tuyen-thu-nha-phan-luoi-178261005220537356.chn",
+      "summary": "Mức độ nghiêm trọng thậm chí còn lớn hơn so với trường hợp Himass - TanVuu.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/10/5/avatar1791212654513-1791212655084107974848.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-10-05T15:43:07.681554",
+      "category": "esports",
+      "priority": 2
     },
     {
       "id": "7aa2fc44dd47",
@@ -1274,32 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-08-07T07:22:42.510810",
       "category": "skin",
-      "priority": 2
-    },
-    {
-      "id": "2d2b3d21a11a",
-      "title": "Loạn Thế 3Q: Thần Ma Lệnh chính thức ra mắt và nhanh chóng bùng nổ trên các bảng xếp hạng nhờ lối chơi thẻ tướng cuốn hút",
-      "link": "https://gamek.vn/loan-the-3q-than-ma-lenh-chinh-thuc-ra-mat-va-nhanh-chong-bung-no-tren-cac-bang-xep-hang-nho-loi-choi-the-tuong-cuon-hut-178260806201825893.chn",
-      "summary": "Dù vừa chính thức trình làng, Loạn Thế 3Q: Thần Ma Lệnh - OEG đã nhanh chóng khẳng định vị thế \"bom tấn\" khi liên tục chiếm giữ vị trí Top 1 trên các bảng xếp hạng uy tín.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/8/6/loanthe3q-5-1786022023317515200488-0-0-942-1800-crop-17860221950811301169649.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-08-06T14:22:57.656385",
-      "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "a66590104851",
-      "title": "Game SLG Tam Quốc hành quân tự do \"Tam Quốc: Tranh Bá Thiên Hạ\" chính thức mở đăng ký trước! Ra mắt trailer CG, hẹn trước nhận miễn phí Quan Vũ!",
-      "link": "https://gamek.vn/game-slg-tam-quoc-hanh-quan-tu-do-tam-quoc-tranh-ba-thien-ha-chinh-thuc-mo-dang-ky-truoc-ra-mat-trailer-cg-hen-truoc-nhan-mien-phi-quan-vu-178260806091921165.chn",
-      "summary": "Kết hợp lối chơi SLG + RTS, hỗ trợ hành quân tự do và quốc chiến chục nghìn người, \"Tam Quốc: Tranh Bá Thiên Hạ\" chính thức mở đăng ký trước! Đăng ký ngay để nhận miễn phí thần tướng Quan Vũ, danh hiệu độc quyền Việt Nam, khung avatar cùng hàng loạt phần quà hấp dẫn.",
-      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/8/6/avatar1785982603048-1785982604631558648860.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-08-06T05:54:25.911769",
-      "category": "sự kiện",
       "priority": 2
     }
   ]
