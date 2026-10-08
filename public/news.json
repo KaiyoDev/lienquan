@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-10-08T08:42:23.919115",
+  "last_updated": "2026-10-08T16:19:13.464401",
   "total_news": 100,
   "news": [
+    {
+      "id": "2d6e173dd53b",
+      "title": "MINIGAME | GIẢI MÃ ĐẠI TIỆC – SĂN VÉ ĐẶC BIỆT",
+      "link": "https://lienquan.garena.vn/minigame-giai-ma-dai-tiec-san-ve-dac-biet/",
+      "summary": "<p>🎉CƠ CHẾ THAM GIA MINIGAME &#124; GIẢI MÃ ĐẠI TIỆC, SĂN VÉ ĐẶC BIỆT 1. Thời gian minigame Thời gian nhận bài tham gia: từ 08/10/2026 đến 23:59 ngày 15/10/2026. Các lượt tham gia sau [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/minigame-giai-ma-dai-tiec-san-ve-dac-biet/\">MINIGAME | GIẢI MÃ ĐẠI TIỆC – SĂN VÉ ĐẶC BIỆT</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/10/Tạo-banner-minigame-tạng-vé-concert-2__430x200.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-10-08T12:34:25Z",
+      "crawled_at": "2026-10-08T16:14:14.319858",
+      "category": "tin tức",
+      "priority": 1
+    },
     {
       "id": "606ce1b7fd9b",
       "title": "THÔNG BÁO VỀ VIỆC ĐIỀU CHỈNH HÌNH THỨC XỬ PHẠT ĐỐI VỚI TUYỂN THỦ TRẦN PHÁT TÀI",
@@ -1286,19 +1299,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-08-11T15:02:14.232098",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "bf431802f0cd",
-      "title": "Fanpage chính thức của Saigon Phantom lên tiếng xin lỗi",
-      "link": "https://gamek.vn/fanpage-chinh-thuc-cua-saigon-phantom-len-tieng-xin-loi-178260811170636137.chn",
-      "summary": "Lời xin lỗi trên Fanpage của Saigon Phantom được cho là muộn màng, nhận về toàn phản ứng tiêu cực từ cộng đồng Esports.",
-      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/8/11/73175441416733705947972032958415443105304395n-134054-1786442692888-17864426930832118285071-253-0-1107-1366-crop-1786442715934673966200.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-08-11T10:53:55.146831",
       "category": "esports",
       "priority": 2
     }
