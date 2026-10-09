@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-10-09T08:47:38.575576",
+  "last_updated": "2026-10-09T16:03:07.263186",
   "total_news": 100,
   "news": [
+    {
+      "id": "20bbb9f0741a",
+      "title": "LIÊN QUÂN GẮN KẾT – CHÍNH THỨC TÌM RA NHỮNG HÌNH ẢNH ẤN TƯỢNG NHẤT",
+      "link": "https://lienquan.garena.vn/lien-quan-gan-ket-chinh-thuc-tim-ra-nhung-hinh-anh-an-tuong-nhat/",
+      "summary": "<p>Xin chào các Kiện Tướng, Sau thời gian tiếp nhận những khung hình và khoảnh khắc đáng nhớ được cộng đồng chia sẻ, cuộc thi Liên Quân Gắn Kết đã chính thức khép lại và [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/lien-quan-gan-ket-chinh-thuc-tim-ra-nhung-hinh-anh-an-tuong-nhat/\">LIÊN QUÂN GẮN KẾT &#8211; CHÍNH THỨC TÌM RA NHỮNG HÌNH ẢNH ẤN TƯỢNG NHẤT</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/09/8cd947f3-92b3-4631-aae4-5923b042393a.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-10-09T09:03:01Z",
+      "crawled_at": "2026-10-09T15:58:05.794551",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "2d6e173dd53b",
       "title": "MINIGAME | GIẢI MÃ ĐẠI TIỆC – SĂN VÉ ĐẶC BIỆT",
@@ -1286,19 +1299,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-08-17T16:32:39.192912",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "d3c8514d278c",
-      "title": "Team Flash thăm Trung tâm Văn hóa Việt Nam tại Pháp - Khoảnh khắc kết nối “văn hóa” độc đáo",
-      "link": "https://gamek.vn/team-flash-tham-trung-tam-van-hoa-viet-nam-tai-phap-khoanh-khac-ket-noi-van-hoa-doc-dao-1782608112043135.chn",
-      "summary": "Trong khuôn khổ hành trình tham dự Esports World Cup 2026 tại Pháp, các thành viên Team Flash đã có chuyến thăm Trung tâm Văn hóa Việt Nam tại Paris.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/8/11/avatar1786455679789-1786455680529981239001-0-0-942-1800-crop-17864557186461046855523.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-08-11T15:02:14.232098",
       "category": "esports",
       "priority": 2
     }
