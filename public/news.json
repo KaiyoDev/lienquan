@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T13:31:13.043893",
+  "last_updated": "2026-10-10T18:25:35.562487",
   "total_news": 100,
   "news": [
     {
@@ -625,6 +625,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "4e071f60f77d",
+      "title": "Tin vui cho Esports tại ASIAD nhưng fan ZOFGK lại \"hụt hẫng\"",
+      "link": "https://gamek.vn/tin-vui-cho-esports-tai-asiad-nhung-fan-zofgk-lai-hut-hang-178261010030445186.chn",
+      "summary": "Esports đón nhận tin tốt tại ASIAD nhưng fan của ZOFGK có thể lại một lần nữa thất vọng.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/10/10/avatar1791645381712-1791645382125975834449.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-10-10T18:20:48.697839",
+      "category": "esports",
+      "priority": 2
     },
     {
       "id": "fea90eac56c6",
@@ -1286,19 +1299,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-08-21T03:07:24.354115",
-      "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "2e4683719b3e",
-      "title": "Vị tướng LMHT đang trở thành \"hung thần\" ở LCK",
-      "link": "https://gamek.vn/vi-tuong-lmht-dang-tro-thanh-hung-than-o-lck-178260820014353654.chn",
-      "summary": "Trở lại đầy mạnh mẽ từ MSI 2026 và vị tướng LMHT này đang thực sự thống trị ở LCK.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/8/20/tuong-lmht-3-17872067411681246312623-0-0-942-1800-crop-1787206831957716969376.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-08-20T09:39:04.297172",
       "category": "tướng",
       "priority": 2
     }
