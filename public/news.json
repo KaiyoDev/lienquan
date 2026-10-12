@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T07:11:42.762569",
+  "last_updated": "2026-10-12T17:40:32.304583",
   "total_news": 100,
   "news": [
     {
@@ -625,6 +625,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "53c4141d542a",
+      "title": "CKTG 2026 có thể là kỳ CKTG ý nghĩa bậc nhất lịch sử LMHT",
+      "link": "https://gamek.vn/cktg-2026-co-the-la-ky-cktg-y-nghia-bac-nhat-lich-su-lmht-178261012032142356.chn",
+      "summary": "CKTG 2026 đang rất được mong chờ vì nhiều yếu tố, nhất là ý nghĩa của giải đấu lần này.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/10/12/avatar1791804568815-1791804569187969181301.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-10-12T17:35:43.067413",
+      "category": "esports",
+      "priority": 2
     },
     {
       "id": "4e071f60f77d",
@@ -1287,19 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-08-21T09:41:25.074048",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "9d62c8f1ff5d",
-      "title": "Game SLG \"Tam Quốc: Tranh Bá Thiên Hạ\" chính thức ra mắt tại Việt Nam, Giải Tranh Bá Liên Minh S1 chính thức khởi tranh!",
-      "link": "https://gamek.vn/game-slg-tam-quoc-tranh-ba-thien-ha-chinh-thuc-ra-mat-tai-viet-nam-giai-tranh-ba-lien-minh-s1-chinh-thuc-khoi-tranh-178260821082851632.chn",
-      "summary": "Game SLG tam quốc thời gian thực \"Tam Quốc: Tranh Bá Thiên Hạ\" chính thức ra mắt! Đăng nhập ngay nhận thần tướng Quan Vũ, danh hiệu giới hạn, khung avatar và nhiều phần thưởng hấp dẫn, cộng thêm 2026 lượt rút tích lũy trong mùa S1! Tham gia liên minh của KOL, công thành đoạt đất, tranh đoạt Lạc Dương!",
-      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/8/21/avatar1787275577528-17872755781124398514.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-08-21T03:07:24.354115",
-      "category": "tướng",
       "priority": 2
     }
   ]
