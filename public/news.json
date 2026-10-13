@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T15:49:41.836823",
+  "last_updated": "2026-10-13T21:10:04.435369",
   "total_news": 100,
   "news": [
     {
@@ -653,6 +653,19 @@
       "priority": 1
     },
     {
+      "id": "b1a5b3774a2f",
+      "title": "Cuộc sống sang chảnh của nữ MC Esports Thảo Trang: Vi vu khắp thế giới, hẹn hò khung cảnh hàng triệu đô",
+      "link": "https://gamek.vn/cuoc-song-sang-chanh-cua-nu-mc-esports-thao-trang-vi-vu-khap-the-gioi-hen-ho-khung-canh-hang-trieu-do-178261013155746498.chn",
+      "summary": "Được mệnh danh là \"bóng hồng\" quyến rũ làng Esports Việt, cựu MC Thảo Trang giờ đây khiến cộng đồng mạng ngưỡng mộ bởi cuộc sống ngập tràn trải nghiệm thượng lưu và phong cách thời trang ngày càng thăng hạng.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/10/13/avatar1791881760537-17918817615021036739250.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-10-13T21:05:10.709942",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "db0d10cd4c54",
       "title": "Né đạn, bám tường bằng cách \"hóa giấy\" - Gameplay khác lạ của Strinova: Biệt đội Anime",
       "link": "https://gamek.vn/ne-dan-bam-tuong-bang-cach-hoa-giay-gameplay-khac-la-cua-strinova-biet-doi-anime-178261013155040809.chn",
@@ -1287,19 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-08-25T13:54:20.990814",
       "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "b61e5af390ef",
-      "title": "Huyền thoại Hồng Sơn chính thức trình làng FC Mobile VN trong mùa thẻ ANS: Việt Nam với OVR cực cao",
-      "link": "https://gamek.vn/huyen-thoai-hong-son-chinh-thuc-trinh-lang-fc-mobile-vn-trong-mua-the-ans-viet-nam-voi-ovr-cuc-cao-178260825182430905.chn",
-      "summary": "Cựu danh thủ Hồng Sơn sẽ cùng các tuyển thủ ĐTQG Việt Nam sở hữu chỉ số vượt trội như Xuân Son, Hoàng Hên, Đình Bắc - sẵn sàng trở thành những lựa chọn đáng gờm trong meta hiện tại.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/8/25/hongson-vietnam-4-17876566580301867375948-0-0-942-1800-crop-17876594106781598194640.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-08-25T12:54:38.103876",
-      "category": "meta",
       "priority": 2
     }
   ]
