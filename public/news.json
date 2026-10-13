@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-10-13T00:27:57.587803",
+  "last_updated": "2026-10-13T07:36:13.258025",
   "total_news": 100,
   "news": [
+    {
+      "id": "366fcf02fa0b",
+      "title": "THÔNG BÁO VỀ TÌNH HUỐNG PHÁT SINH TRONG TRẬN ĐẤU GIỮA SAIGON PHANTOM VÀ FPT FLASH NGÀY 11/10/2026",
+      "link": "https://lienquan.garena.vn/thong-bao-ve-tinh-huong-phat-sinh-trong-tran-dau-giua-saigon-phantom-va-fpt-flash-ngay-11-10-2026/",
+      "summary": "<p>Ban Tổ chức (BTC) xin thông tin đến cộng đồng về tình huống phát sinh trong Ván 1 của trận đấu giữa Saigon Phantom và FPT Flash diễn ra ngày 11/10/2026. Cụ thể, tại thời [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/thong-bao-ve-tinh-huong-phat-sinh-trong-tran-dau-giua-saigon-phantom-va-fpt-flash-ngay-11-10-2026/\">THÔNG BÁO VỀ TÌNH HUỐNG PHÁT SINH TRONG TRẬN ĐẤU GIỮA SAIGON PHANTOM VÀ FPT FLASH NGÀY 11/10/2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quâ",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/10/SeaTalk_IMG_20261013_141129.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-10-13T07:12:45Z",
+      "crawled_at": "2026-10-13T07:31:06.673806",
+      "category": "tin tức",
+      "priority": 1
+    },
     {
       "id": "c18a76a64b5e",
       "title": "QUY ĐỊNH & QUY TRÌNH ĐĂNG KÝ 10FEST COMMUNITY BUS",
@@ -625,6 +638,19 @@
       "crawled_at": "2026-08-04T05:52:54.554957",
       "category": "tướng",
       "priority": 1
+    },
+    {
+      "id": "a3b56926b740",
+      "title": "\"Ngã ngửa\" với hội nhóm gái xinh xuất hiện dịch vụ \"giao lưu\" biến tướng nhạy cảm, nạn nhân lên tiếng cảnh báo!",
+      "link": "https://gamek.vn/nga-ngua-voi-hoi-nhom-gai-xinh-xuat-hien-dich-vu-giao-luu-bien-tuong-nhay-cam-nan-nhan-len-tieng-canh-bao-17826100715444915.chn",
+      "summary": "Lợi dụng chiêu trò ẩn danh, tung \"mã rẻ\" là một phần quy trình trong bẫy lừa đảo tinh vi.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/10/7/avatar1791362391508-17913623918481523849415.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-10-13T07:31:22.181694",
+      "category": "tướng",
+      "priority": 2
     },
     {
       "id": "53c4141d542a",
@@ -1274,32 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-08-22T11:24:36.460014",
       "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "058ed080b012",
-      "title": "Biến tướng chiêu trò game tương tác khều donate, nữ TikToker tác động vòng 1 phản cảm gây bức xúc",
-      "link": "https://gamek.vn/bien-tuong-chieu-tro-game-tuong-tac-kheu-donate-nu-tiktoker-tac-dong-vong-1-phan-cam-gay-buc-xuc-178260820085132921.chn",
-      "summary": "Thời gian gần đây, tính năng livestream trên nền tảng TikTok không chỉ là nơi chia sẻ khoảnh khắc đời thường hay bán hàng online, mà còn xuất hiện nhiều dạng \"game tương tác\".",
-      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/8/20/avatar1787190565929-1787190567782958548253-65-0-302-379-crop-178719061397558204116.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-08-22T09:31:10.186483",
-      "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "ff72bf8f88ca",
-      "title": "Thót tim cú trượt ngã của nàng hậu chân dài 1m22, màn ứng biến sau đó được dân tình vỗ tay rần rần",
-      "link": "https://gamek.vn/thot-tim-cu-truot-nga-cua-nang-hau-chan-dai-1m22-man-ung-bien-sau-do-duoc-dan-tinh-vo-tay-ran-ran-178260821143632578.chn",
-      "summary": "Gặp sự cố trên sân khấu, nàng hậu có màn xử lý mãn nhãn. Fan game nhớ ngay về cú ngã lịch sử của MC Liên Quân đình đám.",
-      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/8/21/screenshot-2026-08-21-135125-140744-1787297652114-1787297652566143733820-183-0-507-519-crop-17872976944451485862369.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-08-21T09:41:25.074048",
-      "category": "tin tức",
       "priority": 2
     }
   ]
