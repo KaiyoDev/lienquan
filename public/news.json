@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-10-13T07:36:13.258025",
+  "last_updated": "2026-10-13T15:49:41.836823",
   "total_news": 100,
   "news": [
+    {
+      "id": "69dbe6126aa7",
+      "title": "THÔNG BÁO BẢO TRÌ",
+      "link": "https://lienquan.garena.vn/thong-bao-bao-tri/",
+      "summary": "<p>THÔNG BÁO BẢO TRÌ Hội đồng Liên Quân xin thông báo: hệ thống sẽ được bảo trì trong khoảng 06:00–07:00 ngày 14.10.2026. Trong thời gian này, các Kiện Tướng có thể gặp gián đoạn khi [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/thong-bao-bao-tri/\">THÔNG BÁO BẢO TRÌ</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/10/deepix_image_20261013_181701.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-10-13T11:17:58Z",
+      "crawled_at": "2026-10-13T15:44:33.790316",
+      "category": "tướng",
+      "priority": 1
+    },
     {
       "id": "366fcf02fa0b",
       "title": "THÔNG BÁO VỀ TÌNH HUỐNG PHÁT SINH TRONG TRẬN ĐẤU GIỮA SAIGON PHANTOM VÀ FPT FLASH NGÀY 11/10/2026",
@@ -640,6 +653,32 @@
       "priority": 1
     },
     {
+      "id": "db0d10cd4c54",
+      "title": "Né đạn, bám tường bằng cách \"hóa giấy\" - Gameplay khác lạ của Strinova: Biệt đội Anime",
+      "link": "https://gamek.vn/ne-dan-bam-tuong-bang-cach-hoa-giay-gameplay-khac-la-cua-strinova-biet-doi-anime-178261013155040809.chn",
+      "summary": "Strinova: Biệt đội Anime đang thiết lập một chuẩn mực eSports mới nhờ cơ chế \"Hóa giấy\" độc nhất vô nhị. Sự xuất hiện của nhà phát hành Gzone tại thị trường Việt Nam, hứa hẹn sẽ mở ra một cuộc đại hải trình đầy hứng khởi cho cộng đồng game thủ nước nhà.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/10/13/photo1791863228637-17918632288312021933829-1791881443444185883099.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-10-13T15:44:50.477487",
+      "category": "esports",
+      "priority": 2
+    },
+    {
+      "id": "9628b4b84379",
+      "title": "Top 8 giải đấu trong anime đỉnh cao hơn cả Giải Đấu Sức Mạnh của Dragon Ball Super",
+      "link": "https://gamek.vn/top-8-giai-dau-trong-anime-dinh-cao-hon-ca-giai-dau-suc-manh-cua-dragon-ball-super-178261013143839603.chn",
+      "summary": "Bỏ xa quy mô vũ trụ của Dragon Ball Super, 8 giải đấu anime đỉnh cao này mới thực sự là tượng đài về cả chiến thuật lẫn giá trị cảm xúc.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/10/13/avatar1791876849305-1791876849679398961526.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-10-13T15:44:51.604312",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "a3b56926b740",
       "title": "\"Ngã ngửa\" với hội nhóm gái xinh xuất hiện dịch vụ \"giao lưu\" biến tướng nhạy cảm, nạn nhân lên tiếng cảnh báo!",
       "link": "https://gamek.vn/nga-ngua-voi-hoi-nhom-gai-xinh-xuat-hien-dich-vu-giao-luu-bien-tuong-nhay-cam-nan-nhan-len-tieng-canh-bao-17826100715444915.chn",
@@ -1261,45 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-08-25T12:54:38.103876",
       "category": "meta",
-      "priority": 2
-    },
-    {
-      "id": "8642b702a8f8",
-      "title": "Cộng đồng Liên Quân có còn nhớ vụ \"Trà Đào\" năm ấy?",
-      "link": "https://gamek.vn/cong-dong-lien-quan-co-con-nho-vu-tra-dao-nam-ay-178260824153433895.chn",
-      "summary": "Cô nàng Kim Ngân vừa đăng tải dòng tâm sự dài liên quan đến vụ lùm xùm lớn trong thời gian hoạt động với vai trò là MC tại một giải đấu của tựa game Liên Quân Mobile.",
-      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/8/24/photo-by-nguyen-tran-kim-ngan-on-september-04-2025-17875603345261217117347-27-0-927-1440-crop-17875603403231589538911.jpeg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-08-24T13:57:02.745777",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "5ca66dd29778",
-      "title": "Trang Six là ai?",
-      "link": "https://gamek.vn/trang-six-la-ai-178260823105256966.chn",
-      "summary": "Bài đăng của Lai Bâng với nội dung chấm dứt mối tình 10 năm khiến cộng đồng Liên Quân xôn xao, Trang Six trở thành nội dung tìm kiếm nóng.",
-      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/8/23/img0376-074756-1787456892947-1787456893344558126031-31-0-500-750-crop-17874570704732028639999.jpeg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-08-23T04:41:46.654953",
-      "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "4e79fee1e81c",
-      "title": "OMG 3Q - 9 năm bền bỉ khẳng định vị thế tượng đài game đấu tướng chiến thuật Tam Quốc",
-      "link": "https://gamek.vn/omg-3q-9-nam-ben-bi-khang-dinh-vi-the-tuong-dai-game-dau-tuong-chien-thuat-tam-quoc-178260822165210543.chn",
-      "summary": "9 năm không chỉ là cột mốc để nhìn lại, mà còn là bước đệm để OMG 3Q - VNG tiếp tục bứt phá.",
-      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/8/22/avatar1787391993622-17873920002801999578943-1-0-484-772-crop-17873920960561527742674.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-08-22T11:24:36.460014",
-      "category": "tướng",
       "priority": 2
     }
   ]
