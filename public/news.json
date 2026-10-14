@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-10-14T12:50:12.935387",
+  "last_updated": "2026-10-14T17:57:17.539702",
   "total_news": 100,
   "news": [
+    {
+      "id": "3a1981738663",
+      "title": "CẬP NHẬT LỖI GIỚI HẠN ĐỔI TRANG PHỤC CỬA HÀNG THỜI GIAN",
+      "link": "https://lienquan.garena.vn/cap-nhat-loi-gioi-han-doi-trang-phuc-cua-hang-thoi-gian/",
+      "summary": "<p>CẬP NHẬT LỖI GIỚI HẠN ĐỔI TRANG PHỤC CỬA HÀNG THỜI GIAN Hội đồng Liên Quân xin thông báo: Lỗi giới hạn đổi 2 trang phục trong mục Trang phục bậc cao trong sự kiện [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/cap-nhat-loi-gioi-han-doi-trang-phuc-cua-hang-thoi-gian/\">CẬP NHẬT LỖI GIỚI HẠN ĐỔI TRANG PHỤC CỬA HÀNG THỜI GIAN</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/10/cap_nhat_su_kien.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-10-14T13:00:24Z",
+      "crawled_at": "2026-10-14T17:52:16.528810",
+      "category": "sự kiện",
+      "priority": 1
+    },
     {
       "id": "69dbe6126aa7",
       "title": "THÔNG BÁO BẢO TRÌ",
@@ -1287,19 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-08-26T14:00:23.681751",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "188b12a552c2",
-      "title": "OMG 3Q 9 tuổi: Chị Ca Nô và Thầy Giáo Ba bùng nổ tương tác livestream",
-      "link": "https://gamek.vn/omg-3q-9-tuoi-chi-ca-no-va-thay-giao-ba-bung-no-tuong-tac-livestream-178260825203540591.chn",
-      "summary": "Sau 9 năm bền bỉ đồng hành cùng game thủ Việt, tượng đài dòng game đấu tướng chiến thuật Tam Quốc OMG 3Q - VNG tiếp tục khiến cộng đồng phải “OMG” với đại tiệc sinh nhật được đầu tư quy mô, quy tụ dàn KOL, streamer đình đám.",
-      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/8/25/photo1787645297055-17876452971941137619205-17876649445021681668988.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-08-25T13:54:20.990814",
-      "category": "tướng",
       "priority": 2
     }
   ]
