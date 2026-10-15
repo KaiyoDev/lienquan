@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T05:47:15.049676",
+  "last_updated": "2026-10-15T11:12:13.216305",
   "total_news": 100,
   "news": [
     {
@@ -679,6 +679,19 @@
       "priority": 1
     },
     {
+      "id": "49203af9f5c0",
+      "title": "Logitech G PRO Series 2026: Nâng cấp toàn diện nhưng vẫn còn dư địa hoàn thiện",
+      "link": "https://gamek.vn/logitech-g-pro-series-2026-nang-cap-toan-dien-nhung-van-con-du-dia-hoan-thien-178261015163623654.chn",
+      "summary": "Sự trở lại của hệ sinh thái thiết bị ngoại vi chuyên dụng từ Logitech G mang theo nhiều cải tiến đáng chú ý về công nghệ phần cứng và hiệu năng, đáp ứng kỳ vọng khắt khe của cộng đồng game thủ eSports.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/10/15/photo1792048861218-17920488613681784940605-17920569878591414366270.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-10-15T11:07:22.497171",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "b1a5b3774a2f",
       "title": "Cuộc sống sang chảnh của nữ MC Esports Thảo Trang: Vi vu khắp thế giới, hẹn hò khung cảnh hàng triệu đô",
       "link": "https://gamek.vn/cuoc-song-sang-chanh-cua-nu-mc-esports-thao-trang-vi-vu-khap-the-gioi-hen-ho-khung-canh-hang-trieu-do-178261013155746498.chn",
@@ -1287,19 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-08-27T16:17:02.965855",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "6396fd4722e7",
-      "title": "LG trình làng loạt màn hình gaming UltraGear 2026 tại Việt Nam: OLED 5K2K tích hợp AI, tần số quét lên tới 1000Hz",
-      "link": "https://gamek.vn/lg-trinh-lang-loat-man-hinh-gaming-ultragear-2026-tai-viet-nam-oled-5k2k-tich-hop-ai-tan-so-quet-len-toi-1000hz-178260827171031427.chn",
-      "summary": "LG Electronics chính thức giới thiệu thế hệ màn hình gaming UltraGear mới tại thị trường Việt Nam, nổi bật với dòng OLED 5K2K tích hợp AI, màn hình thông minh chạy webOS 26 và mẫu màn hình eSports sở hữu tần số quét gốc lên tới 1000Hz.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/8/27/avatar1787825380654-1787825380926521108788.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-08-27T16:17:05.575836",
-      "category": "esports",
       "priority": 2
     }
   ]
