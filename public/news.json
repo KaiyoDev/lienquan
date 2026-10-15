@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-10-15T00:26:23.838541",
+  "last_updated": "2026-10-15T05:47:15.049676",
   "total_news": 100,
   "news": [
+    {
+      "id": "ca504134e5f0",
+      "title": "ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 15.10.2026",
+      "link": "https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-vet-nut-thoi-khong-15-10-2026/",
+      "summary": "<p>Xin chào các Kiện Tướng, Liên Quân Mobile sẽ tiến hành cập nhật không gián đoạn cho máy chủ chính thức vào ngày 15/10/2026. Trong thời gian quy định, các Kiện tướng có thể tự chọn thời điểm [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-vet-nut-thoi-khong-15-10-2026/\">ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 15.10.2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/10/IMG-HOR-0860x0400-112056-untitled-4.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-10-15T02:25:54Z",
+      "crawled_at": "2026-10-15T05:42:10.165676",
+      "category": "cập nhật",
+      "priority": 1
+    },
     {
       "id": "3a1981738663",
       "title": "CẬP NHẬT LỖI GIỚI HẠN ĐỔI TRANG PHỤC CỬA HÀNG THỜI GIAN",
@@ -1287,19 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-08-27T16:17:05.575836",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "0bf873a53b17",
-      "title": "Bạn gái thần rừng Lai Bâng vừa gặp drama, fan Liên Quân réo tên Quỳnh Alee, cẩn thận dặn dò",
-      "link": "https://gamek.vn/ban-gai-than-rung-lai-bang-vua-gap-drama-fan-lien-quan-reo-ten-quynh-alee-can-than-dan-do-178260826084440303.chn",
-      "summary": "Giữa lúc sự việc đang căng thẳng, fan hâm mộ Liên Quân bất ngờ réo tên Quỳnh Alee.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/8/26/photo-by-quynh-alee-on-july-20-2025-151311-1787708460739-1787708460984575218447-707-0-1461-1440-crop-1787708599353380877321.jpeg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-08-26T14:00:23.681751",
-      "category": "tin tức",
       "priority": 2
     }
   ]
