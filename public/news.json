@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T23:40:46.617777",
+  "last_updated": "2026-10-16T03:59:20.634169",
   "total_news": 100,
   "news": [
     {
@@ -679,6 +679,19 @@
       "priority": 1
     },
     {
+      "id": "32c38eafada7",
+      "title": "Cận cảnh \"profile\" nữ idol live hot nhất lúc này!",
+      "link": "https://gamek.vn/can-canh-profile-nu-idol-live-hot-nhat-luc-nay-178261015143910219.chn",
+      "summary": "Cô gái có biệt danh NinNin khiến cư dân mạng bùng nổ với màn xuất hiện mới đây, tuyển thủ Liên Quân Lai Bâng gửi tặng hai \"thiên hà\".",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/10/15/30-2026-may-be-an-image-of-one-or-more-people-make-up-headdress-and-outdoors-100408-1792049788634-17920497891521141536355-168-0-1061-1706-crop-1792049907773804546193.jpeg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-10-16T03:54:32.589768",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "49203af9f5c0",
       "title": "Logitech G PRO Series 2026: Nâng cấp toàn diện nhưng vẫn còn dư địa hoàn thiện",
       "link": "https://gamek.vn/logitech-g-pro-series-2026-nang-cap-toan-dien-nhung-van-con-du-dia-hoan-thien-178261015163623654.chn",
@@ -1287,19 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-08-29T06:55:54.138785",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "c6a1170e9778",
-      "title": "MC Phương Thảo phiền lòng chuyện yêu, đăng đàn tâm sự giữa đêm",
-      "link": "https://gamek.vn/mc-phuong-thao-phien-long-chuyen-yeu-dang-dan-tam-su-giua-dem-178260826123204951.chn",
-      "summary": "Chẳng cần nhắc tên nhưng fan Liên Quân cũng biết MC Phương Thảo đang nghĩ về ai.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/8/26/photo-by-vu-phuong-thao-on-april-27-2026-090715-1787722164814-17877221650061589522258-687-0-1441-1440-crop-17877222426291911796211.jpeg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-08-27T16:17:02.965855",
-      "category": "tin tức",
       "priority": 2
     }
   ]
