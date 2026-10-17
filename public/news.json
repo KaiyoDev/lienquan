@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T03:49:15.264231",
+  "last_updated": "2026-10-17T08:29:02.510397",
   "total_news": 100,
   "news": [
     {
@@ -679,6 +679,19 @@
       "priority": 1
     },
     {
+      "id": "d7a9eb10386b",
+      "title": "Bị anti cố tình xúc phạm đời tư, MC Linh Nắng có màn phản pháo sâu cay",
+      "link": "https://gamek.vn/bi-anti-co-tinh-xuc-pham-doi-tu-mc-linh-nang-co-man-phan-phao-sau-cay-17826101712101468.chn",
+      "summary": "Đứng trước lời nhận xét khiếm nhã và bịa đặt đời tư từ một netizen kém duyên, nữ MC đình đám của làng Esports Việt đã có màn đáp trả thông minh, sâu cay được cộng đồng mạng rần rần ủng hộ.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/10/17/img1046-1792213748345901456563-331-0-619-550-crop-17922137657141443673201.webp",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-10-17T08:24:11.150592",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "32c38eafada7",
       "title": "Cận cảnh \"profile\" nữ idol live hot nhất lúc này!",
       "link": "https://gamek.vn/can-canh-profile-nu-idol-live-hot-nhat-luc-nay-178261015143910219.chn",
@@ -1287,19 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-08-31T08:24:44.748543",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "701353476e90",
-      "title": "Mừng cho MC Thảo Trang",
-      "link": "https://gamek.vn/mung-cho-mc-thao-trang-178260828141200031.chn",
-      "summary": "Từng là gương mặt nữ hiếm hoi xuất hiện trong cộng đồng esports Việt Nam, MC Thảo Trang gây ấn tượng bởi vẻ ngoài xinh xắn, giọng nói dễ nghe cùng khả năng dẫn dắt tự tin.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/8/28/582076980185169140860704936515538655297334262n-094845-1787899870763-1787899871142125699859-255-0-632-720-crop-17879004701901047094336.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-08-29T06:55:54.138785",
-      "category": "esports",
       "priority": 2
     }
   ]
