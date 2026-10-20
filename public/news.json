@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T14:55:57.518964",
+  "last_updated": "2026-10-20T19:11:36.022970",
   "total_news": 100,
   "news": [
     {
@@ -692,6 +692,19 @@
       "priority": 1
     },
     {
+      "id": "5d50729b1710",
+      "title": "Đều ở tầm \"lão tướng\" nhưng 2 siêu sao LMHT chỉ mới chuẩn bị gặp nhau lần thứ hai",
+      "link": "https://gamek.vn/deu-o-tam-lao-tuong-nhung-2-sieu-sao-lmht-chi-moi-chuan-bi-gap-nhau-lan-thu-hai-178261020130918103.chn",
+      "summary": "Có thể nói, màn đối đầu này luôn được cộng đồng LMHT mong chờ nhưng lại vô cùng hiếm hoi.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/10/20/avatar1792513539556-17925135450982112052566.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-10-20T19:04:30.338310",
+      "category": "tướng",
+      "priority": 2
+    },
+    {
       "id": "c1368de969b8",
       "title": "Games ON: Hải Phòng 2026! Đón gần 50.000 lượt khách, khép lại thành công 3 trận chung kết Esports giải Vô địch quốc gia",
       "link": "https://gamek.vn/games-on-hai-phong-2026-don-gan-50000-luot-khach-khep-lai-thanh-cong-3-tran-chung-ket-esports-giai-vo-dich-quoc-gia-178261020151251381.chn",
@@ -1287,19 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-09-02T13:26:45.668954",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "244820fcae76",
-      "title": "Dở khóc dở cười drama skin game 2 \"củ\", bạn gái game thủ giận tím mặt vì không được mua váy",
-      "link": "https://gamek.vn/do-khoc-do-cuoi-drama-skin-game-2-cu-ban-gai-game-thu-gian-tim-mat-vi-khong-duoc-mua-vay-178260730090151132.chn",
-      "summary": "Hậu mua \"váy\" cho tướng Natalya hết 2 triệu đồng, nam game thủ \"xù\" quà sinh nhật người yêu.",
-      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/7/30/avatar1785376711918-1785376712141898320592.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-09-01T07:32:13.578036",
-      "category": "sự kiện",
       "priority": 2
     }
   ]
