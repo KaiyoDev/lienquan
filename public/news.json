@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T04:17:59.687101",
+  "last_updated": "2026-10-20T09:58:23.713485",
   "total_news": 100,
   "news": [
     {
@@ -679,6 +679,19 @@
       "priority": 1
     },
     {
+      "id": "c1368de969b8",
+      "title": "Games ON: Hải Phòng 2026! Đón gần 50.000 lượt khách, khép lại thành công 3 trận chung kết Esports giải Vô địch quốc gia",
+      "link": "https://gamek.vn/games-on-hai-phong-2026-don-gan-50000-luot-khach-khep-lai-thanh-cong-3-tran-chung-ket-esports-giai-vo-dich-quoc-gia-178261020151251381.chn",
+      "summary": "Với gần 50.000 lượt khách tham dự, 9 khu vực trải nghiệm từ 20 tựa game, hàng nghìn phần quà và 3 trận chung kết Esports cấp quốc gia, Games ON: Hải Phòng 2026! tạo nên ngày hội đáng nhớ tại thành phố cảng.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/10/20/photo1792471204354-1792471204705964126867-17924839742811817337842.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-10-20T09:53:36.143537",
+      "category": "sự kiện",
+      "priority": 2
+    },
+    {
       "id": "d7a9eb10386b",
       "title": "Bị anti cố tình xúc phạm đời tư, MC Linh Nắng có màn phản pháo sâu cay",
       "link": "https://gamek.vn/bi-anti-co-tinh-xuc-pham-doi-tu-mc-linh-nang-co-man-phan-phao-sau-cay-17826101712101468.chn",
@@ -1286,19 +1299,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-08-31T08:24:43.523143",
-      "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "64b11e082943",
-      "title": "Crossfire: Legends đổi mới lối chơi, Liên Quân Mobile tôn vinh văn hóa tò he",
-      "link": "https://gamek.vn/crossfire-legends-doi-moi-loi-choi-lien-quan-mobile-ton-vinh-van-hoa-to-he-178260831090027476.chn",
-      "summary": "Khi thế giới game di động không ngừng chuyển mình với những xu hướng toàn cầu hóa, một trong những hướng đi thú vị nhất chính là cách các nhà phát triển khéo léo lồng ghép bản sắc văn hóa bản địa hoặc tạo ra những sự kết hợp độc đáo giữa hiện đại và truyền thống.",
-      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/8/31/img0474-17881092168201049208327-18-0-849-1329-crop-1788141420084981723245.jpeg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-08-31T08:24:44.748543",
       "category": "tin tức",
       "priority": 2
     }
