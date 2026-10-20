@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-10-20T09:58:23.713485",
+  "last_updated": "2026-10-20T14:55:57.518964",
   "total_news": 100,
   "news": [
+    {
+      "id": "cac5ee9e8ef1",
+      "title": "THÔNG BÁO XỬ PHẠT ĐỘI TUYỂN TRƯỜNG ĐẠI HỌC BÁCH KHOA – ĐH ĐÀ NẴNG TẠI SWISS STAGE TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
+      "link": "https://lienquan.garena.vn/thong-bao-xu-phat-doi-tuyen-truong-dai-hoc-bach-khoa-dh-da-nang-tai-swiss-stage-tu-phuong-dai-chien-mua-dong-2026/",
+      "summary": "<p>Xin chào các Kiện tướng, Tại Swiss Stage giải đấu Tứ Phương Đại Chiến mùa Đông 2026, Ban Tổ Chức đã tiếp nhận thông tin về việc đội tuyển Trường ĐH Bách Khoa &#8211; ĐH [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/thong-bao-xu-phat-doi-tuyen-truong-dai-hoc-bach-khoa-dh-da-nang-tai-swiss-stage-tu-phuong-dai-chien-mua-dong-2026/\">THÔNG BÁO XỬ PHẠT ĐỘI TUYỂN TRƯỜNG ĐẠI HỌC BÁCH KHOA &#8211; ĐH ĐÀ NẴNG TẠI SWISS STAGE TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026</a> appeared first on <a hre",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/10/IMG-HOR-0860x0400-111192-artboard-2.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-10-20T11:20:31Z",
+      "crawled_at": "2026-10-20T14:50:51.173136",
+      "category": "esports",
+      "priority": 1
+    },
     {
       "id": "ca504134e5f0",
       "title": "ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 15.10.2026",
@@ -1287,19 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-09-01T07:32:13.578036",
       "category": "sự kiện",
-      "priority": 2
-    },
-    {
-      "id": "4f78f7304904",
-      "title": "Bi kịch cao thủ giỏi nhất 'Thủy hử': Bị Tống Giang 'ép làm giặc', chết bi thảm",
-      "link": "https://gamek.vn/bi-kich-cao-thu-gioi-nhat-thuy-hu-bi-tong-giang-ep-lam-giac-chet-bi-tham-178260828102650857.chn",
-      "summary": "Người này bị Tống Giang làm tan cửa nát nhà và bị kết án tử hình, không thể không lên Lương Sơn; chiến đấu bạt mạng nhưng lúc thành công lại bị lừa uống rượu độc.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/8/28/avatar1787887478962-17878874793171612557190.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-08-31T08:24:43.523143",
-      "category": "tin tức",
       "priority": 2
     }
   ]
