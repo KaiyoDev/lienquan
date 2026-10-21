@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-10-21T04:05:33.321626",
+  "last_updated": "2026-10-21T09:59:17.945328",
   "total_news": 100,
   "news": [
+    {
+      "id": "f24da64588ab",
+      "title": "THÔNG BÁO CẬP NHẬT HIỂN THỊ GIÁ NẠP QUÂN HUY QUA GOOGLE PLAY",
+      "link": "https://lienquan.garena.vn/thong-bao-cap-nhat-hien-thi-gia-nap-quan-huy-qua-google-play/",
+      "summary": "<p>Xin chào các Kiện Tướng, Hội đồng xin thông báo: giao diện nạp Quân Huy qua Google Play đã được cập nhật để hiển thị chính xác số tiền cần thanh toán tại từng mốc [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/thong-bao-cap-nhat-hien-thi-gia-nap-quan-huy-qua-google-play/\">THÔNG BÁO CẬP NHẬT HIỂN THỊ GIÁ NẠP QUÂN HUY QUA GOOGLE PLAY</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/10/deepix_image_20261021_144455.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-10-21T07:43:02Z",
+      "crawled_at": "2026-10-21T09:54:08.095382",
+      "category": "tướng",
+      "priority": 1
+    },
+    {
+      "id": "55b286ba459e",
+      "title": "PLAYOFFS TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026 – 8 ĐẠI DIỆN, MỘT ĐÍCH ĐẾN VINH QUANG",
+      "link": "https://lienquan.garena.vn/playoffs-tu-phuong-dai-chien-mua-dong-2026-8-dai-dien-mot-dich-den-vinh-quang/",
+      "summary": "<p>&#160; Xin chào các Kiện Tướng, Hành trình chinh phục Tứ Phương Đại Chiến Mùa Đông 2026 đã đi qua những trận chiến đầy kịch tính tại Vòng Loại và Swiss Stage. Từ hàng trăm [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/playoffs-tu-phuong-dai-chien-mua-dong-2026-8-dai-dien-mot-dich-den-vinh-quang/\">PLAYOFFS TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026 &#8211; 8 ĐẠI DIỆN, MỘT ĐÍCH ĐẾN VINH QUANG</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/10/Copy-of-KV-play-off-860-1.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-10-21T05:26:56Z",
+      "crawled_at": "2026-10-21T09:54:09.451232",
+      "category": "esports",
+      "priority": 1
+    },
     {
       "id": "cac5ee9e8ef1",
       "title": "THÔNG BÁO XỬ PHẠT ĐỘI TUYỂN TRƯỜNG ĐẠI HỌC BÁCH KHOA – ĐH ĐÀ NẴNG TẠI SWISS STAGE TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
@@ -1274,32 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-09-04T08:41:26.696229",
       "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "d1da72148b38",
-      "title": "Oner \"phá dớp\" cho vị tướng đặc biệt bậc nhất LCK",
-      "link": "https://gamek.vn/oner-pha-dop-cho-vi-tuong-dac-biet-bac-nhat-lck-178260902211218048.chn",
-      "summary": "Ván thắng trước HLE giúp Oner \"phá dớp\" tại LCK cho một vị tướng rất mạnh của LMHT.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/2/avatar1788368496713-17883684969551580561267.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-09-03T03:46:56.690844",
-      "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "cb680f23ec49",
-      "title": "Sau khoảnh khắc ngồi chung trên khán đài, tuyển thủ Liên Quân tung video “thân mật” với hot girl",
-      "link": "https://gamek.vn/sau-khoanh-khac-ngoi-chung-tren-khan-dai-tuyen-thu-lien-quan-tung-video-than-mat-voi-hot-girl-178260902141910096.chn",
-      "summary": "Tuyển thủ nổi tiếng chính thức có những khoảnh khắc riêng tư với bạn gái hotgirl.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/2/img0516-075408-1788333190359-17883331905581463937279-234-0-861-1198-crop-17883333447321178546256.jpeg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-09-02T13:26:45.668954",
-      "category": "tin tức",
       "priority": 2
     }
   ]
