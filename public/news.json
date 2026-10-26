@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T10:56:51.342205",
+  "last_updated": "2026-10-26T17:16:35.507924",
   "total_news": 100,
   "news": [
     {
@@ -744,6 +744,19 @@
       "priority": 1
     },
     {
+      "id": "406934b3836a",
+      "title": "MC Phương Thảo bất ngờ gặp \"biến\" ... vì 4 bức ảnh?",
+      "link": "https://gamek.vn/mc-phuong-thao-bat-ngo-gap-bien-vi-4-buc-anh-178261026150237169.chn",
+      "summary": "Chỉ vì đăng tải 4 bức ảnh khoe khoảnh khắc rạng rỡ đu concert của nhóm nhạc Kpop huyền thoại BIGBANG, MC Liên Quân đình đám Phương Thảo bất ngờ trở thành tâm điểm chỉ trích của một bộ phận fan nam toxic trên mạng xã hội.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/10/26/85856701314754860710969628467680452833455794n-113253-1793001583556-17930015837991647692733-668-0-1293-1194-crop-179300170858087519980.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-10-26T17:11:40.680681",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "814df14e6753",
       "title": "AOC ra mắt dải màn hình gaming thế hệ mới, tiên phong thiết lập chuẩn mực công nghệ cho Esports",
       "link": "https://gamek.vn/aoc-ra-mat-dai-man-hinh-gaming-the-he-moi-tien-phong-thiet-lap-chuan-muc-cong-nghe-cho-esports-178261023185104781.chn",
@@ -1287,19 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-09-05T13:46:35.039836",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "5a2ea32434de",
-      "title": "Gunbound - một thời game thủ Việt chưa biết rank là gì, thắng thua chỉ nằm ở một cơn gió",
-      "link": "https://gamek.vn/gunbound-mot-thoi-game-thu-viet-chua-biet-rank-la-gi-thang-thua-chi-nam-o-mot-con-gio-178260904141615497.chn",
-      "summary": "Trước khi những con số xếp hạng trở thành thước đo quen thuộc của game thủ, chúng ta từng có một trò chơi mà chỉ cần bắn trúng một phát thật đẹp cũng đủ để cả quán net ồn ào.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/4/avatar1788507281775-17885072820391377782209.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-09-05T10:16:52.408210",
-      "category": "tin tức",
       "priority": 2
     }
   ]
