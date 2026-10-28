@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T11:13:57.897813",
+  "last_updated": "2026-10-28T18:13:52.407366",
   "total_news": 100,
   "news": [
     {
@@ -757,6 +757,19 @@
       "priority": 1
     },
     {
+      "id": "4708c1d4f03b",
+      "title": "Không phải ở giải đấu, ngắm Mai Dora vừa lạ vừa quen trên sàn diễn idol",
+      "link": "https://gamek.vn/khong-phai-o-giai-dau-ngam-mai-dora-vua-la-vua-quen-tren-san-dien-idol-178261028123502049.chn",
+      "summary": "Rời mic phỏng vấn Esports, Mai Dora lột xác thành nữ idol âm nhạc cực cháy trên sân khấu hoành tráng.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/10/28/avatar1793165600012-17931656005201282451188.jpeg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-10-28T18:09:05.262895",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "f31f5f6393bd",
       "title": "Nữ MC gần nửa triệu người theo dõi chưa bao giờ khiến fan hết bất ngờ",
       "link": "https://gamek.vn/nu-mc-gan-nua-trieu-nguoi-theo-doi-chua-bao-gio-khien-fan-het-bat-ngo-178261027145612505.chn",
@@ -1286,19 +1299,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-09-13T05:47:52.095324",
-      "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "8cd57601294b",
-      "title": "SAMKOK Tam Quốc: Từ cú \"Top kép\" ngày ra mắt đến những thành tích ấn tượng sau 6 tháng",
-      "link": "https://gamek.vn/samkok-tam-quoc-tu-cu-top-kep-ngay-ra-mat-den-nhung-thanh-tich-an-tuong-sau-6-thang-178260911145858091.chn",
-      "summary": "Chính thức ra mắt ngày 4/3/2026, SAMKOK Tam Quốc - siêu phẩm chiến thuật thẻ tướng do VPlay phát hành - đã có một màn chào sân không thể ấn tượng hơn khi lập tức chiếm lĩnh Top 1 Game Miễn Phí trên cả Google Play và App Store.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/11/avatar1789113455953-17891134571481333846048.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-09-11T08:47:11.201741",
       "category": "tướng",
       "priority": 2
     }
