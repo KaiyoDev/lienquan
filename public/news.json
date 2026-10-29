@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-10-29T05:09:53.915583",
+  "last_updated": "2026-10-29T12:41:30.995654",
   "total_news": 100,
   "news": [
+    {
+      "id": "f6d39725172a",
+      "title": "ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 30.10.2026",
+      "link": "https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-vet-nut-thoi-khong-30-10-2026/",
+      "summary": "<p>Xin chào các Kiện Tướng, Liên Quân Mobile sẽ tiến hành cập nhật không gián đoạn cho máy chủ chính thức vào ngày 30/10/2026. Trong thời gian quy định, các Kiện tướng có thể tự chọn thời điểm [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-vet-nut-thoi-khong-30-10-2026/\">ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 30.10.2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/10/IMG-HOR-0860x0400-113902-copy-of-1.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-10-29T10:41:24Z",
+      "crawled_at": "2026-10-29T12:36:25.727355",
+      "category": "cập nhật",
+      "priority": 1
+    },
     {
       "id": "54dcbe1eb9d3",
       "title": "PHÁT ĐỘNG CUỘC THI SÁNG TẠO TRANG PHỤC LIÊN QUÂN 2026",
@@ -1287,19 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-09-14T10:26:21.699790",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "e33620946446",
-      "title": "Một tướng Tam Quốc, vạn cách chơi: Game thủ có thể thỏa sức sáng tạo với tựa game mới có \"1-0-2\" này!",
-      "link": "https://gamek.vn/mot-tuong-tam-quoc-van-cach-choi-game-thu-co-the-thoa-suc-sang-tao-voi-tua-game-moi-co-1-0-2-nay-178260912153124747.chn",
-      "summary": "Dòng game Tam Quốc từ lâu đã trở thành một trong những lựa chọn quen thuộc của cộng đồng game thủ Việt. Thế nhưng, khi ngày càng xuất hiện nhiều sản phẩm cùng khai thác đề tài này, việc tạo ra một cơ chế đủ mới mẻ đang trở thành bài toán không dễ giải.",
-      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/9/12/avatar1789201675653-17892016761641683187739-0-0-675-1080-crop-1789201781685530334030.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-09-13T05:47:52.095324",
-      "category": "tướng",
       "priority": 2
     }
   ]
