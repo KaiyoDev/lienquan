@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T05:09:39.016734",
+  "last_updated": "2026-10-30T12:32:35.476819",
   "total_news": 100,
   "news": [
     {
@@ -770,6 +770,19 @@
       "priority": 1
     },
     {
+      "id": "7e1acb654a8c",
+      "title": "Linh Nắng khiến nhiều fan nam vỡ mộng!",
+      "link": "https://gamek.vn/linh-nang-khien-nhieu-fan-nam-vo-mong-17826103011451182.chn",
+      "summary": "Mới đây, nữ MC xinh đẹp Linh Nắng, một trong những gương mặt dẫn chương trình nổi tiếng và sở hữu lượng fan đông đảo trong giới Esports và Thể thao đã khiến cộng đồng mạng bất ngờ khi đăng tải những dòng trạng thái công khai chuyện tình cảm nhân dịp sinh nhật.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/10/30/avatar1793345638798-17933456396251109013362.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-10-30T12:27:41.043737",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "08e74b301416",
       "title": "Từ bạn gái đứng sau hào quang của SofM, LiLy giờ đây là CEO đầy quyền lực",
       "link": "https://gamek.vn/tu-ban-gai-dung-sau-hao-quang-cua-sofm-lily-gio-day-la-ceo-day-quyen-luc-178261030105718007.chn",
@@ -1287,19 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-09-17T13:13:55.707348",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "3d6228c51425",
-      "title": "Apple tung bản cập nhật iOS 27: Loạt iPhone đời cũ được \"hồi sinh\" với bước nhảy vọt về hiệu năng",
-      "link": "https://gamek.vn/apple-tung-ban-cap-nhat-ios-27-loat-iphone-doi-cu-duoc-hoi-sinh-voi-buoc-nhay-vot-ve-hieu-nang-178260916142929306.chn",
-      "summary": "Bên cạnh tâm điểm xoay quanh trí tuệ nhân tạo Siri AI trên các dòng máy mới, bản cập nhật iOS 27 chính thức vừa được Apple phát hành còn mang lại món quà bất ngờ cho người dùng các thế hệ iPhone đời cũ: Cải thiện tốc độ mở ứng dụng tới 30%, tối ưu giao diện Liquid Glass và hàng loạt nâng cấp hệ thống giá trị.",
-      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/9/16/avatar1789543630980-1789543631457348626642.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-09-16T11:10:49.963419",
-      "category": "sự kiện",
       "priority": 2
     }
   ]
