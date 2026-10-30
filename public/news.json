@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T23:14:06.383478",
+  "last_updated": "2026-10-30T05:09:39.016734",
   "total_news": 100,
   "news": [
     {
@@ -770,6 +770,45 @@
       "priority": 1
     },
     {
+      "id": "08e74b301416",
+      "title": "Từ bạn gái đứng sau hào quang của SofM, LiLy giờ đây là CEO đầy quyền lực",
+      "link": "https://gamek.vn/tu-ban-gai-dung-sau-hao-quang-cua-sofm-lily-gio-day-la-ceo-day-quyen-luc-178261030105718007.chn",
+      "summary": "Cô nàng không khỏi trăn trở về tương lai Esports Việt.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/10/30/avatar1793332346646-1793332347530769622582.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-10-30T05:04:47.694744",
+      "category": "esports",
+      "priority": 2
+    },
+    {
+      "id": "66220fc9df7e",
+      "title": "Đỉnh cao combat thẻ tướng: Mộng Cảnh Tam Quốc phá vỡ giới hạn với \"3 tầng hợp kích - 4 lớp ulti\" chưa từng có",
+      "link": "https://gamek.vn/dinh-cao-combat-the-tuong-mong-canh-tam-quoc-pha-vo-gioi-han-voi-3-tang-hop-kich-4-lop-ulti-chua-tung-co-178261030104944987.chn",
+      "summary": "Phá vỡ hoàn toàn những lối mòn rập khuôn của dòng game chiến thuật thẻ tướng truyền thống, Mộng Cảnh Tam Quốc đã chính thức xác lập một chuẩn mực giao tranh hoàn toàn mới.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/10/30/avatar1793331922707-1793331925469168508596-34-0-709-1080-crop-1793332136611817531632.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-10-30T05:04:48.985101",
+      "category": "tướng",
+      "priority": 2
+    },
+    {
+      "id": "4b18394e318f",
+      "title": "Cố tình mặc phản cảm để quay clip giãn cơ trị liệu, dấu hỏi lớn về nguy cơ dịch vụ biến tướng!",
+      "link": "https://gamek.vn/co-tinh-mac-phan-cam-de-quay-clip-gian-co-tri-lieu-dau-hoi-lon-ve-nguy-co-dich-vu-bien-tuong-178261026150541174.chn",
+      "summary": "Nhức mắt với góc quay kích thích của tiệm giãn cơ, dịch vụ phục hồi sức khỏe hay hành vi lợi dụng làm \"content bẩn\" câu kéo lượt xem.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/10/26/avatar1793001784493-17930017848702004255005.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-10-30T05:04:50.484640",
+      "category": "tướng",
+      "priority": 2
+    },
+    {
       "id": "4708c1d4f03b",
       "title": "Không phải ở giải đấu, ngắm Mai Dora vừa lạ vừa quen trên sàn diễn idol",
       "link": "https://gamek.vn/khong-phai-o-giai-dau-ngam-mai-dora-vua-la-vua-quen-tren-san-dien-idol-178261028123502049.chn",
@@ -1261,45 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-09-16T11:10:49.963419",
       "category": "sự kiện",
-      "priority": 2
-    },
-    {
-      "id": "f46ad630c92f",
-      "title": "Quên cảnh \"mất trắng\" công sức đầu tư cho tướng cũ đi, Tam Quốc Tứ Thời Ca sẽ \"nuôi sống\" ví tiền của anh em game thủ",
-      "link": "https://gamek.vn/quen-canh-mat-trang-cong-suc-dau-tu-cho-tuong-cu-di-tam-quoc-tu-thoi-ca-se-nuoi-song-vi-tien-cua-anh-em-game-thu-178260916111641545.chn",
-      "summary": "Trong các tựa game chiến thuật, việc đầu tư tài nguyên cho tướng luôn là một bài toán khiến game thủ phải cân nhắc kỹ lưỡng.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/16/avatar1789531876013-17895318766341776717519.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-09-16T11:10:51.052312",
-      "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "f6889a22bad0",
-      "title": "Tam Quốc Tứ Thời Ca chính thức ra mắt - Nhận Giftcode ngay",
-      "link": "https://gamek.vn/tam-quoc-tu-thoi-ca-chinh-thuc-ra-mat-nhan-giftcode-ngay-178260916112630825.chn",
-      "summary": "Nhận Giftcode ngay để trở thành người chơi đầu tiên thu thập đủ danh tướng Tần, Hán, Đường, Tam Quốc trong Tam Quốc Tứ Thời Ca.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/16/avatar1789532573592-17895325738911092254471-0-0-196-375-crop-17895326268082142953229.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-09-16T05:48:03.472964",
-      "category": "sự kiện",
-      "priority": 2
-    },
-    {
-      "id": "a386fabeabb6",
-      "title": "LMHT 2026 chứng kiến chuyện kỳ lạ bậc nhất lịch sử Esports",
-      "link": "https://gamek.vn/lmht-2026-chung-kien-chuyen-ky-la-bac-nhat-lich-su-esports-178260914022421659.chn",
-      "summary": "BTC LCK và Riot có một quyết định khiến khán giả LMHT ngỡ ngàng.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/14/lmht-5-178937410409167802826-123-0-1065-1800-crop-17893741256731607530758.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-09-14T10:26:21.699790",
-      "category": "esports",
       "priority": 2
     }
   ]
