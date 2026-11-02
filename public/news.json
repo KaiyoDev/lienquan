@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T02:17:26.920852",
+  "last_updated": "2026-11-02T10:49:31.696182",
   "total_news": 100,
   "news": [
     {
@@ -770,6 +770,19 @@
       "priority": 1
     },
     {
+      "id": "48da0d9c5f16",
+      "title": "MC Tú Linh \"dặm bùa\" fan nam cỡ này, ngày càng \"mờ lem\", đẳng cấp nữ thần bất biến trong lòng game thủ!",
+      "link": "https://gamek.vn/mc-tu-linh-dam-bua-fan-nam-co-nay-ngay-cang-mo-lem-dang-cap-nu-than-bat-bien-trong-long-game-thu-178261102111104279.chn",
+      "summary": "Trong giới thể thao và thể thao điện tử (eSports), MC Tú Linh gắn liền với hình ảnh một nữ MC sắc sảo, tài năng và sở hữu nụ cười tỏa nắng.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/11/2/avatar1793592468399-1793592470021832387890.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-02T10:44:41.026740",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "7e1acb654a8c",
       "title": "Linh Nắng khiến nhiều fan nam vỡ mộng!",
       "link": "https://gamek.vn/linh-nang-khien-nhieu-fan-nam-vo-mong-17826103011451182.chn",
@@ -1287,19 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-09-17T13:13:53.606471",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "676faa52d1f6",
-      "title": "VNGGAMES đồng hành cùng ĐTQG Thể thao điện tử Việt Nam chinh phục ASIAD 20",
-      "link": "https://gamek.vn/vnggames-dong-hanh-cung-dtqg-the-thao-dien-tu-viet-nam-chinh-phuc-asiad-20-178260917143356114.chn",
-      "summary": "Sáng ngày 16/09, VNGGames phối hợp cùng VIRESA tổ chức Lễ ra quân của Đội tuyển Quốc gia Thể thao Điện tử (Esports) Việt Nam tham dự Đại hội Thể thao châu Á lần thứ 20 (ASIAD 20).",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/17/avatar1789630303299-17896303037021070685488.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-09-17T13:13:55.707348",
-      "category": "esports",
       "priority": 2
     }
   ]
