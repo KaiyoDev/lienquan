@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T10:49:31.696182",
+  "last_updated": "2026-11-02T20:45:22.878103",
   "total_news": 100,
   "news": [
     {
@@ -770,6 +770,19 @@
       "priority": 1
     },
     {
+      "id": "f414cdbd5d6a",
+      "title": "Cộng đồng công kích quá trớn vào Gumayusi và HLE khiến BLV Hoàng Luân cũng phải bức xúc",
+      "link": "https://gamek.vn/cong-dong-cong-kich-qua-tron-vao-gumayusi-va-hle-khien-blv-hoang-luan-cung-phai-buc-xuc-178261102234841653.chn",
+      "summary": "Luôn tôn sùng Esports thuần túy và những màn trashtalk nhưng có lẽ với cộng đồng LMHT thì \"đội nào cũng được trừ HLE và Gumayusi\".",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/11/2/avatar1793637653522-17936376545851275736354-0-0-942-1800-crop-17936379049511718422011.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-02T20:40:32.145246",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "48da0d9c5f16",
       "title": "MC Tú Linh \"dặm bùa\" fan nam cỡ này, ngày càng \"mờ lem\", đẳng cấp nữ thần bất biến trong lòng game thủ!",
       "link": "https://gamek.vn/mc-tu-linh-dam-bua-fan-nam-co-nay-ngay-cang-mo-lem-dang-cap-nu-than-bat-bien-trong-long-game-thu-178261102111104279.chn",
@@ -1287,19 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-09-18T05:40:54.808391",
       "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "5da54ac45d8b",
-      "title": "Nhan sắc ngọt ngào của hot girl xinh đẹp, cô gái khiến tuyển thủ Liên Quân nổi tiếng nguyện bảo vệ đến cùng!",
-      "link": "https://gamek.vn/nhan-sac-ngot-ngao-cua-hot-girl-xinh-dep-co-gai-khien-tuyen-thu-lien-quan-noi-tieng-nguyen-bao-ve-den-cung-178260917150923301.chn",
-      "summary": "Sở hữu visual cân mọi phong cách, bạn gái của chàng tuyển thủ Maris nhận về vô số lời khen ngợi từ cộng đồng game thủ.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/17/avatar1789632451864-17896324523651939229209.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-09-17T13:13:53.606471",
-      "category": "tin tức",
       "priority": 2
     }
   ]
