@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T02:09:14.694151",
+  "last_updated": "2026-11-05T10:38:16.586612",
   "total_news": 100,
   "news": [
     {
@@ -770,6 +770,19 @@
       "priority": 1
     },
     {
+      "id": "2aac8780bf69",
+      "title": "MC Phương Thảo tích cực độ dáng nóng bỏng trước \"giờ G\"",
+      "link": "https://gamek.vn/mc-phuong-thao-tich-cuc-do-dang-nong-bong-truoc-gio-g-178261104134909977.chn",
+      "summary": "Để xuất hiện với diện mạo rạng rỡ và hoàn hảo nhất trên sân khấu kỷ niệm 10 năm Liên Quân Mobile, MC Phương Thảo đã trải qua hai tháng khổ luyện siết dáng đầy nỗ lực.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/11/4/avatar1793774864493-17937748648071156354046.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-05T10:33:27.644502",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "f414cdbd5d6a",
       "title": "Cộng đồng công kích quá trớn vào Gumayusi và HLE khiến BLV Hoàng Luân cũng phải bức xúc",
       "link": "https://gamek.vn/cong-dong-cong-kich-qua-tron-vao-gumayusi-va-hle-khien-blv-hoang-luan-cung-phai-buc-xuc-178261102234841653.chn",
@@ -1286,19 +1299,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-09-18T05:40:53.251705",
-      "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "b627dfbbde8f",
-      "title": "Nữ streamer phát sóng chơi Super Mario Bros bằng tay cầm có \"1-0-2\", người xem tranh cãi màn khoe thân biến tướng",
-      "link": "https://gamek.vn/nu-streamer-phat-song-choi-super-mario-bros-bang-tay-cam-co-1-0-2-nguoi-xem-tranh-cai-man-khoe-than-bien-tuong-178260917150713123.chn",
-      "summary": "Chiêu trò biến tấu độc lạ của cô nàng khiến phòng livestream bùng nổ tương tác, nhưng cũng làm dấy lên luồng ý kiến trái chiều từ cộng đồng game thủ.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/17/avatar1789632339841-17896323402851291198030.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-09-18T05:40:54.808391",
       "category": "tướng",
       "priority": 2
     }
