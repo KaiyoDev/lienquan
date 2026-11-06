@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T00:03:38.808336",
+  "last_updated": "2026-11-06T06:27:54.801904",
   "total_news": 100,
   "news": [
     {
@@ -770,6 +770,19 @@
       "priority": 1
     },
     {
+      "id": "a4d6e11820c5",
+      "title": "Đem cả \"phòng gym\" ra chiến trường, Tam Quốc Đại Minh Tinh khoe dàn tướng 3D tả thực đến từng múi cơ",
+      "link": "https://gamek.vn/dem-ca-phong-gym-ra-chien-truong-tam-quoc-dai-minh-tinh-khoe-dan-tuong-3d-ta-thuc-den-tung-mui-co-178261105232303585.chn",
+      "summary": "Cơ bụng cuồn cuộn, giáp kim loại nổi khối, từng đường nét cơ thể được dựng sắc nét đến mức người chơi có cảm giác như đang xem một bộ phim chiến trận. Đó là cách tựa game Tam Quốc Đại Minh Tinh gây chú ý trước ngày ra mắt 18/11.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/11/5/avatar1793895520934-17938955220111366530363-0-48-413-709-crop-1793895607539386954563.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-06T06:23:03.889519",
+      "category": "tướng",
+      "priority": 2
+    },
+    {
       "id": "2aac8780bf69",
       "title": "MC Phương Thảo tích cực độ dáng nóng bỏng trước \"giờ G\"",
       "link": "https://gamek.vn/mc-phuong-thao-tich-cuc-do-dang-nong-bong-truoc-gio-g-178261104134909977.chn",
@@ -1287,19 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-09-18T10:53:19.503551",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "4e961e1b1486",
-      "title": "Tưởng chỉ là địa danh, Kỳ Quan trong Tam Quốc Tứ Thời Ca lại có thể quyết định cả kết quả trận đấu",
-      "link": "https://gamek.vn/tuong-chi-la-dia-danh-ky-quan-trong-tam-quoc-tu-thoi-ca-lai-co-the-quyet-dinh-ca-ket-qua-tran-dau-178260918105640527.chn",
-      "summary": "Ở Tam Quốc Tứ Thời Ca, sức mạnh của các danh tướng chưa phải tất cả!",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/18/avatar1789703692280-1789703692779589679541.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-09-18T05:40:53.251705",
-      "category": "tướng",
       "priority": 2
     }
   ]
