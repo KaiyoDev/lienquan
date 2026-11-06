@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T06:27:54.801904",
+  "last_updated": "2026-11-06T14:57:11.199286",
   "total_news": 100,
   "news": [
     {
@@ -770,6 +770,19 @@
       "priority": 1
     },
     {
+      "id": "94319e1a2a5c",
+      "title": "Siêu phẩm game đồng đội kinh dị hài hước không thể bỏ lỡ: Garena chuẩn bị đưa Tiểu Đội Quậy Ma đổ bộ Đông Nam Á và Mỹ Latinh",
+      "link": "https://gamek.vn/sieu-pham-game-dong-doi-kinh-di-hai-huoc-khong-the-bo-lo-garena-chuan-bi-dua-tieu-doi-quay-ma-do-bo-dong-nam-a-va-my-latinh-17826110618552454.chn",
+      "summary": "Cùng đồng đội săn tìm cổ vật quý giá và sống sót qua những cuộc chạm trán với nhiều thể loại ma quái trong tựa game đồng đội hài hước do Giant Network phát triển.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/11/6/avatar1793965826820-1793965827292581159269-50-108-863-1662-crop-17939659592921372696206.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-06T14:52:25.411066",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "a4d6e11820c5",
       "title": "Đem cả \"phòng gym\" ra chiến trường, Tam Quốc Đại Minh Tinh khoe dàn tướng 3D tả thực đến từng múi cơ",
       "link": "https://gamek.vn/dem-ca-phong-gym-ra-chien-truong-tam-quoc-dai-minh-tinh-khoe-dan-tuong-3d-ta-thuc-den-tung-mui-co-178261105232303585.chn",
@@ -1286,19 +1299,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-09-19T05:35:20.958927",
-      "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "9dcb59666138",
-      "title": "Black Myth: Wukong bất ngờ xuất hiện thay đổi bí ẩn trên Steam, game thủ nghi Game Science đang âm thầm chuẩn bị bản cập nhật mới",
-      "link": "https://gamek.vn/black-myth-wukong-bat-ngo-xuat-hien-thay-doi-bi-an-tren-steam-game-thu-nghi-game-science-dang-am-tham-chuan-bi-ban-cap-nhat-moi-178260916085915532.chn",
-      "summary": "Một thay đổi vừa được phát hiện trong dữ liệu của Black Myth: Wukong trên Steam đang khiến cộng đồng chú ý.",
-      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/9/16/avatar1789546498762-1789546499271818300130.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-09-18T10:53:19.503551",
       "category": "tin tức",
       "priority": 2
     }
