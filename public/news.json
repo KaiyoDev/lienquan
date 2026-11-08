@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T02:15:05.204673",
+  "last_updated": "2026-11-08T10:05:08.542045",
   "total_news": 100,
   "news": [
     {
@@ -770,6 +770,45 @@
       "priority": 1
     },
     {
+      "id": "a4f037b04e0c",
+      "title": "Chung kết Đấu Trường Danh Vọng Mùa Đông 2026: Kỷ nguyên danh vọng mới khắc tên FPT Polytechnic",
+      "link": "https://gamek.vn/chung-ket-dau-truong-danh-vong-mua-dong-2026-ky-nguyen-danh-vong-moi-khac-ten-fpt-polytechnic-17826110816544895.chn",
+      "summary": "Ngày 07/11/2026, sân vận động Mỹ Đình (Hà Nội) trở thành tâm điểm của cộng đồng esports Việt Nam khi Vòng Chung kết Đấu Trường Danh Vọng Mùa Đông 2026 chính thức diễn ra, đồng thời đánh dấu cột mốc 10 năm Liên Quân Mobile tại Việt Nam.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/11/8/avatar1794131262628-1794131262819444803731.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-08T10:00:08.223048",
+      "category": "esports",
+      "priority": 2
+    },
+    {
+      "id": "064fcdeccd7a",
+      "title": "Điêu Thuyền Phương Thảo xuất hiện cực \"cháy\", bừng sáng sân khấu Fest Liên Quân Day 1",
+      "link": "https://gamek.vn/dieu-thuyen-phuong-thao-xuat-hien-cuc-chay-bung-sang-san-khau-fest-lien-quan-day-1-1782611081516407.chn",
+      "summary": "Khán giả khẳng định chưa bao giờ cô khiến người xem thất vọng.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/11/8/891956249397189170628543924552065730739563n-225608-1794125517752-179412551818425007811-234-0-949-1366-crop-1794125696245452268956.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-08T10:00:11.220032",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
+      "id": "fceca05c2439",
+      "title": "Top 7 cao thủ nhìn thấy trước tương lai trong anime: Kẻ thù chưa kịp ra tay đã cầm chắc thất bại",
+      "link": "https://gamek.vn/top-7-cao-thu-nhin-thay-truoc-tuong-lai-trong-anime-ke-thu-chua-kip-ra-tay-da-cam-chac-that-bai-178261105173223143.chn",
+      "summary": "Không chỉ dừng lại ở các đòn đánh vật lý hay ma thuật thông thường, những nhân vật anime này còn khiến đối thủ phải bất lực khi sở hữu năng lực nhìn trước tương lai.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/11/5/avatar1793874658202-17938746584851138100988.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-08T10:00:13.399020",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "94319e1a2a5c",
       "title": "Siêu phẩm game đồng đội kinh dị hài hước không thể bỏ lỡ: Garena chuẩn bị đưa Tiểu Đội Quậy Ma đổ bộ Đông Nam Á và Mỹ Latinh",
       "link": "https://gamek.vn/sieu-pham-game-dong-doi-kinh-di-hai-huoc-khong-the-bo-lo-garena-chuan-bi-dua-tieu-doi-quay-ma-do-bo-dong-nam-a-va-my-latinh-17826110618552454.chn",
@@ -1260,45 +1299,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-09-27T13:42:42.642853",
-      "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "3a01e87c84ad",
-      "title": "Esports Việt làm nên lịch sử tại ASIAD 20, chờ đợi loạt chiến tích khác",
-      "link": "https://gamek.vn/esports-viet-lam-nen-lich-su-tai-asiad-20-cho-doi-loat-chien-tich-khac-178260924221915934.chn",
-      "summary": "Esports Việt ra quân tốt đẹp tại ASIAD 20.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/24/avatar1790262975777-1790262976023506395392.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-09-24T18:54:43.268196",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "ad6e488cf284",
-      "title": "Dân tình \"nhức mắt\" cảnh rước đèn biến tướng: Nhảy nhót \"cà hẩy\", trang phục hở hang gây phản cảm",
-      "link": "https://gamek.vn/dan-tinh-nhuc-mat-canh-ruoc-den-bien-tuong-nhay-nhot-ca-hay-trang-phuc-ho-hang-gay-phan-cam-178260922104936435.chn",
-      "summary": "Không ít xe mô hình lại biến thành \"sân khấu di động\" cho các bạn trẻ nhún nhảy theo những điệu nhạc sôi động.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/9/22/avatar1790048824931-1790048826043315376540.jpeg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-09-23T05:41:07.246441",
-      "category": "skin",
-      "priority": 2
-    },
-    {
-      "id": "9ab639c07775",
-      "title": "12 mẹo và thủ thuật giúp bạn khai thác tối đa sức mạnh của iOS 27",
-      "link": "https://gamek.vn/12-meo-va-thu-thuat-giup-ban-khai-thac-toi-da-suc-manh-cua-ios-27-178260919110146438.chn",
-      "summary": "iOS 27 là bản cập nhật tập trung chủ yếu vào việc tối ưu hóa hiệu năng và cải tiến kiến trúc hệ thống ngầm, nền tảng này vẫn mang đến hàng loạt tính năng mới cùng các tinh chỉnh đáng giá.",
-      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/9/19/avatar1789790410332-17897904125761428003414.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-09-19T05:35:20.958927",
       "category": "tin tức",
       "priority": 2
     }
