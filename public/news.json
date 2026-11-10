@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-11-10T02:01:29.495496",
+  "last_updated": "2026-11-10T09:36:36.382858",
   "total_news": 100,
   "news": [
+    {
+      "id": "ed17a13db356",
+      "title": "Thông báo về lỗi sự kiện Iggy Rimuru Tempest",
+      "link": "https://lienquan.garena.vn/thong-bao-ve-loi-su-kien-iggy-rimuru-tempest/",
+      "summary": "<p>Thông báo về lỗi sự kiện Iggy Rimuru Tempest Vào ngày 06/11, do lỗi hệ thống, trang phục Iggy Rimuru Tempest cùng các phụ kiện đã được gửi nhầm đến những Kiện tướng chưa sở [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/thong-bao-ve-loi-su-kien-iggy-rimuru-tempest/\">Thông báo về lỗi sự kiện Iggy Rimuru Tempest</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2024/07/img-share.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-11-10T03:06:26Z",
+      "crawled_at": "2026-11-10T09:31:26.667167",
+      "category": "sự kiện",
+      "priority": 1
+    },
     {
       "id": "f6d39725172a",
       "title": "ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 30.10.2026",
@@ -1287,19 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-10-03T12:21:42.289552",
       "category": "sự kiện",
-      "priority": 2
-    },
-    {
-      "id": "472d899a0822",
-      "title": "Zeus tiếp tục xác lập một kỷ lục \"khủng\"",
-      "link": "https://gamek.vn/zeus-tiep-tuc-xac-lap-mot-ky-luc-khung-178261002161907858.chn",
-      "summary": "Zeus cũng là tuyển thủ duy nhất trong toàn bộ làng LMHT đạt được thành tích này, thậm chí là cả giới Esports cũng không quá lời.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/10/2/avatar1790932526296-1790932526766375736038.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-10-02T15:35:05.143278",
-      "category": "esports",
       "priority": 2
     }
   ]
