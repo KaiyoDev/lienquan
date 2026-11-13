@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T23:35:53.247807",
+  "last_updated": "2026-11-13T05:58:21.958621",
   "total_news": 100,
   "news": [
     {
@@ -78,6 +78,19 @@
       "published_at": "2026-10-29T10:41:24Z",
       "crawled_at": "2026-10-29T12:36:25.727355",
       "category": "cập nhật",
+      "priority": 1
+    },
+    {
+      "id": "129ffaa5fd3e",
+      "title": "KHÁM PHÁ BỘ MERCHANDISE ĐỘC QUYỀN TẠI LIÊN QUÂN 10 FEST",
+      "link": "https://lienquan.garena.vn/kham-pha-bo-merchandise-doc-quyen-tai-lien-quan-10-fest/",
+      "summary": "<p>Không chỉ mang đến những trận đấu Esports đỉnh cao và đại nhạc hội bùng nổ, Liên Quân 10 Fest còn dành tặng cộng đồng Kiện Tướng bộ merchandise độc quyền với những vật phẩm [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/kham-pha-bo-merchandise-doc-quyen-tai-lien-quan-10-fest/\">KHÁM PHÁ BỘ MERCHANDISE ĐỘC QUYỀN TẠI LIÊN QUÂN 10 FEST</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/11/IMG-HOR-0860x0400-117457-thumbnail-bai-website-10fest2.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-10-29T04:41:53Z",
+      "crawled_at": "2026-11-13T05:53:28.168989",
+      "category": "esports",
       "priority": 1
     },
     {
@@ -1287,19 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-10-13T15:44:51.604312",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "a3b56926b740",
-      "title": "\"Ngã ngửa\" với hội nhóm gái xinh xuất hiện dịch vụ \"giao lưu\" biến tướng nhạy cảm, nạn nhân lên tiếng cảnh báo!",
-      "link": "https://gamek.vn/nga-ngua-voi-hoi-nhom-gai-xinh-xuat-hien-dich-vu-giao-luu-bien-tuong-nhay-cam-nan-nhan-len-tieng-canh-bao-17826100715444915.chn",
-      "summary": "Lợi dụng chiêu trò ẩn danh, tung \"mã rẻ\" là một phần quy trình trong bẫy lừa đảo tinh vi.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/10/7/avatar1791362391508-17913623918481523849415.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-10-13T07:31:22.181694",
-      "category": "tướng",
       "priority": 2
     }
   ]
