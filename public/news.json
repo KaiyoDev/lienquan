@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T05:58:21.958621",
+  "last_updated": "2026-11-13T14:23:10.903858",
   "total_news": 100,
   "news": [
     {
@@ -39,6 +39,19 @@
       "published_at": "2026-11-12T12:11:38Z",
       "crawled_at": "2026-11-12T18:00:16.086668",
       "category": "esports",
+      "priority": 1
+    },
+    {
+      "id": "0078dff2c41c",
+      "title": "SHOPEE X LIÊN QUÂN MOBILE: SĂN QUÂN HUY, THỬ VẬN MAY CHO SKIN YÊU THÍCH!",
+      "link": "https://lienquan.garena.vn/shopee-x-lien-quan-mobile-san-quan-huy-thu-van-may-cho-skin-yeu-thich/",
+      "summary": "<p>Skin yêu thích đã nằm trong wishlist, còn bạn đang mong có thêm Quân Huy để sở hữu bộ trang phục mình mê bấy lâu? Hội Kiện Tướng ơi, tín hiệu vũ trụ đã đến! [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/shopee-x-lien-quan-mobile-san-quan-huy-thu-van-may-cho-skin-yeu-thich/\">SHOPEE X LIÊN QUÂN MOBILE: SĂN QUÂN HUY, THỬ VẬN MAY CHO SKIN YÊU THÍCH!</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/11/Shopee_LienQuan_860x400.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-11-12T11:42:57Z",
+      "crawled_at": "2026-11-13T14:18:07.748314",
+      "category": "skin",
       "priority": 1
     },
     {
@@ -1286,19 +1299,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-10-13T15:44:50.477487",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "9628b4b84379",
-      "title": "Top 8 giải đấu trong anime đỉnh cao hơn cả Giải Đấu Sức Mạnh của Dragon Ball Super",
-      "link": "https://gamek.vn/top-8-giai-dau-trong-anime-dinh-cao-hon-ca-giai-dau-suc-manh-cua-dragon-ball-super-178261013143839603.chn",
-      "summary": "Bỏ xa quy mô vũ trụ của Dragon Ball Super, 8 giải đấu anime đỉnh cao này mới thực sự là tượng đài về cả chiến thuật lẫn giá trị cảm xúc.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/10/13/avatar1791876849305-1791876849679398961526.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-10-13T15:44:51.604312",
       "category": "esports",
       "priority": 2
     }
