@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T02:09:23.384683",
+  "last_updated": "2026-11-14T10:02:26.567908",
   "total_news": 100,
   "news": [
     {
@@ -887,6 +887,32 @@
       "priority": 1
     },
     {
+      "id": "863623d5d053",
+      "title": "\"Xả ảnh\" Liên Quân, hot girl Hạnh Nhi khiến anh em game thủ đồng loạt đổ gục trước nhan sắc quyến rũ",
+      "link": "https://gamek.vn/xa-anh-lien-quan-hot-girl-hanh-nhi-khien-anh-em-game-thu-dong-loat-do-guc-truoc-nhan-sac-quyen-ru-178261114134839816.chn",
+      "summary": "Hot girl Hạnh Nhi nhanh chóng chiếm trọn spotlight khán đài Liên Quân Mobile.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/11/14/9022488161221561562832016906649602289667035412n-154302-1794638630366-179463863342213075972-523-0-1377-1366-crop-1794638721620274666540.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-14T09:57:35.557816",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
+      "id": "fb49b6754708",
+      "title": "Lộ trình thể thao điện tử Liên Minh Huyền Thoại trong năm 2027",
+      "link": "https://gamek.vn/lo-trinh-the-thao-dien-tu-lien-minh-huyen-thoai-trong-nam-2027-178261114134048072.chn",
+      "summary": "Hãy tìm hiểu những thông tin mới nhất về chặng đường Thể thao điện tử (Esports) trong những mùa giải sắp tới của bộ môn Liên Minh Huyền Thoại (LMHT)!",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/11/14/avatar1794638163576-17946381662301875426883.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-14T09:57:37.138866",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "cf120d60baa1",
       "title": "Loạt khoảnh khắc ấn tượng: Nữ game thủ Liên Quân cầm mic, khuấy động sân khấu tựa game mình yêu!",
       "link": "https://gamek.vn/loat-khoanh-khac-an-tuong-nu-game-thu-lien-quan-cam-mic-khuay-dong-san-khau-tua-game-minh-yeu-178261111142219026.chn",
@@ -1273,32 +1299,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-10-15T11:07:22.497171",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "b1a5b3774a2f",
-      "title": "Cuộc sống sang chảnh của nữ MC Esports Thảo Trang: Vi vu khắp thế giới, hẹn hò khung cảnh hàng triệu đô",
-      "link": "https://gamek.vn/cuoc-song-sang-chanh-cua-nu-mc-esports-thao-trang-vi-vu-khap-the-gioi-hen-ho-khung-canh-hang-trieu-do-178261013155746498.chn",
-      "summary": "Được mệnh danh là \"bóng hồng\" quyến rũ làng Esports Việt, cựu MC Thảo Trang giờ đây khiến cộng đồng mạng ngưỡng mộ bởi cuộc sống ngập tràn trải nghiệm thượng lưu và phong cách thời trang ngày càng thăng hạng.",
-      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/10/13/avatar1791881760537-17918817615021036739250.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-10-13T21:05:10.709942",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "db0d10cd4c54",
-      "title": "Né đạn, bám tường bằng cách \"hóa giấy\" - Gameplay khác lạ của Strinova: Biệt đội Anime",
-      "link": "https://gamek.vn/ne-dan-bam-tuong-bang-cach-hoa-giay-gameplay-khac-la-cua-strinova-biet-doi-anime-178261013155040809.chn",
-      "summary": "Strinova: Biệt đội Anime đang thiết lập một chuẩn mực eSports mới nhờ cơ chế \"Hóa giấy\" độc nhất vô nhị. Sự xuất hiện của nhà phát hành Gzone tại thị trường Việt Nam, hứa hẹn sẽ mở ra một cuộc đại hải trình đầy hứng khởi cho cộng đồng game thủ nước nhà.",
-      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/10/13/photo1791863228637-17918632288312021933829-1791881443444185883099.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-10-13T15:44:50.477487",
       "category": "esports",
       "priority": 2
     }
