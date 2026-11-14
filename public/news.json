@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T10:02:26.567908",
+  "last_updated": "2026-11-14T16:35:20.880191",
   "total_news": 100,
   "news": [
     {
@@ -887,6 +887,19 @@
       "priority": 1
     },
     {
+      "id": "5a11afddd949",
+      "title": "Chính thức mở đăng ký trước, Tam Quốc Chí - Chiến Kỳ “nhá hàng” các sự kiện hấp dẫn",
+      "link": "https://gamek.vn/chinh-thuc-mo-dang-ky-truoc-tam-quoc-chi-chien-ky-nha-hang-cac-su-kien-hap-dan-178261114170058885.chn",
+      "summary": "Với những game thủ yêu thích thể loại chiến thuật, đặc biệt là đề tài Tam Quốc thì công ty Koei Tecmo từ lâu đã nổi danh với Series Romance of the Three Kingdoms. Sản phẩm này gắn liền với những trải nghiệm điều binh khiển tướng, xây dựng thế lực và chinh phục thiên hạ.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/11/14/photo1794622382364-1794622382669808285987-1794650473373238602045.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-14T16:30:26.984734",
+      "category": "sự kiện",
+      "priority": 2
+    },
+    {
       "id": "863623d5d053",
       "title": "\"Xả ảnh\" Liên Quân, hot girl Hạnh Nhi khiến anh em game thủ đồng loạt đổ gục trước nhan sắc quyến rũ",
       "link": "https://gamek.vn/xa-anh-lien-quan-hot-girl-hanh-nhi-khien-anh-em-game-thu-dong-loat-do-guc-truoc-nhan-sac-quyen-ru-178261114134839816.chn",
@@ -1287,19 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-10-16T03:54:32.589768",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "49203af9f5c0",
-      "title": "Logitech G PRO Series 2026: Nâng cấp toàn diện nhưng vẫn còn dư địa hoàn thiện",
-      "link": "https://gamek.vn/logitech-g-pro-series-2026-nang-cap-toan-dien-nhung-van-con-du-dia-hoan-thien-178261015163623654.chn",
-      "summary": "Sự trở lại của hệ sinh thái thiết bị ngoại vi chuyên dụng từ Logitech G mang theo nhiều cải tiến đáng chú ý về công nghệ phần cứng và hiệu năng, đáp ứng kỳ vọng khắt khe của cộng đồng game thủ eSports.",
-      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/10/15/photo1792048861218-17920488613681784940605-17920569878591414366270.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-10-15T11:07:22.497171",
-      "category": "esports",
       "priority": 2
     }
   ]
