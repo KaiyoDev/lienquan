@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T12:49:10.798548",
+  "last_updated": "2026-11-18T21:13:14.966624",
   "total_news": 100,
   "news": [
     {
@@ -939,6 +939,32 @@
       "priority": 1
     },
     {
+      "id": "1cd2481f89cc",
+      "title": "Một vị tướng mang đến nỗi thất vọng nhất tại CKTG 2026",
+      "link": "https://gamek.vn/mot-vi-tuong-mang-den-noi-that-vong-nhat-tai-cktg-2026-178261118021727503.chn",
+      "summary": "Có rất nhiều lựa chọn tướng tại CKTG 2026 nhưng có một cái tên gây thất vọng nhất.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/11/18/cktg-tuong-lmht-4-17950157715111627135168-0-0-942-1800-crop-1795020261896180064914.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-18T21:12:53.825681",
+      "category": "tướng",
+      "priority": 2
+    },
+    {
+      "id": "7789f19e470c",
+      "title": "TikTok khiến CĐM phẫn nộ tột cùng vì những clip biến tướng",
+      "link": "https://gamek.vn/tiktok-khien-cdm-phan-no-tot-cung-vi-nhung-clip-bien-tuong-178261118184004545.chn",
+      "summary": "Lợi dụng sóng livestream để quảng bá dịch 18+, một kênh TikTok đang hứng chịu làn sóng chỉ trích dữ dội!",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/11/18/avatar1795001730284-17950017333681250409428-15-0-313-476-crop-17950018114031279327381.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-18T21:12:55.433280",
+      "category": "tướng",
+      "priority": 2
+    },
+    {
       "id": "a30c679c63a9",
       "title": "Xuất hiện \"vua tốc độ\" của Phantom Blade Zero, phá đảo game trong chưa đầy 30 phút",
       "link": "https://gamek.vn/xuat-hien-vua-toc-do-cua-phantom-blade-zero-pha-dao-game-trong-chua-day-30-phut-178261117092621008.chn",
@@ -1274,32 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-10-30T05:04:50.484640",
       "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "4708c1d4f03b",
-      "title": "Không phải ở giải đấu, ngắm Mai Dora vừa lạ vừa quen trên sàn diễn idol",
-      "link": "https://gamek.vn/khong-phai-o-giai-dau-ngam-mai-dora-vua-la-vua-quen-tren-san-dien-idol-178261028123502049.chn",
-      "summary": "Rời mic phỏng vấn Esports, Mai Dora lột xác thành nữ idol âm nhạc cực cháy trên sân khấu hoành tráng.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/10/28/avatar1793165600012-17931656005201282451188.jpeg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-10-28T18:09:05.262895",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "f31f5f6393bd",
-      "title": "Nữ MC gần nửa triệu người theo dõi chưa bao giờ khiến fan hết bất ngờ",
-      "link": "https://gamek.vn/nu-mc-gan-nua-trieu-nguoi-theo-doi-chua-bao-gio-khien-fan-het-bat-ngo-178261027145612505.chn",
-      "summary": "Mới đây, cô nàng MC Minh Nghi vừa thể hiện màn phỏng vấn tiếng Trung cực mượt tại giải đấu quốc tế, người xem trầm trồ không ngớt.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/10/27/avatar1793087592233-1793087592834668264929.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-10-27T14:13:02.501317",
-      "category": "esports",
       "priority": 2
     }
   ]
