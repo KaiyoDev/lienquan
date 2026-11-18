@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T21:37:29.599373",
+  "last_updated": "2026-11-18T03:28:02.121536",
   "total_news": 100,
   "news": [
     {
@@ -939,6 +939,19 @@
       "priority": 1
     },
     {
+      "id": "a30c679c63a9",
+      "title": "Xuất hiện \"vua tốc độ\" của Phantom Blade Zero, phá đảo game trong chưa đầy 30 phút",
+      "link": "https://gamek.vn/xuat-hien-vua-toc-do-cua-phantom-blade-zero-pha-dao-game-trong-chua-day-30-phut-178261117092621008.chn",
+      "summary": "Trong khi nhiều game thủ vẫn đang miệt mài khám phá Phantom Blade Zero, một cao thủ đã khiến cộng đồng kinh ngạc khi hoàn thành trò chơi chỉ trong 27 phút 32 giây.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/11/17/avatar1794902837147-179490283775315249779.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-18T03:27:43.341656",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "b4391860b270",
       "title": "Hot girl nổi tiếng thế giới bất ngờ lấn sân Esports, chính thức ký hợp đồng với nền tảng gaming đình đám",
       "link": "https://gamek.vn/hot-girl-noi-tieng-the-gioi-bat-ngo-lan-san-esports-chinh-thuc-ky-hop-dong-voi-nen-tang-gaming-dinh-dam-178261116084917312.chn",
@@ -1287,19 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-10-27T14:13:02.501317",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "18396baaec31",
-      "title": "Game Tam Quốc \"chất\" nhất lịch sử! Game thủ \"năn nỉ\" cũng không cho vàng, chỉ phát miễn phí tướng hiếm mà thôi?",
-      "link": "https://gamek.vn/game-tam-quoc-chat-nhat-lich-su-game-thu-nan-ni-cung-khong-cho-vang-chi-phat-mien-phi-tuong-hiem-ma-thoi-178261027154819804.chn",
-      "summary": "Xóa bỏ hoàn toàn định kiến về những món quà khởi đầu chỉ mang tính \"làm cảnh\", tựa game này tạo nên bước ngoặt lớn.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/10/27/avatar1793090620472-17930906211441928150682.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-10-27T14:13:04.408021",
-      "category": "sự kiện",
       "priority": 2
     }
   ]
