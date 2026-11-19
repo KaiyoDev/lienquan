@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T03:00:43.716092",
+  "last_updated": "2026-11-19T11:29:22.028681",
   "total_news": 100,
   "news": [
     {
@@ -13,6 +13,19 @@
       "published_at": "2026-11-16T03:43:15Z",
       "crawled_at": "2026-11-16T09:15:19.403773",
       "category": "cập nhật",
+      "priority": 1
+    },
+    {
+      "id": "97837298fb95",
+      "title": "AOG 2026 ĐÃ KHÉP LẠI – HẸN GẶP ANH EM Ở NHỮNG ĐIỂM HẸN TIẾP THEO CÙNG SHOPEE!",
+      "link": "https://lienquan.garena.vn/aog-2026-da-khep-lai-hen-gap-anh-em-o-nhung-diem-hen-tiep-theo-cung-shopee/",
+      "summary": "<p>💛 Hai ngày bùng nổ tại AOG 2026 đã qua, cảm ơn các Kiện tướng đã ghé Booth Shopee và cháy hết mình trong từng hoạt động! Cùng nhìn lại những dấu ấn cực phẩm: [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/aog-2026-da-khep-lai-hen-gap-anh-em-o-nhung-diem-hen-tiep-theo-cung-shopee/\">AOG 2026 ĐÃ KHÉP LẠI – HẸN GẶP ANH EM Ở NHỮNG ĐIỂM HẸN TIẾP THEO CÙNG SHOPEE!</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/11/11.00_Hung4324-1-scaled-e1795063060815.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-11-15T04:25:06Z",
+      "crawled_at": "2026-11-19T11:28:50.897781",
+      "category": "tướng",
       "priority": 1
     },
     {
@@ -65,6 +78,19 @@
       "published_at": "2026-11-12T11:42:57Z",
       "crawled_at": "2026-11-13T14:18:07.748314",
       "category": "skin",
+      "priority": 1
+    },
+    {
+      "id": "35cd900b8e3b",
+      "title": "realme đồng hành cùng sự kiện thập kỷ: Chung kết Đấu Trường Danh Vọng Mùa Đông 2026 và đại tiệc Liên Quân 10 Fest",
+      "link": "https://lienquan.garena.vn/realme-dong-hanh-cung-su-kien-thap-ky-chung-ket-dau-truong-danh-vong-mua-dong-2026-va-dai-tiec-lien-quan-10-fest/",
+      "summary": "<p>Vừa qua, realme, thương hiệu smartphone hướng đến thế hệ người dùng trẻ, tiếp tục hành trình đồng hành cùng cộng đồng Esports Việt Nam tại Chung kết Đấu Trường Danh Vọng Mùa Đông 2026 [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/realme-dong-hanh-cung-su-kien-thap-ky-chung-ket-dau-truong-danh-vong-mua-dong-2026-va-dai-tiec-lien-quan-10-fest/\">realme đồng hành cùng sự kiện thập kỷ: Chung kết Đấu Trường Danh Vọng Mùa Đông 2026 và đại tiệc Liên Quân 10 Fest</a> appeared first on ",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/11/realme-x-DTDV-Mua-Dong-2026_02-scaled.jpg",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-11-12T04:02:29Z",
+      "crawled_at": "2026-11-19T11:28:55.881567",
+      "category": "sự kiện",
       "priority": 1
     },
     {
@@ -1274,32 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-10-30T12:27:41.043737",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "08e74b301416",
-      "title": "Từ bạn gái đứng sau hào quang của SofM, LiLy giờ đây là CEO đầy quyền lực",
-      "link": "https://gamek.vn/tu-ban-gai-dung-sau-hao-quang-cua-sofm-lily-gio-day-la-ceo-day-quyen-luc-178261030105718007.chn",
-      "summary": "Cô nàng không khỏi trăn trở về tương lai Esports Việt.",
-      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/10/30/avatar1793332346646-1793332347530769622582.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-10-30T05:04:47.694744",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "66220fc9df7e",
-      "title": "Đỉnh cao combat thẻ tướng: Mộng Cảnh Tam Quốc phá vỡ giới hạn với \"3 tầng hợp kích - 4 lớp ulti\" chưa từng có",
-      "link": "https://gamek.vn/dinh-cao-combat-the-tuong-mong-canh-tam-quoc-pha-vo-gioi-han-voi-3-tang-hop-kich-4-lop-ulti-chua-tung-co-178261030104944987.chn",
-      "summary": "Phá vỡ hoàn toàn những lối mòn rập khuôn của dòng game chiến thuật thẻ tướng truyền thống, Mộng Cảnh Tam Quốc đã chính thức xác lập một chuẩn mực giao tranh hoàn toàn mới.",
-      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/10/30/avatar1793331922707-1793331925469168508596-34-0-709-1080-crop-1793332136611817531632.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-10-30T05:04:48.985101",
-      "category": "tướng",
       "priority": 2
     }
   ]
