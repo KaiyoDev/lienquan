@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T21:13:14.966624",
+  "last_updated": "2026-11-19T03:00:43.716092",
   "total_news": 100,
   "news": [
     {
@@ -939,6 +939,19 @@
       "priority": 1
     },
     {
+      "id": "a0429f035792",
+      "title": "Hai nhân vật không thi đấu nhưng được nhắc đến nhiều nhất nhì sau khi CKTG 2026 kết thúc",
+      "link": "https://gamek.vn/hai-nhan-vat-khong-thi-dau-nhung-duoc-nhac-den-nhieu-nhat-nhi-sau-khi-cktg-2026-ket-thuc-178261118010321249.chn",
+      "summary": "Soyeon và Peanut không thi đấu CKTG 2026 bất kỳ phút giây nào nhưng lại được nhắc tên rất nhiều sau khi giải đấu kết thúc.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/11/18/cktg-4-1795017705298133033825-0-0-942-1800-crop-17950220620801228392430.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-19T03:00:23.164168",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "1cd2481f89cc",
       "title": "Một vị tướng mang đến nỗi thất vọng nhất tại CKTG 2026",
       "link": "https://gamek.vn/mot-vi-tuong-mang-den-noi-that-vong-nhat-tai-cktg-2026-178261118021727503.chn",
@@ -1286,19 +1299,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-10-30T05:04:48.985101",
-      "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "4b18394e318f",
-      "title": "Cố tình mặc phản cảm để quay clip giãn cơ trị liệu, dấu hỏi lớn về nguy cơ dịch vụ biến tướng!",
-      "link": "https://gamek.vn/co-tinh-mac-phan-cam-de-quay-clip-gian-co-tri-lieu-dau-hoi-lon-ve-nguy-co-dich-vu-bien-tuong-178261026150541174.chn",
-      "summary": "Nhức mắt với góc quay kích thích của tiệm giãn cơ, dịch vụ phục hồi sức khỏe hay hành vi lợi dụng làm \"content bẩn\" câu kéo lượt xem.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/10/26/avatar1793001784493-17930017848702004255005.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-10-30T05:04:50.484640",
       "category": "tướng",
       "priority": 2
     }
