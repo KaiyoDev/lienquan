@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T11:07:28.445887",
+  "last_updated": "2026-11-20T19:49:28.454973",
   "total_news": 100,
   "news": [
     {
@@ -965,6 +965,19 @@
       "priority": 1
     },
     {
+      "id": "4fd933a943b0",
+      "title": "Liên Quân Mobile mừng sinh nhật 10 tuổi: Một thập niên gắn kết vì cộng đồng",
+      "link": "https://gamek.vn/lien-quan-mobile-mung-sinh-nhat-10-tuoi-mot-thap-nien-gan-ket-vi-cong-dong-178261120182520062.chn",
+      "summary": "Từ Taipei Dome ở Đài Bắc, triển lãm ký ức tại Bangkok đến sân vận động quốc gia Mỹ Đình ở Hà Nội, Liên Quân Mobile đón tuổi lên 10 bằng những ngày hội mang dấu ấn riêng của từng thành phố.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/11/20/avatar1795173797048-17951737974432100898423.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-20T19:49:07.208539",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "2feeebef3f8c",
       "title": "Vừa sát thương, vừa hỗ trợ - Tướng mới Tây Du VNG: Đại Náo Tam Giới có gì đặc biệt?",
       "link": "https://gamek.vn/vua-sat-thuong-vua-ho-tro-tuong-moi-tay-du-vng-dai-nao-tam-gioi-co-gi-dac-biet-178261120103937351.chn",
@@ -1286,19 +1299,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-11-02T20:40:32.145246",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "48da0d9c5f16",
-      "title": "MC Tú Linh \"dặm bùa\" fan nam cỡ này, ngày càng \"mờ lem\", đẳng cấp nữ thần bất biến trong lòng game thủ!",
-      "link": "https://gamek.vn/mc-tu-linh-dam-bua-fan-nam-co-nay-ngay-cang-mo-lem-dang-cap-nu-than-bat-bien-trong-long-game-thu-178261102111104279.chn",
-      "summary": "Trong giới thể thao và thể thao điện tử (eSports), MC Tú Linh gắn liền với hình ảnh một nữ MC sắc sảo, tài năng và sở hữu nụ cười tỏa nắng.",
-      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/11/2/avatar1793592468399-1793592470021832387890.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-11-02T10:44:41.026740",
       "category": "esports",
       "priority": 2
     }
