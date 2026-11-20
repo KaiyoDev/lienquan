@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T02:08:51.233264",
+  "last_updated": "2026-11-20T11:07:28.445887",
   "total_news": 100,
   "news": [
     {
@@ -965,6 +965,19 @@
       "priority": 1
     },
     {
+      "id": "2feeebef3f8c",
+      "title": "Vừa sát thương, vừa hỗ trợ - Tướng mới Tây Du VNG: Đại Náo Tam Giới có gì đặc biệt?",
+      "link": "https://gamek.vn/vua-sat-thuong-vua-ho-tro-tuong-moi-tay-du-vng-dai-nao-tam-gioi-co-gi-dac-biet-178261120103937351.chn",
+      "summary": "Nhân dịp kỷ niệm 3 năm ra mắt, Tây Du VNG: Đại Náo Tam Giới chính thức giới thiệu phiên bản mới Nhiên Đăng Định Thiên, với tâm điểm là sự xuất hiện của Kim Tướng Thần Ma mới - Nhiên Đăng Cổ Phật.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/11/20/photo1795085358144-1795085360997115642670-17951459806921195195959.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-20T11:07:06.466112",
+      "category": "tướng mới",
+      "priority": 2
+    },
+    {
       "id": "a0429f035792",
       "title": "Hai nhân vật không thi đấu nhưng được nhắc đến nhiều nhất nhì sau khi CKTG 2026 kết thúc",
       "link": "https://gamek.vn/hai-nhan-vat-khong-thi-dau-nhung-duoc-nhac-den-nhieu-nhat-nhi-sau-khi-cktg-2026-ket-thuc-178261118010321249.chn",
@@ -1286,19 +1299,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-11-02T10:44:41.026740",
-      "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "7e1acb654a8c",
-      "title": "Linh Nắng khiến nhiều fan nam vỡ mộng!",
-      "link": "https://gamek.vn/linh-nang-khien-nhieu-fan-nam-vo-mong-17826103011451182.chn",
-      "summary": "Mới đây, nữ MC xinh đẹp Linh Nắng, một trong những gương mặt dẫn chương trình nổi tiếng và sở hữu lượng fan đông đảo trong giới Esports và Thể thao đã khiến cộng đồng mạng bất ngờ khi đăng tải những dòng trạng thái công khai chuyện tình cảm nhân dịp sinh nhật.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/10/30/avatar1793345638798-17933456396251109013362.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-10-30T12:27:41.043737",
       "category": "esports",
       "priority": 2
     }
