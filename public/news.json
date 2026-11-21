@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T09:26:55.743964",
+  "last_updated": "2026-11-21T17:14:14.618073",
   "total_news": 100,
   "news": [
     {
@@ -965,6 +965,19 @@
       "priority": 1
     },
     {
+      "id": "805e59ec3a4d",
+      "title": "Checkin Maldives, nữ game thủ Liên Quân khoe lưng trần quyến rũ",
+      "link": "https://gamek.vn/checkin-maldives-nu-game-thu-lien-quan-khoe-lung-tran-quyen-ru-178261121213624435.chn",
+      "summary": "Sau những dự án âm nhạc sôi động và lịch trình bận rộn, Bích Phương vừa khiến cộng đồng mạng được phen \"đứng ngồi không yên\" khi bất ngờ tung loạt ảnh nghỉ dưỡng cực kỳ nóng bỏng tại thiên đường biển Maldives.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/11/21/avatar1795271637020-1795271637676524230917.jpeg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-21T17:13:28.264036",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "4fd933a943b0",
       "title": "Liên Quân Mobile mừng sinh nhật 10 tuổi: Một thập niên gắn kết vì cộng đồng",
       "link": "https://gamek.vn/lien-quan-mobile-mung-sinh-nhat-10-tuoi-mot-thap-nien-gan-ket-vi-cong-dong-178261120182520062.chn",
@@ -1287,19 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-11-05T10:33:27.644502",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "f414cdbd5d6a",
-      "title": "Cộng đồng công kích quá trớn vào Gumayusi và HLE khiến BLV Hoàng Luân cũng phải bức xúc",
-      "link": "https://gamek.vn/cong-dong-cong-kich-qua-tron-vao-gumayusi-va-hle-khien-blv-hoang-luan-cung-phai-buc-xuc-178261102234841653.chn",
-      "summary": "Luôn tôn sùng Esports thuần túy và những màn trashtalk nhưng có lẽ với cộng đồng LMHT thì \"đội nào cũng được trừ HLE và Gumayusi\".",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/11/2/avatar1793637653522-17936376545851275736354-0-0-942-1800-crop-17936379049511718422011.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-11-02T20:40:32.145246",
-      "category": "esports",
       "priority": 2
     }
   ]
