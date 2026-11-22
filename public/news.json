@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T02:55:45.325231",
+  "last_updated": "2026-11-22T10:56:13.379363",
   "total_news": 100,
   "news": [
     {
@@ -965,6 +965,45 @@
       "priority": 1
     },
     {
+      "id": "a67f56a7e92f",
+      "title": "MC Mai Dora bỗng dưng bị lôi vào drama Esport, trang cá nhân bị công kích",
+      "link": "https://gamek.vn/mc-mai-dora-bong-dung-bi-loi-vao-drama-esport-trang-ca-nhan-bi-cong-kich-17826112212510679.chn",
+      "summary": "Thời gian gần đây dù ít hoạt động Esports, cô nàng MC xinh đẹp vẫn bất ngờ nhận về nhiều bình luận kém duyên.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/11/22/avatar1795326476958-17953264777091658524624.jpeg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-22T10:55:51.500302",
+      "category": "esports",
+      "priority": 2
+    },
+    {
+      "id": "a96b91209bb0",
+      "title": "GTA 6 hứng bão đánh giá tiêu cực, game thủ nổi giận vì trò chơi bắt phải đứng đắn quá đà",
+      "link": "https://gamek.vn/gta-6-hung-bao-danh-gia-tieu-cuc-game-thu-noi-gian-vi-tro-choi-bat-phai-dung-dan-qua-da-178261121162913028.chn",
+      "summary": "Chỉ sau 24 giờ phát hành, GTA 6 đã phải đối mặt với làn sóng đánh giá tiêu cực trên Metacritic, với hơn 12.000 nhận xét không hài lòng.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/11/21/avatar1795254441016-17952544426371979962558.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-22T10:55:53.402453",
+      "category": "meta",
+      "priority": 2
+    },
+    {
+      "id": "ee3c1ec3c6d0",
+      "title": "Lê Bống tung \"tư liệu\" xinh đẹp, video hút gần 800K lượt xem",
+      "link": "https://gamek.vn/le-bong-tung-tu-lieu-xinh-dep-video-hut-gan-800k-luot-xem-17826112121300151.chn",
+      "summary": "Lê Bống giữ vững phong độ nhan sắc trẻ trung, làn da căng bóng chuẩn \"glass skin\" cùng vóc dáng săn chắc đáng ngưỡng mộ.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/11/21/avatar1795271264332-17952712654081029568148.jpeg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-22T10:55:54.508360",
+      "category": "skin",
+      "priority": 2
+    },
+    {
       "id": "805e59ec3a4d",
       "title": "Checkin Maldives, nữ game thủ Liên Quân khoe lưng trần quyến rũ",
       "link": "https://gamek.vn/checkin-maldives-nu-game-thu-lien-quan-khoe-lung-tran-quyen-ru-178261121213624435.chn",
@@ -1260,45 +1299,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-11-08T10:00:13.399020",
-      "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "94319e1a2a5c",
-      "title": "Siêu phẩm game đồng đội kinh dị hài hước không thể bỏ lỡ: Garena chuẩn bị đưa Tiểu Đội Quậy Ma đổ bộ Đông Nam Á và Mỹ Latinh",
-      "link": "https://gamek.vn/sieu-pham-game-dong-doi-kinh-di-hai-huoc-khong-the-bo-lo-garena-chuan-bi-dua-tieu-doi-quay-ma-do-bo-dong-nam-a-va-my-latinh-17826110618552454.chn",
-      "summary": "Cùng đồng đội săn tìm cổ vật quý giá và sống sót qua những cuộc chạm trán với nhiều thể loại ma quái trong tựa game đồng đội hài hước do Giant Network phát triển.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/11/6/avatar1793965826820-1793965827292581159269-50-108-863-1662-crop-17939659592921372696206.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-11-06T14:52:25.411066",
-      "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "a4d6e11820c5",
-      "title": "Đem cả \"phòng gym\" ra chiến trường, Tam Quốc Đại Minh Tinh khoe dàn tướng 3D tả thực đến từng múi cơ",
-      "link": "https://gamek.vn/dem-ca-phong-gym-ra-chien-truong-tam-quoc-dai-minh-tinh-khoe-dan-tuong-3d-ta-thuc-den-tung-mui-co-178261105232303585.chn",
-      "summary": "Cơ bụng cuồn cuộn, giáp kim loại nổi khối, từng đường nét cơ thể được dựng sắc nét đến mức người chơi có cảm giác như đang xem một bộ phim chiến trận. Đó là cách tựa game Tam Quốc Đại Minh Tinh gây chú ý trước ngày ra mắt 18/11.",
-      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/11/5/avatar1793895520934-17938955220111366530363-0-48-413-709-crop-1793895607539386954563.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-11-06T06:23:03.889519",
-      "category": "tướng",
-      "priority": 2
-    },
-    {
-      "id": "2aac8780bf69",
-      "title": "MC Phương Thảo tích cực độ dáng nóng bỏng trước \"giờ G\"",
-      "link": "https://gamek.vn/mc-phuong-thao-tich-cuc-do-dang-nong-bong-truoc-gio-g-178261104134909977.chn",
-      "summary": "Để xuất hiện với diện mạo rạng rỡ và hoàn hảo nhất trên sân khấu kỷ niệm 10 năm Liên Quân Mobile, MC Phương Thảo đã trải qua hai tháng khổ luyện siết dáng đầy nỗ lực.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/11/4/avatar1793774864493-17937748648071156354046.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-11-05T10:33:27.644502",
       "category": "tin tức",
       "priority": 2
     }
