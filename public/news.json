@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T00:06:49.183476",
+  "last_updated": "2026-11-23T08:45:31.091159",
   "total_news": 100,
   "news": [
     {
@@ -965,6 +965,19 @@
       "priority": 1
     },
     {
+      "id": "e9ed59fcc053",
+      "title": "Nhập trend nàng thơ miền Tây, mẫu ảnh thả dáng và khoảnh khắc khiến fan \"thót tim\"",
+      "link": "https://gamek.vn/nhap-trend-nang-tho-mien-tay-mau-anh-tha-dang-va-khoanh-khac-khien-fan-thot-tim-178260818122243764.chn",
+      "summary": "Từng gây sốt với màn cosplay Airi, hot girl Liên Quân tiếp tục thu hút với loạt ảnh du lịch mới đăng tải.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/8/18/77179710925115729993114534715695703841635911n-085910-1787030433247-1787030433466552247624-453-0-1413-1536-crop-17870304932221523844702.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-23T08:45:14.231847",
+      "category": "sự kiện",
+      "priority": 2
+    },
+    {
       "id": "a67f56a7e92f",
       "title": "MC Mai Dora bỗng dưng bị lôi vào drama Esport, trang cá nhân bị công kích",
       "link": "https://gamek.vn/mc-mai-dora-bong-dung-bi-loi-vao-drama-esport-trang-ca-nhan-bi-cong-kich-17826112212510679.chn",
@@ -1286,19 +1299,6 @@
       "source_url": "https://gamek.vn/rss",
       "published_at": null,
       "crawled_at": "2026-11-08T10:00:11.220032",
-      "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "fceca05c2439",
-      "title": "Top 7 cao thủ nhìn thấy trước tương lai trong anime: Kẻ thù chưa kịp ra tay đã cầm chắc thất bại",
-      "link": "https://gamek.vn/top-7-cao-thu-nhin-thay-truoc-tuong-lai-trong-anime-ke-thu-chua-kip-ra-tay-da-cam-chac-that-bai-178261105173223143.chn",
-      "summary": "Không chỉ dừng lại ở các đòn đánh vật lý hay ma thuật thông thường, những nhân vật anime này còn khiến đối thủ phải bất lực khi sở hữu năng lực nhìn trước tương lai.",
-      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/11/5/avatar1793874658202-17938746584851138100988.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-11-08T10:00:13.399020",
       "category": "tin tức",
       "priority": 2
     }
