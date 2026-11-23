@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T08:45:31.091159",
+  "last_updated": "2026-11-23T21:01:15.021572",
   "total_news": 100,
   "news": [
     {
@@ -965,6 +965,19 @@
       "priority": 1
     },
     {
+      "id": "aad07e6c9446",
+      "title": "Team Flash giành Huy chương Vàng Liên Quân Mobile tại Đại hội Thể thao toàn quốc 2026: Bản lĩnh lên tiếng sau những hoài nghi",
+      "link": "https://gamek.vn/team-flash-gianh-huy-chuong-vang-lien-quan-mobile-tai-dai-hoi-the-thao-toan-quoc-2026-ban-linh-len-tieng-sau-nhung-hoai-nghi-178261123171028557.chn",
+      "summary": "Vượt qua những nghi ngại về phong độ, Team Flash đã xuất sắc giành Huy chương Vàng bộ môn Liên Quân Mobile tại Đại hội Thể thao toàn quốc lần thứ X năm 2026.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/11/23/avatar1795427708304-1795427708854964705969-71-0-1013-1800-crop-1795428133441875710266.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-23T21:00:51.559334",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "e9ed59fcc053",
       "title": "Nhập trend nàng thơ miền Tây, mẫu ảnh thả dáng và khoảnh khắc khiến fan \"thót tim\"",
       "link": "https://gamek.vn/nhap-trend-nang-tho-mien-tay-mau-anh-tha-dang-va-khoanh-khac-khien-fan-thot-tim-178260818122243764.chn",
@@ -1287,19 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-11-08T10:00:08.223048",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "064fcdeccd7a",
-      "title": "Điêu Thuyền Phương Thảo xuất hiện cực \"cháy\", bừng sáng sân khấu Fest Liên Quân Day 1",
-      "link": "https://gamek.vn/dieu-thuyen-phuong-thao-xuat-hien-cuc-chay-bung-sang-san-khau-fest-lien-quan-day-1-1782611081516407.chn",
-      "summary": "Khán giả khẳng định chưa bao giờ cô khiến người xem thất vọng.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/11/8/891956249397189170628543924552065730739563n-225608-1794125517752-179412551818425007811-234-0-949-1366-crop-1794125696245452268956.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-11-08T10:00:11.220032",
-      "category": "tin tức",
       "priority": 2
     }
   ]
