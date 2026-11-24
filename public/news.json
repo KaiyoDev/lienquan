@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T05:16:50.580931",
+  "last_updated": "2026-11-24T17:16:44.998327",
   "total_news": 100,
   "news": [
     {
@@ -965,6 +965,45 @@
       "priority": 1
     },
     {
+      "id": "c583e163b410",
+      "title": "Liên Quân Mobile cho Valhein dùng phở và gỏi cuốn để \"hạ gục\" đối thủ, được App Store vinh danh trong Ngày Văn hóa Việt Nam 24/11",
+      "link": "https://gamek.vn/lien-quan-mobile-cho-valhein-dung-pho-va-goi-cuon-de-ha-guc-doi-thu-duoc-app-store-vinh-danh-trong-ngay-van-hoa-viet-nam-24-11-178261124132439695.chn",
+      "summary": "Sự kiện ra mắt trang phục mới đầy sáng tạo, đã giúp tựa game của Garena ghi điểm tuyệt đối với đội ngũ biên tập Apple.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/11/24/avatar1795501073710-1795501079535480047005-0-0-841-1345-crop-1795501280577836026236.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-24T17:16:23.912072",
+      "category": "sự kiện",
+      "priority": 2
+    },
+    {
+      "id": "e705cc5de8ec",
+      "title": "Đưa cả Lạc Long Quân, Âu Cơ lên sàn đấu, tựa game indie Việt Nam Mythic Tactics chiếm trọn spotlight trên App Store",
+      "link": "https://gamek.vn/dua-ca-lac-long-quan-au-co-len-san-dau-tua-game-indie-viet-nam-mythic-tactics-chiem-tron-spotlight-tren-app-store-17826112413265824.chn",
+      "summary": "Bản cập nhật Season 2 mang chủ đề thần thoại Đông Nam Á đã giúp tựa game đấu bài chiến thuật thuần Việt này ghi điểm tuyệt đối với đội ngũ biên tập Apple App Store.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/11/24/avatar1795501363672-179550136398655501636-37-0-437-640-crop-17955014353861227530254.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-24T17:16:25.081730",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
+      "id": "1f930619657e",
+      "title": "Khó tin: Tựa game online Việt gần 20 năm tuổi vẫn chưa chịu “về hưu”, thậm chí còn rục rịch mở thêm thế giới mới!",
+      "link": "https://gamek.vn/kho-tin-tua-game-online-viet-gan-20-nam-tuoi-van-chua-chiu-ve-huu-tham-chi-con-ruc-rich-mo-them-the-gioi-moi-178261124150010506.chn",
+      "summary": "Giữa thời buổi vòng đời nhiều game online Việt chỉ tính bằng vài năm, việc Thế Giới Hoàn Mỹ PC bất ngờ tung teaser cho bản cập nhật mới ngày 24/11 khiến không ít người chơi lâu năm phải bất ngờ.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/11/24/avatar1795507094702-1795507095186496394275.jpeg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-24T17:16:26.590383",
+      "category": "tin tức",
+      "priority": 2
+    },
+    {
       "id": "aad07e6c9446",
       "title": "Team Flash giành Huy chương Vàng Liên Quân Mobile tại Đại hội Thể thao toàn quốc 2026: Bản lĩnh lên tiếng sau những hoài nghi",
       "link": "https://gamek.vn/team-flash-gianh-huy-chuong-vang-lien-quan-mobile-tai-dai-hoi-the-thao-toan-quoc-2026-ban-linh-len-tieng-sau-nhung-hoai-nghi-178261123171028557.chn",
@@ -1261,45 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-11-09T18:32:37.649019",
       "category": "sự kiện",
-      "priority": 2
-    },
-    {
-      "id": "d065ec5ca025",
-      "title": "Nhà phát triển khuyên đừng vội, game thủ lại cày xuyên ngày đêm: Chỉ 3 ngày đã chạm trần cấp độ",
-      "link": "https://gamek.vn/nha-phat-trien-khuyen-dung-voi-game-thu-lai-cay-xuyen-ngay-dem-chi-3-ngay-da-cham-tran-cap-do-178261108084100345.chn",
-      "summary": "Dù nhà phát triển mong muốn các game thủ thong thả khám phá thế giới và tận hưởng hành trình phiêu lưu, một nhóm cao thủ MMORPG đã khiến cộng đồng bất ngờ khi đạt cấp độ tối đa chỉ sau ba ngày.",
-      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/11/8/9c0f6708-face-4129-a55e-338ad5788b76-1794102048979540664943-0-47-941-1553-crop-1794102053549158798592.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-11-09T18:32:38.726368",
-      "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "73e17d46f850",
-      "title": "Thay skin đổi skill: Cơ chế \"độc lạ\" của Mộng Cảnh Tam Quốc biến mỗi danh tướng thành một quân bài không thể đoán trước",
-      "link": "https://gamek.vn/thay-skin-doi-skill-co-che-doc-la-cua-mong-canh-tam-quoc-bien-moi-danh-tuong-thanh-mot-quan-bai-khong-the-doan-truoc-178261109135348483.chn",
-      "summary": "Mộng Cảnh Tam Quốc đã tạo nên một cuộc cách mạng thực sự về lối chơi khi cho phép skin can thiệp trực tiếp vào bộ chiêu thức tác chiến của nhân vật.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/11/9/avatar1794207000889-1794207001280777176244.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-11-09T18:32:40.075215",
-      "category": "skin",
-      "priority": 2
-    },
-    {
-      "id": "a4f037b04e0c",
-      "title": "Chung kết Đấu Trường Danh Vọng Mùa Đông 2026: Kỷ nguyên danh vọng mới khắc tên FPT Polytechnic",
-      "link": "https://gamek.vn/chung-ket-dau-truong-danh-vong-mua-dong-2026-ky-nguyen-danh-vong-moi-khac-ten-fpt-polytechnic-17826110816544895.chn",
-      "summary": "Ngày 07/11/2026, sân vận động Mỹ Đình (Hà Nội) trở thành tâm điểm của cộng đồng esports Việt Nam khi Vòng Chung kết Đấu Trường Danh Vọng Mùa Đông 2026 chính thức diễn ra, đồng thời đánh dấu cột mốc 10 năm Liên Quân Mobile tại Việt Nam.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/11/8/avatar1794131262628-1794131262819444803731.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-11-08T10:00:08.223048",
-      "category": "esports",
       "priority": 2
     }
   ]
