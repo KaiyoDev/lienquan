@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-11-25T02:04:19.394562",
+  "last_updated": "2026-11-25T12:21:53.760332",
   "total_news": 100,
   "news": [
+    {
+      "id": "f0fdf82f33aa",
+      "title": "ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 26.11.2026",
+      "link": "https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-vet-nut-thoi-khong-26-11-2026/",
+      "summary": "<p>Xin chào các Kiện Tướng, Liên Quân Mobile sẽ tiến hành cập nhật không gián đoạn cho máy chủ chính thức vào ngày 26/11/2026. Trong thời gian quy định, các Kiện tướng có thể tự chọn thời điểm [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/dieu-chinh-giua-mua-pb-vet-nut-thoi-khong-26-11-2026/\">ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 26.11.2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/11/IMG-HOR-0860x0400-119044-1.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-11-25T07:52:58Z",
+      "crawled_at": "2026-11-25T12:21:20.238159",
+      "category": "cập nhật",
+      "priority": 1
+    },
     {
       "id": "4567ad62db95",
       "title": "ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 17.11.2026",
@@ -965,6 +978,32 @@
       "priority": 1
     },
     {
+      "id": "a1da0f8cdfcf",
+      "title": "Lan tỏa bản sắc Việt qua thế giới game và những sự kiện quốc tế",
+      "link": "https://gamek.vn/lan-toa-ban-sac-viet-qua-the-gioi-game-va-nhung-su-kien-quoc-te-178261125170115487.chn",
+      "summary": "Từ trang phục, hình ảnh trong game đến các sự kiện cộng đồng và giải đấu quốc tế, VNGGames đưa chất liệu Việt vào không gian giải trí số, đồng thời mở thêm cơ hội để bạn bè quốc tế nhận diện bản sắc Việt Nam.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/11/25/ext-vngg-lan-toa-van-hoa-game4-1795600698573-1795600699345700818796-0-0-862-1379-crop-1795600741171115355511.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-25T12:21:32.535278",
+      "category": "sự kiện",
+      "priority": 2
+    },
+    {
+      "id": "fda6329c8df5",
+      "title": "Tặng 3 Tướng Cam, 125 lượt chiêu mộ, Tam Quốc: Mưu Định Thiên Hạ chính thức mở tải trước",
+      "link": "https://gamek.vn/tang-3-tuong-cam-125-luot-chieu-mo-tam-quoc-muu-dinh-thien-ha-chinh-thuc-mo-tai-truoc-178261125115515475.chn",
+      "summary": "Tam Quốc: Mưu Định Thiên Hạ chính thức mở tải trước tại Việt Nam từ ngày 25/11, Open Beta vào 10h ngày 26/11 với hàng loạt phúc lợi tân thủ, và Server Chủ Đề Cúp Châu Á với tổng giải thưởng hơn 1,2 tỷ đồng.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/11/25/avatar1795582406922-17955824073282000268616.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-25T12:21:34.652016",
+      "category": "tướng",
+      "priority": 2
+    },
+    {
       "id": "c583e163b410",
       "title": "Liên Quân Mobile cho Valhein dùng phở và gỏi cuốn để \"hạ gục\" đối thủ, được App Store vinh danh trong Ngày Văn hóa Việt Nam 24/11",
       "link": "https://gamek.vn/lien-quan-mobile-cho-valhein-dung-pho-va-goi-cuon-de-ha-guc-doi-thu-duoc-app-store-vinh-danh-trong-ngay-van-hoa-viet-nam-24-11-178261124132439695.chn",
@@ -1261,45 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-11-09T18:32:32.734545",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "67f936edf06d",
-      "title": "Trần Hà Linh tung video với streamer Bốp Bốp",
-      "link": "https://gamek.vn/tran-ha-linh-tung-video-voi-streamer-bop-bop-178261108133248065.chn",
-      "summary": "Trần Hà Linh \"hữu duyên\" hội ngộ bất ngờ với nam streamer Liên Quân nổi tiếng, màn đu trend nhảy \"gấp đôi tương tác\".",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/11/8/avatar1794119425356-1794119425553410702607.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-11-09T18:32:34.909377",
-      "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "3e7c9190408b",
-      "title": "Sau nụ hôn \"bá khí\" của chị đại ngay trên sóng trực tiếp, tuyển thủ Liên Quân nói gì?",
-      "link": "https://gamek.vn/sau-nu-hon-ba-khi-cua-chi-dai-ngay-tren-song-truc-tiep-tuyen-thu-lien-quan-noi-gi-178261109142346808.chn",
-      "summary": "Anh chàng tự nhủ với bản thân đồng thời trấn an fan rằng bản thân vẫn tập trung cho chuyên môn và tập luyện.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/11/9/avatar1794208962834-17942089630821174320323.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-11-09T18:32:36.378957",
-      "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "f631e12d0b0e",
-      "title": "Hơn 22.000 khán giả bùng nổ cảm xúc tại Đại nhạc hội Liên Quân 10 Fest",
-      "link": "https://gamek.vn/hon-22000-khan-gia-bung-no-cam-xuc-tai-dai-nhac-hoi-lien-quan-10-fest-178261109135543397.chn",
-      "summary": "Đại nhạc hội Liên Quân 10 Fest, hoạt động chính của chuỗi sự kiện do Garena tổ chức nhân dịp Liên Quân Mobile tròn 10 năm tại Việt Nam, đã diễn ra ngày 08/11/2026 tại Sân vận động Quốc gia Mỹ Đình, Hà Nội. Đêm diễn đón hơn 22.000 lượt người tham dự.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/11/9/avatar1794207148718-17942071491611324313987.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-11-09T18:32:37.649019",
-      "category": "sự kiện",
       "priority": 2
     }
   ]
