@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-11-26T04:47:36.990392",
+  "last_updated": "2026-11-26T14:51:10.106958",
   "total_news": 100,
   "news": [
+    {
+      "id": "5d5eff2fcf43",
+      "title": "XỬ PHẠT ĐỘI TUYỂN NGHỆ AN – CHUNG KẾT TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026",
+      "link": "https://lienquan.garena.vn/xu-phat-doi-tuyen-nghe-an-chung-ket-tu-phuong-dai-chien-mua-dong-2026/",
+      "summary": "<p>Xin chào các Kiện tướng, Sau khi tiếp nhận thông tin tố cáo và tiến hành kiểm tra, xác minh các nội dung liên quan đến trận thi đấu ngày 14/10 Vòng Swiss Stage giải [&#8230;]</p>\n<p>The post <a href=\"https://lienquan.garena.vn/xu-phat-doi-tuyen-nghe-an-chung-ket-tu-phuong-dai-chien-mua-dong-2026/\">XỬ PHẠT ĐỘI TUYỂN NGHỆ AN &#8211; CHUNG KẾT TỨ PHƯƠNG ĐẠI CHIẾN MÙA ĐÔNG 2026</a> appeared first on <a href=\"https://lienquan.garena.vn\">Liên Quân Mobile</a>.</p>",
+      "image_url": "https://lienquan.garena.vn/wp-content/uploads/2026/11/SeaTalk_IMG_20261126_173447.png",
+      "source": "Liên Quân Mobile Official",
+      "source_url": "https://lienquan.garena.vn/rss",
+      "published_at": "2026-11-26T10:37:28Z",
+      "crawled_at": "2026-11-26T14:50:36.727630",
+      "category": "esports",
+      "priority": 1
+    },
     {
       "id": "f0fdf82f33aa",
       "title": "ĐIỀU CHỈNH GIỮA MÙA PB VẾT NỨT THỜI KHÔNG – 26.11.2026",
@@ -1287,19 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-11-11T10:32:57.070645",
       "category": "sự kiện",
-      "priority": 2
-    },
-    {
-      "id": "69f754e6a615",
-      "title": "MC Như Bình check-in trước \"giờ G\", làm anh em game thủ Liên Quân Mobile rạo rực \"đứng ngồi không yên\"",
-      "link": "https://gamek.vn/mc-nhu-binh-check-in-truoc-gio-g-lam-anh-em-game-thu-lien-quan-mobile-rao-ruc-dung-ngoi-khong-yen-178261107150825932.chn",
-      "summary": "Khoảnh khắc MC Như Bình tung loạt ảnh check-in rạng rỡ, đã nhanh chóng khiến cộng đồng game thủ Liên Quân Mobile bùng nổ.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/11/7/avatar1794038661114-17940386636402141413968.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-11-09T18:32:32.734545",
-      "category": "tin tức",
       "priority": 2
     }
   ]
