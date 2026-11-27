@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T23:36:01.724448",
+  "last_updated": "2026-11-27T07:37:36.995849",
   "total_news": 100,
   "news": [
     {
@@ -991,6 +991,19 @@
       "priority": 1
     },
     {
+      "id": "6a7715284bfa",
+      "title": "Nguyên một team Liên Quân bị xử phạt vĩnh viễn từ Garena",
+      "link": "https://gamek.vn/nguyen-mot-team-lien-quan-bi-xu-phat-vinh-vien-tu-garena-178261127113731174.chn",
+      "summary": "Cộng đồng Liên Quân Mobile Việt Nam vừa rúng động trước án phạt cấm thi đấu vĩnh viễn dành cho toàn bộ 6 thành viên đội tuyển Nghệ An tại Tứ Phương Đại Chiến Mùa Đông 2026.",
+      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/11/27/avatar1795754154228-179575415450487260271.png",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-27T07:36:54.089848",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "a1da0f8cdfcf",
       "title": "Lan tỏa bản sắc Việt qua thế giới game và những sự kiện quốc tế",
       "link": "https://gamek.vn/lan-toa-ban-sac-viet-qua-the-gioi-game-va-nhung-su-kien-quoc-te-178261125170115487.chn",
@@ -1287,19 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-11-11T10:32:54.820988",
       "category": "tin tức",
-      "priority": 2
-    },
-    {
-      "id": "cf11de4b98b9",
-      "title": "Mộng Cảnh Tam Quốc chính thức ra mắt, tặng Giftcode độc quyền",
-      "link": "https://gamek.vn/mong-canh-tam-quoc-chinh-thuc-ra-mat-tang-giftcode-doc-quyen-178261110154911882.chn",
-      "summary": "Game Tam Quốc đầu tiên mở combat bằng 3 Tầng Hợp Kích, 4 Lớp Ulti. Đăng nhập nhận full tướng đỏ.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/11/10/avatar1794300483785-17943004840991241820123.png",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-11-11T10:32:57.070645",
-      "category": "sự kiện",
       "priority": 2
     }
   ]
