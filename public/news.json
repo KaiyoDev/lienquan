@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T01:21:48.677871",
+  "last_updated": "2026-11-28T09:59:27.205325",
   "total_news": 100,
   "news": [
     {
@@ -991,6 +991,19 @@
       "priority": 1
     },
     {
+      "id": "1dee58682a66",
+      "title": "Độc quyền: Chủ tịch SEAEF Đỗ Việt Hùng: Union 2028 là bước ngoặt lịch sử, đây chính là tương lai, là cơ hội của các bạn!",
+      "link": "https://gamek.vn/doc-quyen-chu-tich-seaef-do-viet-hung-union-2028-la-buoc-ngoat-lich-su-day-chinh-la-tuong-lai-la-co-hoi-cua-cac-ban-178261128111910964.chn",
+      "summary": "Trong cuộc trò chuyện độc quyền, Chủ tịch SEAEF Đỗ Việt Hùng đã hé lộ tham vọng kiến tạo nên \"siêu giải đấu\" Union 2028 quy tụ đủ 11 quốc gia Đông Nam Á, mở ra kỷ nguyên phát triển độc lập, bình đẳng và bền vững cho toàn bộ hệ sinh thái Esports khu vực.",
+      "image_url": "https://gamek.mediacdn.vn/thumb_w/1200/133514250583805952/2026/11/28/photo2026-11-2811-06-52-1795839412194953750321-215-0-1584-2190-crop-1795839438361454615231.jpg",
+      "source": "GameK.vn",
+      "source_url": "https://gamek.vn/rss",
+      "published_at": null,
+      "crawled_at": "2026-11-28T09:59:04.728430",
+      "category": "esports",
+      "priority": 2
+    },
+    {
       "id": "6a7715284bfa",
       "title": "Nguyên một team Liên Quân bị xử phạt vĩnh viễn từ Garena",
       "link": "https://gamek.vn/nguyen-mot-team-lien-quan-bi-xu-phat-vinh-vien-tu-garena-178261127113731174.chn",
@@ -1287,19 +1300,6 @@
       "published_at": null,
       "crawled_at": "2026-11-14T09:57:37.138866",
       "category": "esports",
-      "priority": 2
-    },
-    {
-      "id": "cf120d60baa1",
-      "title": "Loạt khoảnh khắc ấn tượng: Nữ game thủ Liên Quân cầm mic, khuấy động sân khấu tựa game mình yêu!",
-      "link": "https://gamek.vn/loat-khoanh-khac-an-tuong-nu-game-thu-lien-quan-cam-mic-khuay-dong-san-khau-tua-game-minh-yeu-178261111142219026.chn",
-      "summary": "Giữa bầu không khí sục sôi của đại hội âm nhạc cuối tuần qua tại Liên Quân 10 Fest, sự xuất hiện của nữ game thủ sở hữu tài năng nghệ thuật vượt trội trở thành tâm điểm thu hút mọi ánh nhìn.",
-      "image_url": "https://gamek.mediacdn.vn/133514250583805952/2026/11/11/avatar1794381614571-17943816147911775904136.jpg",
-      "source": "GameK.vn",
-      "source_url": "https://gamek.vn/rss",
-      "published_at": null,
-      "crawled_at": "2026-11-11T10:32:54.820988",
-      "category": "tin tức",
       "priority": 2
     }
   ]
